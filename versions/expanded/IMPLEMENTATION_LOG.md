@@ -54,6 +54,18 @@ Implemented in the repaired installable pack:
 ### Not yet verified
 The seating's walking clearance, player movement, and sightlines to the ring need an in-game check. The Capsule lamps need a night-time lighting review. These additions are structural first passes, not a finished stadium or city.
 
+## Iteration 3 — Kame House shoreline access
+
+Implemented in the repaired installable pack:
+
+- versions/patched/data/dblobby/function/regions/kame_dock_details.mcfunction
+
+- Extends the original wooden dock over the shoreline into a wider landing pier.
+- Adds four dark-oak support piles, low side rails, two lantern posts, and mooring bollards.
+- Overlaps the existing dock endpoint intentionally so the old and new sections join.
+
+The dock's exact relationship to the generated shoreline and waterline still needs an in-game check.
+
 ## Next build priorities
 
 1. Build a welcome / navigation pavilion with clear placeholder stations for rules, portals, and future NPCs.
