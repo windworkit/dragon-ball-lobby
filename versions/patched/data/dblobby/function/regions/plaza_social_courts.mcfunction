@@ -1,6 +1,6 @@
 # PLAZA SOCIAL COURTS — four compact seating bays just outside the rotunda.
 # The courts stay clear of the cardinal roads, compass medallions, gardens, and NPC stations.
-# Northeast court
+# Southeast court
 fill ~21 ~0 ~8 ~27 ~0 ~14 minecraft:cut_sandstone
 fill ~22 ~1 ~9 ~26 ~1 ~9 minecraft:dark_oak_slab
 fill ~22 ~1 ~13 ~26 ~1 ~13 minecraft:dark_oak_slab
@@ -10,7 +10,7 @@ setblock ~21 ~1 ~9 minecraft:lantern
 setblock ~27 ~1 ~13 minecraft:lantern
 setblock ~21 ~1 ~13 minecraft:flower_pot
 setblock ~27 ~1 ~9 minecraft:flower_pot
-# Southeast court
+# Northeast court
 fill ~21 ~0 ~-14 ~27 ~0 ~-8 minecraft:cut_sandstone
 fill ~22 ~1 ~-13 ~26 ~1 ~-13 minecraft:dark_oak_slab
 fill ~22 ~1 ~-9 ~26 ~1 ~-9 minecraft:dark_oak_slab
@@ -20,7 +20,7 @@ setblock ~21 ~1 ~-13 minecraft:lantern
 setblock ~27 ~1 ~-9 minecraft:lantern
 setblock ~21 ~1 ~-9 minecraft:flower_pot
 setblock ~27 ~1 ~-13 minecraft:flower_pot
-# Northwest court
+# Southwest court
 fill ~-27 ~0 ~8 ~-21 ~0 ~14 minecraft:cut_sandstone
 fill ~-26 ~1 ~9 ~-22 ~1 ~9 minecraft:dark_oak_slab
 fill ~-26 ~1 ~13 ~-22 ~1 ~13 minecraft:dark_oak_slab
@@ -30,7 +30,7 @@ setblock ~-27 ~1 ~9 minecraft:lantern
 setblock ~-21 ~1 ~13 minecraft:lantern
 setblock ~-27 ~1 ~13 minecraft:flower_pot
 setblock ~-21 ~1 ~9 minecraft:flower_pot
-# Southwest court
+# Northwest court
 fill ~-27 ~0 ~-14 ~-21 ~0 ~-8 minecraft:cut_sandstone
 fill ~-26 ~1 ~-13 ~-22 ~1 ~-13 minecraft:dark_oak_slab
 fill ~-26 ~1 ~-9 ~-22 ~1 ~-9 minecraft:dark_oak_slab
