@@ -1,8 +1,10 @@
 tellraw @s {"text":"Dragon Ball Lobby datapack commands","color":"gold","bold":true}
+tellraw @s {"text":"/function dblobby:hub — show the player-facing hub guide and district directions","color":"yellow"}
 tellraw @s {"text":"/function dblobby:generate — generate the complete lobby around your position","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/central_spawn — rebuild the central spawn plaza","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/plaza_gardens — add the four landscaped spawn gardens","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/plaza_dragon_ball — rebuild the floating Dragon Ball centerpiece","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/spawn_rotunda — build the central hub crown, columns, seating, and approach markers","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/plaza_gate_accents — recolor the four directional gateway caps","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/capsule_city — build Capsule Corporation district","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/capsule_city_detail — add residential blocks, rooftop gardens, and HQ forecourt details","color":"yellow"}
