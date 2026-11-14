@@ -64,6 +64,7 @@ an in-game test.
 | Detail | Relative footprint | Purpose |
 | --- | --- | --- |
 | Capsule boulevard lamps | X -26..-22 and 22..26; Z -182..-80 | Ten matching quartz-and-light-blue street lamps with sea-lantern cores |
+| Capsule HQ entrance | X -19..+19, Z -152..-137, Y 1..12 | Centered south-facing doorway, quartz-and-blue entrance frame, forecourt steps, paired lamps, and low planters |
 | Tournament north seating | X 101..169; Z -37..-26; Y 2..5 | Four stepped spectator rows |
 | Tournament south seating | X 101..169; Z 26..37; Y 2..5 | Matching four stepped spectator rows |
 | Tournament corner pylons | X 98..100 and 170..172; Z -38..-36 and 36..38; Y 2..8 | Four illuminated seating-entry markers |
