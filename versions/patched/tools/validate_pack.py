@@ -12,7 +12,7 @@ FUNCTION_ROOT = ROOT / "data" / "dblobby" / "function"
 MAX_FILL_BLOCKS = 32_768
 EXPECTED_REGIONS = {
     "central_spawn", "capsule_city", "tournament", "kame_house",
-    "kamis_lookout", "shenron_valley", "roads_and_waypoints",
+    "kamis_lookout", "shenron_valley", "roads_and_waypoints", "plaza_gardens",
 }
 FUNCTION_REF = re.compile(r"^function\s+([a-z0-9_.-]+:[a-z0-9_./-]+)\s*$")
 FILL = re.compile(
@@ -47,6 +47,16 @@ def main() -> int:
         errors.append("missing required region functions: " + ", ".join(missing_regions))
     if extra_regions:
         print("INFO: additional region functions: " + ", ".join(extra_regions))
+
+    generator = FUNCTION_ROOT / "generate.mcfunction"
+    if not generator.is_file():
+        errors.append("missing core function: generate.mcfunction")
+    else:
+        generator_text = generator.read_text(encoding="utf-8")
+        for region in sorted(EXPECTED_REGIONS):
+            reference = f"function dblobby:regions/{region}"
+            if reference not in generator_text:
+                errors.append(f"generate.mcfunction: missing call to {reference}")
 
     for path in functions:
         for number, raw_line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
