@@ -1,0 +1,28 @@
+name: Audit expanded lobby layout
+
+on:
+  push:
+    paths:
+      - "versions/patched/data/dblobby/function/regions/**"
+      - "versions/expanded/tools/audit_regions.py"
+      - ".github/workflows/audit-expanded-layout.yml"
+  pull_request:
+    paths:
+      - "versions/patched/data/dblobby/function/regions/**"
+      - "versions/expanded/tools/audit_regions.py"
+      - ".github/workflows/audit-expanded-layout.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Measure region bounds and command safety
+        run: python versions/expanded/tools/audit_regions.py
