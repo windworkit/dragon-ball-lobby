@@ -42,9 +42,12 @@ The other 405 fill commands across the datapack are within the limit. The
 recovered source has 501 function lines in total. No malformed fill syntax was
 found by the scan.
 
-A repair proposal is documented in
-`PATCHES/shenron-fill-limit-fix.md`. Do not run the unpatched original
-generator expecting the Shenron Valley terrain layers to complete.
+A repeatable patch generator is available at
+`tools/patch_shenron.py`; it writes a repaired copy under `versions/patched/`
+without changing the preserved original. A patched Shenron Valley function
+has been committed and independently checked: 112 lines, 63 fill commands,
+maximum fill volume 30,008, and zero oversized fills. Do not run the unpatched
+original generator expecting the Shenron Valley terrain layers to complete.
 
 ## Test limitations
 
