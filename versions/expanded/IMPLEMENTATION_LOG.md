@@ -66,6 +66,18 @@ Implemented in the repaired installable pack:
 
 The dock's exact relationship to the generated shoreline and waterline still needs an in-game check.
 
+## Iteration 4 — Kami's Lookout upper-deck sanctuary
+
+Implemented in the repaired installable pack:
+
+- `versions/patched/data/dblobby/function/regions/lookout_sanctuary_details.mcfunction`
+- Adds a gold-bordered practice court on the open east wing of the existing upper platform.
+- Adds a small moss-and-cherry meditation garden on the west wing, with lantern accents and stone seating.
+- Adds four matching illuminated corner pylons to make the elevated platform easier to read at night.
+- Integrated into full generation and exposed as an independent rebuild command.
+
+The details are positioned outside the central palace footprint and sit on the existing platform at Y+28. Their appearance, collision, and clearance still need in-game inspection.
+
 ## Next build priorities
 
 1. Build a welcome / navigation pavilion with clear placeholder stations for rules, portals, and future NPCs.
