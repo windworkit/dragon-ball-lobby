@@ -10,6 +10,7 @@ function dblobby:regions/tournament_seating
 function dblobby:regions/kame_house
 function dblobby:regions/kame_dock_details
 function dblobby:regions/kamis_lookout
+function dblobby:regions/lookout_sanctuary_details
 function dblobby:regions/shenron_valley
 function dblobby:regions/roads_and_waypoints
 spawnpoint @s ~ ~3 ~
