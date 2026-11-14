@@ -30,6 +30,7 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [ ] Tournament: stadium bowl, ring, forecourt, spectator access, and event staging.
 - [x] Add stepped north/south spectator banks and illuminated entry pylons.
 - [ ] Kame House: shoreline, dock, palms, paths, and complete exterior.
+- [x] Extend the existing dock into a lantern-lit pier with support piles and safety rails.
 - [ ] Kami's Lookout: readable vertical approach, safe access, and finished platform.
 - [ ] Shenron Valley: dragon silhouette, seven Dragon Ball displays, terraces, and viewing area.
 
