@@ -37,6 +37,7 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [ ] Shenron Valley: dragon silhouette, seven Dragon Ball displays, terraces, and viewing area.
 - [x] Add a first-pass south-side visitor terrace with an open north-facing sightline, seating bays, safety rails, and four lantern columns.
 - [x] Add low matching garden beds and lantern markers flanking the terrace approach, keeping the central path clear.
+- [x] Add an ornamental southern entry gate and a clear approach from the visitor terrace.
 
 **Exit gate:** each district looks intentional from both close range and the main travel approach.
 
