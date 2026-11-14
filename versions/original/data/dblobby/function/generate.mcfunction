@@ -1,0 +1,10 @@
+tellraw @s {"text":"[Dragon Ball Lobby] Generating the world around your current position. This is a large build; use a fresh/backup world.","color":"gold"}
+function dblobby:regions/central_spawn
+function dblobby:regions/capsule_city
+function dblobby:regions/tournament
+function dblobby:regions/kame_house
+function dblobby:regions/kamis_lookout
+function dblobby:regions/shenron_valley
+function dblobby:regions/roads_and_waypoints
+spawnpoint @s ~ ~3 ~
+tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
