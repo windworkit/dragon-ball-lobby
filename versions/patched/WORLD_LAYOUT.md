@@ -61,6 +61,19 @@ Four compact display stations are built into the diagonal side bays around the c
 
 The rotunda is intentionally open-air and elevated above the player route. Its center roof aperture preserves a clear view of the Dragon Ball. Use `/function dblobby:hub` in-game for the player-facing district guide; `/function dblobby:help` remains the builder command list.
 
+## Plaza social seating and compass inlays
+
+Four low sandstone courts sit in the diagonal side bays around the rotunda:
+- Northeast: X +21..+27, Z -14..-8
+- Southeast: X +21..+27, Z +8..+14
+- Southwest: X -27..-21, Z +8..+14
+- Northwest: X -27..-21, Z -14..-8
+
+Each court has paired dark-oak benches, fence backrests, lanterns, and small
+planter accents. Four flush one-block-wide colored floor inlays connect the
+arrival pad toward the cardinal medallions: blue north, red east, yellow south,
+and pink west. They stop before the outer road lanes.
+
 ## Central plaza detail coordinates
 
 These are exact command footprints for the new decorative pass, relative to
