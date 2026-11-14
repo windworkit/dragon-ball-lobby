@@ -18,6 +18,10 @@ Implemented in the repaired installable pack:
 - Starts at Y +8 so the existing ground-level arrival area remains open.
 - The motif faces south in this first pass.
 
+### Directional gateways
+- Recolors the four existing gateway caps to match the cardinal route markers: north blue, east red, west pink, south yellow.
+- Uses only the existing cap footprint, so it does not narrow the walking lanes or add new obstructions.
+
 ### Integration
 - Both new regions run automatically during full generation.
 - Each can be rebuilt independently with its own /function dblobby:regions/... command.
