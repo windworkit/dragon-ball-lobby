@@ -6,6 +6,7 @@ tellraw @s {"text":"/function dblobby:regions/plaza_dragon_ball — rebuild the 
 tellraw @s {"text":"/function dblobby:regions/plaza_gate_accents — recolor the four directional gateway caps","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/capsule_city — build Capsule Corporation district","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/capsule_boulevard_lighting — rebuild Capsule Corp boulevard lamps","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/capsule_hq_entrance — rebuild the Capsule Corp headquarters entrance and forecourt","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/tournament — build the martial arts arena","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/tournament_seating — rebuild tournament spectator seating","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kame_house — build the tropical island","color":"yellow"}
