@@ -8,15 +8,17 @@ fill ~-159 ~-18 ~151 ~-151 ~100 ~151 minecraft:cut_sandstone
 fill ~-159 ~-18 ~159 ~-151 ~100 ~159 minecraft:cut_sandstone
 # Climb ladder on the west interior wall.
 fill ~-158 ~-17 ~153 ~-158 ~100 ~153 minecraft:ladder[facing=east]
-# Rest platforms at regular intervals; the ladder opening remains clear.
+# Ground-level approach corridor connects the entry arch to the shaft.
+fill ~-158 ~-19 ~145 ~-152 ~-19 ~151 minecraft:smooth_sandstone
+# Rest platforms at regular intervals; a 3x3 ladder opening remains clear.
 fill ~-158 ~0 ~152 ~-152 ~0 ~158 minecraft:smooth_sandstone
-fill ~-157 ~0 ~153 ~-153 ~0 ~157 minecraft:air
+fill ~-158 ~0 ~152 ~-156 ~0 ~154 minecraft:air
 fill ~-158 ~25 ~152 ~-152 ~25 ~158 minecraft:smooth_sandstone
-fill ~-157 ~25 ~153 ~-153 ~25 ~157 minecraft:air
+fill ~-158 ~25 ~152 ~-156 ~25 ~154 minecraft:air
 fill ~-158 ~50 ~152 ~-152 ~50 ~158 minecraft:smooth_sandstone
-fill ~-157 ~50 ~153 ~-153 ~50 ~157 minecraft:air
+fill ~-158 ~50 ~152 ~-156 ~50 ~154 minecraft:air
 fill ~-158 ~75 ~152 ~-152 ~75 ~158 minecraft:smooth_sandstone
-fill ~-157 ~75 ~153 ~-153 ~75 ~157 minecraft:air
+fill ~-158 ~75 ~152 ~-156 ~75 ~154 minecraft:air
 # Lit rest alcoves on alternating sides.
 setblock ~-154 ~1 ~154 minecraft:lantern
 setblock ~-154 ~26 ~154 minecraft:lantern
