@@ -214,3 +214,8 @@ a populated world.
 ## Gateway architectural finishing pass
 
 A final gateway detail region adds wider stone or quartz footing caps, colored vertical inset panels, lantern highlights, and one-block-wide flush threshold strips on both sides of each arch. The supports remain outside the five-block-wide road lanes. North uses blue/light-blue, east red/orange, south gold/yellow, and west pink/magenta. The threshold strips are decorative floor markers, not teleporters or portal blocks.
+
+
+## District approach markers
+
+The four main roads now have repeated paired light pylons to establish a visual rhythm between the central plaza and each destination. North uses quartz and Capsule blue; east uses deepslate and tournament red; west uses sandstone and Kame pink; south uses quartz and Kami gold. Markers sit outside the five-block walking lanes. The southern pair is offset farther from center to clear the Lookout tower shaft.
