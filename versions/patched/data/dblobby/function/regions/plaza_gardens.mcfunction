@@ -11,7 +11,7 @@ fill ~-30 ~6 ~-31 ~-26 ~8 ~-25 minecraft:cherry_leaves
 setblock ~-28 ~8 ~-28 minecraft:flowering_azalea_leaves
 setblock ~-32 ~2 ~-28 minecraft:azure_bluet
 setblock ~-24 ~2 ~-28 minecraft:white_tulip
-setblock ~-28 ~2 ~-32 minecraft:pink_tulips
+setblock ~-28 ~2 ~-32 minecraft:pink_tulip
 setblock ~-28 ~2 ~-24 minecraft:oxeye_daisy
 # Northeast planter
 fill ~21 ~1 ~-35 ~35 ~1 ~-21 minecraft:smooth_quartz
@@ -24,7 +24,7 @@ fill ~26 ~6 ~-31 ~30 ~8 ~-25 minecraft:cherry_leaves
 setblock ~28 ~8 ~-28 minecraft:flowering_azalea_leaves
 setblock ~24 ~2 ~-28 minecraft:azure_bluet
 setblock ~32 ~2 ~-28 minecraft:white_tulip
-setblock ~28 ~2 ~-32 minecraft:pink_tulips
+setblock ~28 ~2 ~-32 minecraft:pink_tulip
 setblock ~28 ~2 ~-24 minecraft:oxeye_daisy
 # Southwest planter
 fill ~-35 ~1 ~21 ~-21 ~1 ~35 minecraft:smooth_quartz
@@ -37,7 +37,7 @@ fill ~-30 ~6 ~25 ~-26 ~8 ~31 minecraft:cherry_leaves
 setblock ~-28 ~8 ~28 minecraft:flowering_azalea_leaves
 setblock ~-32 ~2 ~28 minecraft:azure_bluet
 setblock ~-24 ~2 ~28 minecraft:white_tulip
-setblock ~-28 ~2 ~24 minecraft:pink_tulips
+setblock ~-28 ~2 ~24 minecraft:pink_tulip
 setblock ~-28 ~2 ~32 minecraft:oxeye_daisy
 # Southeast planter
 fill ~21 ~1 ~21 ~35 ~1 ~35 minecraft:smooth_quartz
@@ -50,5 +50,5 @@ fill ~26 ~6 ~25 ~30 ~8 ~31 minecraft:cherry_leaves
 setblock ~28 ~8 ~28 minecraft:flowering_azalea_leaves
 setblock ~24 ~2 ~28 minecraft:azure_bluet
 setblock ~32 ~2 ~28 minecraft:white_tulip
-setblock ~28 ~2 ~24 minecraft:pink_tulips
+setblock ~28 ~2 ~24 minecraft:pink_tulip
 setblock ~28 ~2 ~32 minecraft:oxeye_daisy
