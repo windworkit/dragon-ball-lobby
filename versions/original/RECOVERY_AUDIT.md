@@ -1,40 +1,54 @@
 # Original 1.0 recovery audit
 
-The original archive is preserved byte-for-byte outside this repository while its source is being restored.
+The original archive was recovered from the saved project files and its exact
+archive hash was checked locally.
 
 - Archive: `DragonBallLobby-Datapack-1.0.zip`
 - Size: 9,528 bytes
 - SHA-256: `60b258dad9d3603e2ab7817fd012445d8df6b0b15ad6bd42d12421363c724040`
-- Git blob SHA-1 (expected for the exact ZIP): `4ae4389154796896dafe99de79402d3d4f103f51`
-- Entries: 13 (10 function files, pack metadata, load tag, README)
+- Expected Git blob SHA-1: `4ae4389154796896dafe99de79402d3d4f103f51`
+- Archive entries: 13 (10 function files, pack metadata, load tag, README)
 - Target: Minecraft Java 1.21.1, pack format 48
 
-## Validation findings
+## Source recovery status
 
-A static scan of all ten function files found three `fill` commands in
-`regions/shenron_valley.mcfunction` that exceed Minecraft's 32,768-block
-per-fill limit:
+Six of the seven original region functions have been restored to this folder
+and individually verified against the original local files using Git blob
+SHA-1 hashes:
 
-| Original line | Requested volume | Problem |
+- `central_spawn.mcfunction`
+- `kame_house.mcfunction`
+- `kamis_lookout.mcfunction`
+- `roads_and_waypoints.mcfunction`
+- `shenron_valley.mcfunction`
+- `tournament.mcfunction`
+
+The remaining region file is `capsule_city.mcfunction` (214 lines). The
+original README, pack metadata, load tag, and three core functions are also
+preserved here. The binary ZIP itself has not yet been committed.
+
+## Static validation findings
+
+A full scan of all ten original function files found exactly three oversized
+`fill` commands, all in `regions/shenron_valley.mcfunction`:
+
+| Original line | Requested volume | Result |
 | ---: | ---: | --- |
-| 3 | 119,064 | Too large; command will fail |
-| 4 | 88,168 | Too large; command will fail |
-| 5 | 57,768 | Too large; command will fail |
+| 3 | 119,064 | Exceeds 32,768 |
+| 4 | 88,168 | Exceeds 32,768 |
+| 5 | 57,768 | Exceeds 32,768 |
 
-All other `fill` commands in the original archive are within the limit.
-This is a static command-volume check, not an in-game execution test.
+The other 341 fill commands across the datapack are within the limit. The
+recovered source has 501 function lines in total. No malformed fill syntax was
+found by the scan.
 
-## Required repair before using the original
+A repair proposal is documented in
+`PATCHES/shenron-fill-limit-fix.md`. Do not run the unpatched original
+generator expecting the Shenron Valley terrain layers to complete.
 
-Split the three oversized Shenron Valley fills into smaller X-axis slices,
-keeping each slice at or below 32,768 blocks. Preserve the original material,
-coordinates, and ordering. Do not run the unpatched original generator in a
-world expecting the Shenron Valley terrain layers to complete.
+## Test limitations
 
-## Recovery status
-
-The original archive and its complete contents have been recovered and
-verified locally. The repository's `versions/original/` folder currently
-contains the original core functions and metadata, but not yet all seven
-region source files or the binary ZIP. The separate `datapack/` working
-implementation is intentionally untouched.
+These are static checks only. They do not execute Minecraft, verify every
+block identifier against the target runtime, or prove the resulting build
+looks correct. Test in a disposable 1.21.1 world before using it on a valued
+world. The separate `datapack/` working implementation remains untouched.
