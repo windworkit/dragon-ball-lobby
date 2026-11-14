@@ -6,23 +6,20 @@ reference for the lobby; choose a broad, open test area.
 
 ```text
                          NORTH (-Z)
-                 Capsule Corporation city district
-                       (Z -202 to -63)
+                 CAPSULE CORPORATION CITY
+                    (Z -202 to -63)
 
- Korin's Tower landmark
- (X -184 to -126, Z +126 to +184)
+WEST (-X)                                           EAST (+X)
+KAME HOUSE ISLAND       CENTRAL SPAWN              WORLD TOURNAMENT
+(X -202 to -62)            (origin)                (X +65 to +205)
 
- WEST (-X)                                        EAST (+X)
- Kame House           CENTRAL SPAWN              Tournament Arena
- island               plaza                      (X +65 to +205)
- (X -202 to -62)      (origin)
+KORIN'S TOWER                                      SHENRON VALLEY
+(X -184..-126,                                      (X +72..+233,
+ Z +126..+184)                                       Z -208..-66)
 
- Korin's Tower                                  Shenron Valley
- (X -184..-126, Z +126..+184)                  (X +72..+233,
-                                                Z -208..-66)
                          SOUTH (+Z)
-                    Kami's Lookout palace
-                       (Z +91 to +188)
+                    KAMI'S LOOKOUT
+                    (Z +91 to +188)
 ```
 
 ## Region footprints
@@ -41,6 +38,12 @@ reference for the lobby; choose a broad, open test area.
 
 These are approximate bounding boxes inferred from the function coordinates,
 not a promise that every block inside the box is filled.
+
+## District gateways and guide pavilion
+
+The four gateway arches are centered on the cardinal roads at approximately 45 blocks from spawn. Their piers sit outside the five-wide walking lane; the centerline is kept clear. North is blue for Capsule City, east red for the World Tournament, west pink for Kame House, and south yellow for Kami's Lookout. Shenron Valley branches into the northeast city region; Korin's Tower occupies the southwest beyond Kame House.
+
+The information pavilion sits beside the north road at X +12..+30, Z -59..-40, Y -1..+8. It contains a covered counter, lectern/cartography station, light-blue glazing, and a simple Dragon Ball color motif. It is deliberately outside the road corridor. `/function dblobby:hub` remains the reliable text guide.
 
 ## Central hub rotunda
 
@@ -185,7 +188,7 @@ a populated world.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator now runs thirty region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
+- The generator now runs thirty-two region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
 - The expanded lookout adds broad platform wings, a layered palace hall, side galleries, a taller decorated tower shaft, and monumental corner pylons. The training court and garden are added afterward on the enlarged deck. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
