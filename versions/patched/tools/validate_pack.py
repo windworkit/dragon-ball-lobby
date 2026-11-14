@@ -15,6 +15,7 @@ EXPECTED_REGIONS = {
     "kamis_lookout", "lookout_sanctuary_details", "shenron_valley", "roads_and_waypoints", "plaza_gardens", "plaza_dragon_ball", "plaza_gate_accents", "capsule_boulevard_lighting", "capsule_hq_entrance", "tournament_seating", "kame_dock_details", "shenron_viewing_terrace", "shenron_valley_garden", "shenron_valley_entry_gate",
     "shenron_giant_form", "kamis_lookout_expansion", "korins_tower",
     "capsule_city_detail", "tournament_stadium_detail", "kame_island_detail",
+    "kame_house_interior", "capsule_hq_interior", "korins_tower_access", "kamis_lookout_interior",
 }
 FUNCTION_REF = re.compile(r"^function\s+([a-z0-9_.-]+:[a-z0-9_./-]+)\s*$")
 FILL = re.compile(
