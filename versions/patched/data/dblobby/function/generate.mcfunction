@@ -20,6 +20,7 @@ function dblobby:regions/kame_house
 function dblobby:regions/kame_island_detail
 function dblobby:regions/kame_house_interior
 function dblobby:regions/kame_dock_details
+function dblobby:regions/kame_island_arrival
 function dblobby:regions/kamis_lookout
 function dblobby:regions/kamis_lookout_expansion
 function dblobby:regions/kamis_lookout_access
