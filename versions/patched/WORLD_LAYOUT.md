@@ -80,6 +80,16 @@ outside; inspect the doorway and threshold in-game before relying on it. Tournam
 space between the central ring and the existing perimeter wall. Exact sightlines
 and player access still need in-game review.
 
+## Second-pass district details
+
+| Detail | Relative footprint | Purpose |
+| --- | --- | --- |
+| Capsule City streetscape | X -76..+76, Z -185..-73, Y 0..19 | Adds smaller residential and workshop blocks, rooftop planting, boulevard pylons, and HQ forecourt lighting. |
+| Tournament stadium expansion | X +77..+193, Z -61..+61, Y 1..21 | Adds an outer concourse, upper spectator tiers, roofline canopy wings, corner pylons, and three entry portals. The central ring remains uncovered. |
+| Kame House island detail | X -198..-81, Z -40..+41, Y -4..+9 | Adds beach pathing, palm trees, umbrellas, a training garden, outdoor seating, and shoreline lighting. |
+
+These additions are a first visual-detail pass. The stadium canopy is intentionally limited to the perimeter so the fighting ring remains visible from above. Check for overlaps with the existing district shells and confirm the new ground-level routes in-game.
+
 ## Shenron Valley viewing terrace
 
 | Detail | Relative footprint | Purpose |
@@ -141,7 +151,7 @@ a populated world.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator now runs twenty-one region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
+- The generator now runs twenty-four region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
 - The expanded lookout adds broad platform wings, a layered palace hall, side galleries, a taller decorated tower shaft, and monumental corner pylons. The training court and garden are added afterward on the enlarged deck. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
