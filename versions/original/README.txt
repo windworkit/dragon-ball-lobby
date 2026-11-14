@@ -39,3 +39,4 @@ singular `function` folder required by Minecraft 1.21+.
 ## Mod compatibility
 Vanilla blocks only for now. Later, selected blocks can be changed to your
 Dragon Ball mod's registered block IDs once those IDs are stable.
+
