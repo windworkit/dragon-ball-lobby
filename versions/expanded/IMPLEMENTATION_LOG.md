@@ -104,6 +104,19 @@ Implemented in the repaired installable pack:
 
 This is a structural first pass. The exact ground transition, stair orientation, player collision, and sightline to Shenron still require a Minecraft 1.21.1 in-game review.
 
+
+## Iteration 7 — Shenron Valley approach gardens
+
+Implemented in the repaired installable pack:
+
+- `versions/patched/data/dblobby/function/regions/shenron_valley_garden.mcfunction`
+- Adds matching low moss-and-stone garden beds along the south edge of the Dragon Ball display shelf.
+- Uses cherry leaves, flowering azalea leaves, and small flower accents for a softer transition into the visitor terrace.
+- Keeps a nine-block-wide polished-andesite center approach open and adds two low lantern markers at its outer edges.
+- Integrated into full generation, exposed as an independent rebuild command, and added to required-region static validation.
+
+This is a first landscape pass. Confirm the path connection, plant placement, and sightlines in Minecraft before treating the area as finished.
+
 ## Next build priorities
 
 1. Build a welcome / navigation pavilion with clear placeholder stations for rules, portals, and future NPCs.
