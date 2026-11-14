@@ -23,3 +23,13 @@ jobs:
           python-version: "3.x"
       - name: Validate patched datapack
         run: python versions/patched/tools/validate_pack.py
+      - name: Package patched datapack
+        run: |
+          cd versions/patched
+          zip -r ../../DragonBallLobby-Patched-1.0.zip pack.mcmeta data
+      - name: Upload installable datapack
+        uses: actions/upload-artifact@v4
+        with:
+          name: DragonBallLobby-Patched-1.0
+          path: DragonBallLobby-Patched-1.0.zip
+          if-no-files-found: error
