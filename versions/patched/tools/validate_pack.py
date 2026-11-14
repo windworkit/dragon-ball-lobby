@@ -16,7 +16,7 @@ EXPECTED_REGIONS = {
     "shenron_giant_form", "kamis_lookout_expansion", "korins_tower",
     "capsule_city_detail", "tournament_stadium_detail", "kame_island_detail",
     "kame_house_interior", "capsule_hq_interior", "korins_tower_access", "kamis_lookout_interior",
-    "shenron_surface_detail", "kamis_lookout_access", "spawn_rotunda", "hub_guide_pavilion",
+    "shenron_surface_detail", "kamis_lookout_access", "spawn_rotunda", "hub_guide_pavilion", "plaza_npc_stations",
 }
 FUNCTION_REF = re.compile(r"^function\s+([a-z0-9_.-]+:[a-z0-9_./-]+)\s*$")
 FILL = re.compile(
