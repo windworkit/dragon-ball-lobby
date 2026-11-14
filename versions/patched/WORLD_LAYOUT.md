@@ -29,6 +29,7 @@ reference for the lobby; choose a broad, open test area.
 | Tournament | X +65 to +205, Z -70 to +70 |
 | Kame House | X -202 to -62, Z -62 to +62 |
 | Kami's Lookout | X -45 to +47, Z +91 to +188 |
+| Lookout upper-deck details | East training court X +17..+31, Z +131..+147; west meditation garden X -31..-17, Z +131..+147; four corner lights at the platform edges |
 | Shenron Valley | X +72 to +214, Z -208 to -66 |
 | Roads and waypoints | Main cardinal roads extending to about 118 blocks |
 
@@ -91,6 +92,7 @@ a populated world.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator currently runs all thirteen regions in one function call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
+- The generator currently runs all fourteen regions in one function call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
+- The lookout training court, garden, and corner lights sit on the existing Y+28 deck, outside the central palace footprint. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
