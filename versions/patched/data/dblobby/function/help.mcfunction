@@ -11,9 +11,12 @@ tellraw @s {"text":"/function dblobby:regions/tournament — build the martial a
 tellraw @s {"text":"/function dblobby:regions/tournament_seating — rebuild tournament spectator seating","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kame_house — build the tropical island","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kame_dock_details — rebuild the Kame House dock and lanterns","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/kamis_lookout — build the elevated lookout","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/kamis_lookout — build the elevated lookout foundation","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/kamis_lookout_expansion — expand Kami’s Lookout into a monumental palace and sky platform","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/korins_tower — build Korin’s colossal tower and summit pavilion","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/lookout_sanctuary_details — add the upper-deck training court, garden, and lights","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/shenron_valley — build the Dragon Ball valley centerpiece","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/shenron_valley — build the Dragon Ball valley foundation","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/shenron_giant_form — add the giant raised Shenron landmark","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_viewing_terrace — rebuild the visitor terrace south of Shenron","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_valley_garden — rebuild the landscaped approach gardens","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_valley_entry_gate — rebuild the southern Shenron Valley entry gate","color":"yellow"}
