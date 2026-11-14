@@ -8,6 +8,7 @@ function dblobby:regions/capsule_boulevard_lighting
 function dblobby:regions/tournament
 function dblobby:regions/tournament_seating
 function dblobby:regions/kame_house
+function dblobby:regions/kame_dock_details
 function dblobby:regions/kamis_lookout
 function dblobby:regions/shenron_valley
 function dblobby:regions/roads_and_waypoints
