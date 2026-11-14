@@ -90,6 +90,20 @@ Implemented in the repaired installable pack:
 
 The threshold was kept at the existing building floor height and the stair blocks sit outside the doorway. The passage, collision, and facade appearance still need an in-game visual check.
 
+
+## Iteration 6 — Shenron Valley visitor terrace
+
+Implemented in the repaired installable pack:
+
+- `versions/patched/data/dblobby/function/regions/shenron_viewing_terrace.mcfunction`
+- Adds a broad smooth-stone visitor deck on the shelf immediately south of the Shenron display.
+- Connects the deck to the moss-shelf edge with a short polished-andesite approach tongue.
+- Frames the sides and rear with low stone-brick and spruce-fence rails while leaving the north-facing view open.
+- Adds four compact dark-oak seating bays, a clear center aisle, four quartz lantern columns, and small planted rear-corner accents.
+- Integrated into full generation, exposed as an independent rebuild command, and added to the required-region static validator.
+
+This is a structural first pass. The exact ground transition, stair orientation, player collision, and sightline to Shenron still require a Minecraft 1.21.1 in-game review.
+
 ## Next build priorities
 
 1. Build a welcome / navigation pavilion with clear placeholder stations for rules, portals, and future NPCs.
