@@ -16,9 +16,9 @@ and all original region functions and the expanded decorative modules.
 
 ## What's included
 - Central spawn plaza with a floating one-star Dragon Ball centerpiece, four landscaped cherry-tree gardens, and four color-coded directional gateways and roads, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace with landscaped approach gardens and a gold-capped southern entry gate.
-- Capsule Corporation-inspired city block and glass towers, with a framed public HQ entrance, blue-accented forecourt, low planters, and paired lights.
-- World Martial Arts Tournament arena.
-- Kame House island.
+- Capsule Corporation-inspired city block and glass towers, expanded with residential/workshop buildings, rooftop greenery, boulevard pylons, illuminated forecourt details, and a framed public HQ entrance.
+- World Martial Arts Tournament stadium with expanded outer concourse, upper spectator tiers, roofline canopy wings, illuminated corner pylons, and multiple entry portals.
+- Kame House island with a curved beach approach, palm grove, beach umbrellas, outdoor seating, shoreline markers, and a dedicated training garden with practice posts.
 - Kami's Lookout expanded into a monumental white-and-red palace with a broad sky platform, ceremonial colonnade, observation wings, and a taller decorated tower shaft;
 - Shenron Valley with a giant raised Shenron dragon, layered green coils, gold belly plates, dorsal mane, horns, whiskers, seven Dragon Ball displays, and a south-side visitor viewing terrace with matching low garden borders, a clear center approach, and an ornamental southern entry gate.
 - Korin's Tower: a separate colossal terracotta tower with multiple balcony bands, vertical windows, a cloud-like foundation, and an elevated summit pavilion.
