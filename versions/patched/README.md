@@ -2,7 +2,7 @@
 
 This is the assembled Minecraft Java 1.21.1 datapack based on the recovered
 original 1.0 source. It contains the pack metadata, load tag, core functions,
-and all seven region functions.
+and all original region functions and the expanded decorative modules.
 
 ## Install
 1. Back up your world or create a disposable test world.
