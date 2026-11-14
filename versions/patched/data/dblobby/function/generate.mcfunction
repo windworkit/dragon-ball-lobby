@@ -38,5 +38,6 @@ function dblobby:regions/roads_and_waypoints
 function dblobby:regions/gateway_threshold_details
 function dblobby:regions/district_approach_lighting
 function dblobby:regions/plaza_gate_accents
+function dblobby:regions/plaza_art_direction
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
