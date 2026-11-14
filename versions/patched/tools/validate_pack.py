@@ -12,7 +12,7 @@ FUNCTION_ROOT = ROOT / "data" / "dblobby" / "function"
 MAX_FILL_BLOCKS = 32_768
 EXPECTED_REGIONS = {
     "central_spawn", "capsule_city", "tournament", "kame_house",
-    "kamis_lookout", "shenron_valley", "roads_and_waypoints", "plaza_gardens",
+    "kamis_lookout", "shenron_valley", "roads_and_waypoints", "plaza_gardens", "plaza_dragon_ball",
 }
 FUNCTION_REF = re.compile(r"^function\s+([a-z0-9_.-]+:[a-z0-9_./-]+)\s*$")
 FILL = re.compile(
