@@ -26,7 +26,9 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 
 ## Phase 2 — district polish
 - [ ] Capsule Corp: coherent streetscape, headquarters silhouette, courtyard, and reserved interiors.
+- [x] Add ten matching boulevard lamps along the Capsule Corp avenue.
 - [ ] Tournament: stadium bowl, ring, forecourt, spectator access, and event staging.
+- [x] Add stepped north/south spectator banks and illuminated entry pylons.
 - [ ] Kame House: shoreline, dock, palms, paths, and complete exterior.
 - [ ] Kami's Lookout: readable vertical approach, safe access, and finished platform.
 - [ ] Shenron Valley: dragon silhouette, seven Dragon Ball displays, terraces, and viewing area.
