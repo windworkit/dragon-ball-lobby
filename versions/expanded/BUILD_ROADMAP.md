@@ -14,6 +14,7 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 
 ## Phase 1 — central spawn experience
 - [ ] Rework the plaza into a finished arrival space with a recognizable centerpiece.
+- [x] Add a first landscaping pass: four symmetrical cherry-tree garden planters in the plaza corners.
 - [ ] Add four clear district approaches and consistent path borders.
 - [ ] Add welcome, navigation, rules, and help display areas.
 - [ ] Reserve portal pads and future NPC / quest locations.
