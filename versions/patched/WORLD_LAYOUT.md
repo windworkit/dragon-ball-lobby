@@ -58,12 +58,26 @@ placed in the plaza's diagonal corners; the four cardinal approach lanes remain
 clear at ground level. Visual clearance and multiplayer crowding still require
 an in-game test.
 
+## New district-detail footprints
+
+| Detail | Relative footprint | Purpose |
+| --- | --- | --- |
+| Capsule boulevard lamps | X -26..-22 and 22..26; Z -182..-80 | Ten matching quartz-and-light-blue street lamps with sea-lantern cores |
+| Tournament north seating | X 101..169; Z -37..-26; Y 2..5 | Four stepped spectator rows |
+| Tournament south seating | X 101..169; Z 26..37; Y 2..5 | Matching four stepped spectator rows |
+| Tournament corner pylons | X 98..100 and 170..172; Z -38..-36 and 36..38; Y 2..8 | Four illuminated seating-entry markers |
+
+The Capsule boulevard lamps are placed in the open strips outside the central
+headquarters and existing side buildings. Tournament seating occupies the
+space between the central ring and the existing perimeter wall. Exact sightlines
+and player access still need in-game review.
+
 ## Generation precautions
 
 - Make a fresh world or a complete backup first.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator currently runs all ten regions in one function call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
+- The generator currently runs all twelve regions in one function call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
