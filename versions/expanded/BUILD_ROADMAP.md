@@ -32,6 +32,7 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [ ] Kame House: shoreline, dock, palms, paths, and complete exterior.
 - [x] Extend the existing dock into a lantern-lit pier with support piles and safety rails.
 - [ ] Kami's Lookout: readable vertical approach, safe access, and finished platform.
+- [x] Add a distinct upper-deck training court, meditation garden, and four illuminated corner pylons.
 - [ ] Shenron Valley: dragon silhouette, seven Dragon Ball displays, terraces, and viewing area.
 
 **Exit gate:** each district looks intentional from both close range and the main travel approach.
