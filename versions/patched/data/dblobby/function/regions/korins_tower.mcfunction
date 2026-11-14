@@ -52,8 +52,8 @@ setblock ~-176 ~120 ~134 minecraft:sea_lantern
 setblock ~-134 ~120 ~134 minecraft:sea_lantern
 setblock ~-176 ~120 ~176 minecraft:sea_lantern
 setblock ~-134 ~120 ~176 minecraft:sea_lantern
-fill ~-156 ~129 ~-156 ~-154 ~143 ~-154 minecraft:gold_block
-fill ~-158 ~143 ~-158 ~-152 ~145 ~-152 minecraft:sea_lantern
+fill ~-156 ~129 ~154 ~-154 ~143 ~156 minecraft:gold_block
+fill ~-158 ~143 ~152 ~-152 ~145 ~158 minecraft:sea_lantern
 # Korin's cloud garden around the summit, with clear central landing.
 fill ~-181 ~106 ~130 ~-174 ~106 ~138 minecraft:white_wool
 fill ~-138 ~106 ~130 ~-130 ~106 ~138 minecraft:white_wool
