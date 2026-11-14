@@ -1,0 +1,190 @@
+setblock ~-76 ~1 ~-76 minecraft:lantern
+setblock ~-76 ~1 ~-64 minecraft:lantern
+setblock ~-76 ~1 ~-52 minecraft:lantern
+setblock ~-76 ~1 ~-40 minecraft:lantern
+setblock ~-76 ~1 ~-28 minecraft:lantern
+setblock ~-76 ~1 ~-16 minecraft:lantern
+setblock ~-76 ~1 ~-4 minecraft:lantern
+setblock ~-76 ~1 ~8 minecraft:lantern
+setblock ~-76 ~1 ~20 minecraft:lantern
+setblock ~-76 ~1 ~32 minecraft:lantern
+setblock ~-76 ~1 ~44 minecraft:lantern
+setblock ~-76 ~1 ~56 minecraft:lantern
+setblock ~-76 ~1 ~68 minecraft:lantern
+setblock ~-64 ~1 ~-76 minecraft:lantern
+setblock ~-64 ~1 ~-64 minecraft:lantern
+setblock ~-64 ~1 ~-52 minecraft:lantern
+setblock ~-64 ~1 ~-40 minecraft:lantern
+setblock ~-64 ~1 ~-28 minecraft:lantern
+setblock ~-64 ~1 ~-16 minecraft:lantern
+setblock ~-64 ~1 ~-4 minecraft:lantern
+setblock ~-64 ~1 ~8 minecraft:lantern
+setblock ~-64 ~1 ~20 minecraft:lantern
+setblock ~-64 ~1 ~32 minecraft:lantern
+setblock ~-64 ~1 ~44 minecraft:lantern
+setblock ~-64 ~1 ~56 minecraft:lantern
+setblock ~-64 ~1 ~68 minecraft:lantern
+setblock ~-52 ~1 ~-76 minecraft:lantern
+setblock ~-52 ~1 ~-64 minecraft:lantern
+setblock ~-52 ~1 ~-52 minecraft:lantern
+setblock ~-52 ~1 ~-40 minecraft:lantern
+setblock ~-52 ~1 ~-28 minecraft:lantern
+setblock ~-52 ~1 ~-16 minecraft:lantern
+setblock ~-52 ~1 ~-4 minecraft:lantern
+setblock ~-52 ~1 ~8 minecraft:lantern
+setblock ~-52 ~1 ~20 minecraft:lantern
+setblock ~-52 ~1 ~32 minecraft:lantern
+setblock ~-52 ~1 ~44 minecraft:lantern
+setblock ~-52 ~1 ~56 minecraft:lantern
+setblock ~-52 ~1 ~68 minecraft:lantern
+setblock ~-40 ~1 ~-76 minecraft:lantern
+setblock ~-40 ~1 ~-64 minecraft:lantern
+setblock ~-40 ~1 ~-52 minecraft:lantern
+setblock ~-40 ~1 ~-40 minecraft:lantern
+setblock ~-40 ~1 ~-28 minecraft:lantern
+setblock ~-40 ~1 ~-16 minecraft:lantern
+setblock ~-40 ~1 ~-4 minecraft:lantern
+setblock ~-40 ~1 ~8 minecraft:lantern
+setblock ~-40 ~1 ~20 minecraft:lantern
+setblock ~-40 ~1 ~32 minecraft:lantern
+setblock ~-40 ~1 ~44 minecraft:lantern
+setblock ~-40 ~1 ~56 minecraft:lantern
+setblock ~-40 ~1 ~68 minecraft:lantern
+setblock ~-28 ~1 ~-76 minecraft:lantern
+setblock ~-28 ~1 ~-64 minecraft:lantern
+setblock ~-28 ~1 ~-52 minecraft:lantern
+setblock ~-28 ~1 ~-40 minecraft:lantern
+setblock ~-28 ~1 ~32 minecraft:lantern
+setblock ~-28 ~1 ~44 minecraft:lantern
+setblock ~-28 ~1 ~56 minecraft:lantern
+setblock ~-28 ~1 ~68 minecraft:lantern
+setblock ~-16 ~1 ~-76 minecraft:lantern
+setblock ~-16 ~1 ~-64 minecraft:lantern
+setblock ~-16 ~1 ~-52 minecraft:lantern
+setblock ~-16 ~1 ~-40 minecraft:lantern
+setblock ~-16 ~1 ~32 minecraft:lantern
+setblock ~-16 ~1 ~44 minecraft:lantern
+setblock ~-16 ~1 ~56 minecraft:lantern
+setblock ~-16 ~1 ~68 minecraft:lantern
+setblock ~-4 ~1 ~-76 minecraft:lantern
+setblock ~-4 ~1 ~-64 minecraft:lantern
+setblock ~-4 ~1 ~-52 minecraft:lantern
+setblock ~-4 ~1 ~-40 minecraft:lantern
+setblock ~-4 ~1 ~32 minecraft:lantern
+setblock ~-4 ~1 ~44 minecraft:lantern
+setblock ~-4 ~1 ~56 minecraft:lantern
+setblock ~-4 ~1 ~68 minecraft:lantern
+setblock ~8 ~1 ~-76 minecraft:lantern
+setblock ~8 ~1 ~-64 minecraft:lantern
+setblock ~8 ~1 ~-52 minecraft:lantern
+setblock ~8 ~1 ~-40 minecraft:lantern
+setblock ~8 ~1 ~32 minecraft:lantern
+setblock ~8 ~1 ~44 minecraft:lantern
+setblock ~8 ~1 ~56 minecraft:lantern
+setblock ~8 ~1 ~68 minecraft:lantern
+setblock ~20 ~1 ~-76 minecraft:lantern
+setblock ~20 ~1 ~-64 minecraft:lantern
+setblock ~20 ~1 ~-52 minecraft:lantern
+setblock ~20 ~1 ~-40 minecraft:lantern
+setblock ~20 ~1 ~32 minecraft:lantern
+setblock ~20 ~1 ~44 minecraft:lantern
+setblock ~20 ~1 ~56 minecraft:lantern
+setblock ~20 ~1 ~68 minecraft:lantern
+setblock ~32 ~1 ~-76 minecraft:lantern
+setblock ~32 ~1 ~-64 minecraft:lantern
+setblock ~32 ~1 ~-52 minecraft:lantern
+setblock ~32 ~1 ~-40 minecraft:lantern
+setblock ~32 ~1 ~-28 minecraft:lantern
+setblock ~32 ~1 ~-16 minecraft:lantern
+setblock ~32 ~1 ~-4 minecraft:lantern
+setblock ~32 ~1 ~8 minecraft:lantern
+setblock ~32 ~1 ~20 minecraft:lantern
+setblock ~32 ~1 ~32 minecraft:lantern
+setblock ~32 ~1 ~44 minecraft:lantern
+setblock ~32 ~1 ~56 minecraft:lantern
+setblock ~32 ~1 ~68 minecraft:lantern
+setblock ~44 ~1 ~-76 minecraft:lantern
+setblock ~44 ~1 ~-64 minecraft:lantern
+setblock ~44 ~1 ~-52 minecraft:lantern
+setblock ~44 ~1 ~-40 minecraft:lantern
+setblock ~44 ~1 ~-28 minecraft:lantern
+setblock ~44 ~1 ~-16 minecraft:lantern
+setblock ~44 ~1 ~-4 minecraft:lantern
+setblock ~44 ~1 ~8 minecraft:lantern
+setblock ~44 ~1 ~20 minecraft:lantern
+setblock ~44 ~1 ~32 minecraft:lantern
+setblock ~44 ~1 ~44 minecraft:lantern
+setblock ~44 ~1 ~56 minecraft:lantern
+setblock ~44 ~1 ~68 minecraft:lantern
+setblock ~56 ~1 ~-76 minecraft:lantern
+setblock ~56 ~1 ~-64 minecraft:lantern
+setblock ~56 ~1 ~-52 minecraft:lantern
+setblock ~56 ~1 ~-40 minecraft:lantern
+setblock ~56 ~1 ~-28 minecraft:lantern
+setblock ~56 ~1 ~-16 minecraft:lantern
+setblock ~56 ~1 ~-4 minecraft:lantern
+setblock ~56 ~1 ~8 minecraft:lantern
+setblock ~56 ~1 ~20 minecraft:lantern
+setblock ~56 ~1 ~32 minecraft:lantern
+setblock ~56 ~1 ~44 minecraft:lantern
+setblock ~56 ~1 ~56 minecraft:lantern
+setblock ~56 ~1 ~68 minecraft:lantern
+setblock ~68 ~1 ~-76 minecraft:lantern
+setblock ~68 ~1 ~-64 minecraft:lantern
+setblock ~68 ~1 ~-52 minecraft:lantern
+setblock ~68 ~1 ~-40 minecraft:lantern
+setblock ~68 ~1 ~-28 minecraft:lantern
+setblock ~68 ~1 ~-16 minecraft:lantern
+setblock ~68 ~1 ~-4 minecraft:lantern
+setblock ~68 ~1 ~8 minecraft:lantern
+setblock ~68 ~1 ~20 minecraft:lantern
+setblock ~68 ~1 ~32 minecraft:lantern
+setblock ~68 ~1 ~44 minecraft:lantern
+setblock ~68 ~1 ~56 minecraft:lantern
+setblock ~68 ~1 ~68 minecraft:lantern
+fill ~-30 ~0 ~-30 ~-30 ~3 ~-30 minecraft:oak_log
+fill ~-32 ~3 ~-32 ~-28 ~5 ~-28 minecraft:oak_leaves
+fill ~-30 ~0 ~30 ~-30 ~3 ~30 minecraft:oak_log
+fill ~-32 ~3 ~28 ~-28 ~5 ~32 minecraft:oak_leaves
+fill ~30 ~0 ~-30 ~30 ~3 ~-30 minecraft:oak_log
+fill ~28 ~3 ~-32 ~32 ~5 ~-28 minecraft:oak_leaves
+fill ~30 ~0 ~30 ~30 ~3 ~30 minecraft:oak_log
+fill ~28 ~3 ~28 ~32 ~5 ~32 minecraft:oak_leaves
+fill ~-76 ~0 ~0 ~-76 ~3 ~0 minecraft:oak_log
+fill ~-78 ~3 ~-2 ~-74 ~5 ~2 minecraft:oak_leaves
+fill ~76 ~0 ~0 ~76 ~3 ~0 minecraft:oak_log
+fill ~74 ~3 ~-2 ~78 ~5 ~2 minecraft:oak_leaves
+fill ~0 ~0 ~-76 ~0 ~3 ~-76 minecraft:oak_log
+fill ~-2 ~3 ~-78 ~2 ~5 ~-74 minecraft:oak_leaves
+fill ~0 ~0 ~76 ~0 ~3 ~76 minecraft:oak_log
+fill ~-2 ~3 ~74 ~2 ~5 ~78 minecraft:oak_leaves
+setblock ~-24 ~1 ~-24 minecraft:flowering_azalea
+setblock ~-24 ~1 ~24 minecraft:flowering_azalea
+setblock ~-24 ~1 ~-24 minecraft:flowering_azalea
+setblock ~24 ~1 ~-24 minecraft:flowering_azalea
+setblock ~-16 ~1 ~-24 minecraft:flowering_azalea
+setblock ~-16 ~1 ~24 minecraft:flowering_azalea
+setblock ~-24 ~1 ~-16 minecraft:flowering_azalea
+setblock ~24 ~1 ~-16 minecraft:flowering_azalea
+setblock ~-8 ~1 ~-24 minecraft:flowering_azalea
+setblock ~-8 ~1 ~24 minecraft:flowering_azalea
+setblock ~-24 ~1 ~-8 minecraft:flowering_azalea
+setblock ~24 ~1 ~-8 minecraft:flowering_azalea
+setblock ~0 ~1 ~-24 minecraft:flowering_azalea
+setblock ~0 ~1 ~24 minecraft:flowering_azalea
+setblock ~-24 ~1 ~0 minecraft:flowering_azalea
+setblock ~24 ~1 ~0 minecraft:flowering_azalea
+setblock ~8 ~1 ~-24 minecraft:flowering_azalea
+setblock ~8 ~1 ~24 minecraft:flowering_azalea
+setblock ~-24 ~1 ~8 minecraft:flowering_azalea
+setblock ~24 ~1 ~8 minecraft:flowering_azalea
+setblock ~16 ~1 ~-24 minecraft:flowering_azalea
+setblock ~16 ~1 ~24 minecraft:flowering_azalea
+setblock ~-24 ~1 ~16 minecraft:flowering_azalea
+setblock ~24 ~1 ~16 minecraft:flowering_azalea
+setblock ~24 ~1 ~-24 minecraft:flowering_azalea
+setblock ~24 ~1 ~24 minecraft:flowering_azalea
+setblock ~-24 ~1 ~24 minecraft:flowering_azalea
+setblock ~24 ~1 ~24 minecraft:flowering_azalea
+fill ~-2 ~1 ~-34 ~2 ~1 ~-34 minecraft:sea_lantern
+fill ~-2 ~1 ~34 ~2 ~1 ~34 minecraft:sea_lantern
