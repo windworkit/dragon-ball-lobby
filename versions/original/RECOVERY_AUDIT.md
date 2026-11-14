@@ -38,7 +38,7 @@ A full scan of all ten original function files found exactly three oversized
 | 4 | 88,168 | Exceeds 32,768 |
 | 5 | 57,768 | Exceeds 32,768 |
 
-The other 341 fill commands across the datapack are within the limit. The
+The other 405 fill commands across the datapack are within the limit. The
 recovered source has 501 function lines in total. No malformed fill syntax was
 found by the scan.
 
