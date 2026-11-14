@@ -15,7 +15,7 @@ and all seven region functions.
 5. Run `/function dblobby:generate`.
 
 ## What's included
-- Central spawn plaza with a floating one-star Dragon Ball centerpiece, four landscaped cherry-tree gardens, and four directional roads.
+- Central spawn plaza with a floating one-star Dragon Ball centerpiece, four landscaped cherry-tree gardens, and four color-coded directional gateways and roads.
 - Capsule Corporation-inspired city block and glass towers.
 - World Martial Arts Tournament arena.
 - Kame House island.
