@@ -45,6 +45,10 @@ The four gateway arches are centered on the cardinal roads at approximately 45 b
 
 The information pavilion sits beside the north road at X +12..+30, Z -59..-40, Y -1..+8. It contains a covered counter, lectern/cartography station, light-blue glazing, and a simple Dragon Ball color motif. It is deliberately outside the road corridor. `/function dblobby:hub` remains the reliable text guide.
 
+## Future NPC station pads
+
+Four compact display stations are built into the diagonal side bays around the central plaza, away from the cherry gardens and cardinal road lanes. Each has a quartz plinth, colored backing panel, glass accent, and low lantern markers. Their intended roles are north blue (welcome/guide), east red (quests), south gold (services/travel), and west pink (world/character information). These are deliberately empty staging points: this vanilla datapack does not spawn custom entities or assume any mod NPC registry IDs. They can later be replaced or populated once the Dragon Ball mod exposes its actual NPC entities and interaction system.
+
 ## Central hub rotunda
 
 | Detail | Relative footprint | Purpose |
