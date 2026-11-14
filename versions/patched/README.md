@@ -15,7 +15,7 @@ and all original region functions and the expanded decorative modules.
 5. Run `/function dblobby:generate`.
 
 ## What's included
-- Central spawn plaza with a floating one-star Dragon Ball centerpiece, four landscaped cherry-tree gardens, and four color-coded directional gateways and roads, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace with landscaped approach gardens and a gold-capped southern entry gate.
+- Central spawn hub with an open-air monumental rotunda framing the floating one-star Dragon Ball, illuminated crown columns, seating bays, compass medallions, four landscaped cherry-tree gardens, color-coded district gateways and roads, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace with landscaped approach gardens and a gold-capped southern entry gate.
 - Capsule Corporation-inspired city block and glass towers, expanded with residential/workshop buildings, rooftop greenery, boulevard pylons, illuminated forecourt details, and a framed public HQ entrance.
 - World Martial Arts Tournament stadium with expanded outer concourse, upper spectator tiers, roofline canopy wings, illuminated corner pylons, and multiple entry portals.
 - Kame House island with a curved beach approach, palm grove, beach umbrellas, outdoor seating, shoreline markers, and a dedicated training garden with practice posts.
@@ -24,6 +24,10 @@ and all original region functions and the expanded decorative modules.
 - Korin's Tower: a separate colossal terracotta tower with multiple balcony bands, vertical windows, a cloud-like foundation, and an elevated summit pavilion.
 - Roads and colored waypoints.
 
+## Player hub guide
+
+Run `/function dblobby:hub` in-game for a concise welcome message and district directions. The north blue road leads to Kami's Lookout, east red to the World Martial Arts Tournament, south gold to Shenron Valley, and west pink to Kame House. Capsule Corporation occupies the northwest city district; Korin's Tower stands beyond the western island district. `/function dblobby:help` lists builder and maintenance functions.
+
 ## Repair applied
 The original Shenron Valley function contained three fills exceeding
 Minecraft's 32,768-block command limit. This version splits those fills into
@@ -31,10 +35,7 @@ nine smaller commands. The untouched original remains in
 `versions/original/`.
 
 ## Important limitations
-This is an expanding static build, not a finished custom adventure map. It does not
-yet include custom NPCs, quests, mod-specific blocks, interiors with detailed
-furnishings, or Dragon Ball progression logic. The pack has not yet been
-tested in a live Minecraft world. Back up first: generation can overwrite
+This is an expanding static build, not a finished custom adventure map. It does not yet include custom NPCs, quests, mod-specific blocks, or Dragon Ball progression logic. The current hub and landmark interiors are vanilla-block builds. The pack still needs a live Minecraft visual and multiplayer test. Back up first: generation can overwrite
 existing terrain and player builds around the chosen execution point.
 
 ## Layout and build status
