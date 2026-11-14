@@ -72,12 +72,25 @@ headquarters and existing side buildings. Tournament seating occupies the
 space between the central ring and the existing perimeter wall. Exact sightlines
 and player access still need in-game review.
 
+## Kame House dock extension
+
+| Detail | Relative footprint | Purpose |
+| --- | --- | --- |
+| Pier deck | X -141..-131, Z 42..57, Y -2 | Extends the existing oak dock into the water |
+| Support piles | X -140/-132, Z 44/54, Y -5..-2 | Four dark-oak structural piles |
+| Side rails | X -140 and -132, Z 45..53, Y -1 | Low fence rails |
+| Pier lanterns | X -140/-132, Z 55, Y 2 | Two lantern posts at the outer landing |
+
+The extension deliberately overlaps the end of the original dock to form one
+continuous pier. Check the shoreline and waterline in-game before using it in
+a populated world.
+
 ## Generation precautions
 
 - Make a fresh world or a complete backup first.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator currently runs all twelve regions in one function call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
+- The generator currently runs all thirteen regions in one function call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
