@@ -219,3 +219,8 @@ A final gateway detail region adds wider stone or quartz footing caps, colored v
 ## District approach markers
 
 The four main roads now have repeated paired light pylons to establish a visual rhythm between the central plaza and each destination. North uses quartz and Capsule blue; east uses deepslate and tournament red; west uses sandstone and Kame pink; south uses quartz and Kami gold. Markers sit outside the five-block walking lanes. The southern pair is offset farther from center to clear the Lookout tower shaft.
+
+
+## Capsule City arrival threshold
+
+A dedicated blue-and-white gateway marks the north road's transition into Capsule City at approximately Z -70. Its quartz piers and lintel frame the road while staying outside the five-block walking lane. Paired low plinths and garden strips provide a small arrival forecourt; the blue pavement band marks the city side of the threshold. This is a decorative district entrance, not a portal or teleport trigger.
