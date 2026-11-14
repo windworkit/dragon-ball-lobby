@@ -101,6 +101,15 @@ These additions are a first visual-detail pass. The stadium canopy is intentiona
 
 These are first-pass functional interiors. The Korin shaft is a ladder-based climb rather than a fully modeled spiral staircase; confirm ladder attachment, floor openings, and summit arrival in-game. Interior furnishings are decorative block approximations, not modded furniture.
 
+## Latest landmark refinement
+
+| Detail | Relative footprint | Purpose |
+| --- | --- | --- |
+| Shenron surface detail | X +98..+235, Z -172..-114, Y +48..+90 | Adds repeated scale bands, gold belly segmentation, dorsal spines, brow ridges, cheek plates, and stepped whisker curls to the raised dragon. |
+| Kami's Lookout tower access | X -5..+5, Z +97..+116, Y +1..+30 | Opens a ladder shaft through the tower and adds a narrow railed sky bridge to the palace stairs. |
+
+The new tower access is a first functional route, not a final architectural staircase. The Shenron surface pass is block-art detailing; inspect its face orientation and scale placement from the viewing terrace in-game.
+
 ## Shenron Valley viewing terrace
 
 | Detail | Relative footprint | Purpose |
@@ -162,7 +171,7 @@ a populated world.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator now runs twenty-eight region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
+- The generator now runs thirty region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
 - The expanded lookout adds broad platform wings, a layered palace hall, side galleries, a taller decorated tower shaft, and monumental corner pylons. The training court and garden are added afterward on the enlarged deck. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
