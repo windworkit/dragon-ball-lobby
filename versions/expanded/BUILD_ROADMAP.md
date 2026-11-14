@@ -35,6 +35,7 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [ ] Kami's Lookout: readable vertical approach, safe access, and finished platform.
 - [x] Add a distinct upper-deck training court, meditation garden, and four illuminated corner pylons.
 - [ ] Shenron Valley: dragon silhouette, seven Dragon Ball displays, terraces, and viewing area.
+- [x] Add a first-pass south-side visitor terrace with an open north-facing sightline, seating bays, safety rails, and four lantern columns.
 
 **Exit gate:** each district looks intentional from both close range and the main travel approach.
 
