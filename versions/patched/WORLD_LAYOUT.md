@@ -105,6 +105,19 @@ The garden beds are deliberately low and sit to either side of the center
 approach. Confirm the planting height, path connection, and view to the Dragon
 Balls in-game; the garden is a first-pass landscape treatment.
 
+## Shenron Valley southern entry gate
+
+| Detail | Relative footprint | Purpose |
+| --- | --- | --- |
+| Center approach path | X +145..+153, Z -81..-70, Y +31 | Nine-block-wide polished-andesite approach connecting the terrace to the gate |
+| Gate piers | X +136..+138 and +160..+162, Z -76..-74, Y +32..+39 | Dark polished-blackstone pillars with gold bands and red inner accents |
+| Gate lintel | X +139..+159, Z -76..-74, Y +39..+40 | Gold-capped crosspiece framing a broad, unobstructed opening |
+| Lanterns and approach markers | Four lanterns on pier corners; low markers near X +132..+134 and +164..+166 | Warm lighting and subtle path guidance outside the main walking lane |
+
+The entry gate is placed south of the viewing terrace and faces the southern
+approach. Its opening is intentionally broad; inspect the path join, lantern
+height, and sightline from the terrace in Minecraft before finalizing.
+
 ## Kame House dock extension
 
 | Detail | Relative footprint | Purpose |
@@ -124,7 +137,7 @@ a populated world.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator currently runs all seventeen regions in one function call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
+- The generator currently runs all eighteen regions in one function call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
 - The lookout training court, garden, and corner lights sit on the existing Y+28 deck, outside the central palace footprint. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
