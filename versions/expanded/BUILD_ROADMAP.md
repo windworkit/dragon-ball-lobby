@@ -30,11 +30,15 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [x] Add ten matching boulevard lamps along the Capsule Corp avenue.
 - [ ] Tournament: stadium bowl, ring, forecourt, spectator access, and event staging.
 - [x] Add stepped north/south spectator banks and illuminated entry pylons.
+- [x] First Korin's Tower pass: colossal vertical tower, ring balconies, windows, cloud foundation, and summit pavilion.
+- [ ] Korin's Tower: add a readable approach, climbing route / lift concept, and detailed summit interior.
 - [ ] Kame House: shoreline, dock, palms, paths, and complete exterior.
 - [x] Extend the existing dock into a lantern-lit pier with support piles and safety rails.
-- [ ] Kami's Lookout: readable vertical approach, safe access, and finished platform.
+- [x] First expanded Kami's Lookout pass: monumental palace hall, broad sky platform, observation wings, tower-shaft enlargement, and corner pylons.
+- [ ] Kami's Lookout: readable vertical approach, safe access, interiors, and finished platform.
 - [x] Add a distinct upper-deck training court, meditation garden, and four illuminated corner pylons.
-- [ ] Shenron Valley: dragon silhouette, seven Dragon Ball displays, terraces, and viewing area.
+- [x] First giant Shenron pass: raised multi-segment body, gold belly, dorsal mane, large head, horns, eyes, and whiskers.
+- [ ] Shenron Valley: refine the dragon silhouette, seven Dragon Ball displays, terraces, and viewing area.
 - [x] Add a first-pass south-side visitor terrace with an open north-facing sightline, seating bays, safety rails, and four lantern columns.
 - [x] Add low matching garden beds and lantern markers flanking the terrace approach, keeping the central path clear.
 - [x] Add an ornamental southern entry gate and a clear approach from the visitor terrace.
