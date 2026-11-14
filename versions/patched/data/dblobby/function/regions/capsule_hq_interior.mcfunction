@@ -9,7 +9,7 @@ fill ~-1 ~8 ~-169 ~1 ~8 ~-169 minecraft:white_concrete
 # Waiting area: paired benches and low tables.
 fill ~-12 ~4 ~-164 ~-8 ~4 ~-164 minecraft:cyan_concrete
 fill ~8 ~4 ~-164 ~12 ~4 ~-164 minecraft:cyan_concrete
-fill ~-3 ~4 ~-159 ~3 ~4 ~-158 minecraft:smooth_quartz_slab[type=bottom]
+fill ~-3 ~4 ~-159 ~3 ~4 ~-158 minecraft:quartz_slab[type=bottom]
 # Research pods along the east and west walls.
 fill ~-14 ~4 ~-160 ~-11 ~8 ~-157 minecraft:light_blue_stained_glass
 fill ~11 ~4 ~-160 ~14 ~8 ~-157 minecraft:light_blue_stained_glass
