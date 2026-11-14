@@ -15,12 +15,12 @@ and all original region functions and the expanded decorative modules.
 5. Run `/function dblobby:generate`.
 
 ## What's included
-- Central spawn plaza with a floating one-star Dragon Ball centerpiece, four landscaped cherry-tree gardens, and four color-coded directional gateways and roads, Capsule Corp boulevard lighting, and tiered tournament spectator seating, and an extended lantern-lit Kame House dock.
+- Central spawn plaza with a floating one-star Dragon Ball centerpiece, four landscaped cherry-tree gardens, and four color-coded directional gateways and roads, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace.
 - Capsule Corporation-inspired city block and glass towers, with a framed public HQ entrance, blue-accented forecourt, low planters, and paired lights.
 - World Martial Arts Tournament arena.
 - Kame House island.
 - Kami's Lookout with an upper-deck training court, meditation garden, and four corner lantern pylons.
-- Shenron Valley with its large terrain terraces and dragon sculpture.
+- Shenron Valley with its large terrain terraces, dragon sculpture, seven Dragon Ball displays, and a south-side visitor viewing terrace.
 - Roads and colored waypoints.
 
 ## Repair applied
