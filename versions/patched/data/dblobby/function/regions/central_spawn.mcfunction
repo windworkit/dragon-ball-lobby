@@ -15,18 +15,6 @@ fill ~36 ~0 ~-2 ~118 ~0 ~2 minecraft:smooth_stone
 fill ~-118 ~0 ~-2 ~-36 ~0 ~2 minecraft:smooth_stone
 fill ~-2 ~0 ~36 ~2 ~0 ~118 minecraft:smooth_stone
 fill ~-2 ~0 ~-118 ~2 ~0 ~-36 minecraft:smooth_stone
-fill ~33 ~0 ~-2 ~37 ~12 ~2 minecraft:quartz_pillar
-fill ~32 ~11 ~-3 ~38 ~12 ~3 minecraft:light_blue_concrete
-setblock ~35 ~13 ~0 minecraft:sea_lantern
-fill ~-37 ~0 ~-2 ~-33 ~12 ~2 minecraft:quartz_pillar
-fill ~-38 ~11 ~-3 ~-32 ~12 ~3 minecraft:light_blue_concrete
-setblock ~-35 ~13 ~0 minecraft:sea_lantern
-fill ~-2 ~0 ~33 ~2 ~12 ~37 minecraft:quartz_pillar
-fill ~-3 ~11 ~32 ~3 ~12 ~38 minecraft:light_blue_concrete
-setblock ~0 ~13 ~35 minecraft:sea_lantern
-fill ~-2 ~0 ~-37 ~2 ~12 ~-33 minecraft:quartz_pillar
-fill ~-3 ~11 ~-38 ~3 ~12 ~-32 minecraft:light_blue_concrete
-setblock ~0 ~13 ~-35 minecraft:sea_lantern
 setblock ~0 ~1 ~27 minecraft:sea_lantern
 fill ~-1 ~0 ~26 ~1 ~0 ~28 minecraft:light_blue_concrete
 setblock ~0 ~1 ~-27 minecraft:sea_lantern
