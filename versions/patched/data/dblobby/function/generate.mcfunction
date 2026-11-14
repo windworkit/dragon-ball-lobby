@@ -4,6 +4,7 @@ function dblobby:regions/plaza_gardens
 function dblobby:regions/plaza_dragon_ball
 function dblobby:regions/spawn_rotunda
 function dblobby:regions/plaza_social_courts
+function dblobby:regions/plaza_compass_inlay
 function dblobby:regions/hub_guide_pavilion
 function dblobby:regions/plaza_npc_stations
 function dblobby:regions/capsule_city
