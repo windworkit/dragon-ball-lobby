@@ -11,7 +11,8 @@ fill ~-164 ~13 ~146 ~-146 ~43 ~164 minecraft:terracotta
 fill ~-162 ~44 ~148 ~-148 ~75 ~162 minecraft:terracotta
 fill ~-160 ~76 ~150 ~-150 ~101 ~160 minecraft:terracotta
 # Lighter inner face and vertical corner ribs.
-fill ~-163 ~-20 ~147 ~-147 ~101 ~163 minecraft:orange_terracotta
+fill ~-163 ~-20 ~147 ~-147 ~40 ~163 minecraft:orange_terracotta
+fill ~-163 ~41 ~147 ~-147 ~101 ~163 minecraft:orange_terracotta
 fill ~-167 ~-20 ~145 ~-165 ~101 ~147 minecraft:cut_sandstone
 fill ~-145 ~-20 ~145 ~-143 ~101 ~147 minecraft:cut_sandstone
 fill ~-167 ~-20 ~163 ~-165 ~101 ~165 minecraft:cut_sandstone
