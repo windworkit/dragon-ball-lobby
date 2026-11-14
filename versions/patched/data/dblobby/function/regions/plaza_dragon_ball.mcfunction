@@ -12,5 +12,5 @@ setblock ~0 ~11 ~0 minecraft:sea_lantern
 setblock ~0 ~12 ~3 minecraft:redstone_block
 setblock ~-1 ~11 ~3 minecraft:redstone_block
 setblock ~1 ~11 ~3 minecraft:redstone_block
-setblock ~-1 ~13 ~3 minecraft:redstone_block
-setblock ~1 ~13 ~3 minecraft:redstone_block
+setblock ~-1 ~13 ~2 minecraft:redstone_block
+setblock ~1 ~13 ~2 minecraft:redstone_block
