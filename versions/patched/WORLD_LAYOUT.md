@@ -209,3 +209,8 @@ a populated world.
 - The expanded lookout adds broad platform wings, a layered palace hall, side galleries, a taller decorated tower shaft, and monumental corner pylons. The training court and garden are added afterward on the enlarged deck. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
+
+
+## Gateway architectural finishing pass
+
+A final gateway detail region adds wider stone or quartz footing caps, colored vertical inset panels, lantern highlights, and one-block-wide flush threshold strips on both sides of each arch. The supports remain outside the five-block-wide road lanes. North uses blue/light-blue, east red/orange, south gold/yellow, and west pink/magenta. The threshold strips are decorative floor markers, not teleporters or portal blocks.
