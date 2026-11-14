@@ -5,11 +5,14 @@ tellraw @s {"text":"/function dblobby:regions/plaza_gardens — add the four lan
 tellraw @s {"text":"/function dblobby:regions/plaza_dragon_ball — rebuild the floating Dragon Ball centerpiece","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/plaza_gate_accents — recolor the four directional gateway caps","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/capsule_city — build Capsule Corporation district","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/capsule_city_detail — add residential blocks, rooftop gardens, and HQ forecourt details","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/capsule_boulevard_lighting — rebuild Capsule Corp boulevard lamps","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/capsule_hq_entrance — rebuild the Capsule Corp headquarters entrance and forecourt","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/tournament — build the martial arts arena","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/tournament_stadium_detail — add the larger stadium concourse, upper stands, roof wings, and portals","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/tournament_seating — rebuild tournament spectator seating","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kame_house — build the tropical island","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/kame_island_detail — add beach, palms, training garden, and island details","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kame_dock_details — rebuild the Kame House dock and lanterns","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kamis_lookout — build the elevated lookout foundation","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kamis_lookout_expansion — expand Kami’s Lookout into a monumental palace and sky platform","color":"yellow"}
