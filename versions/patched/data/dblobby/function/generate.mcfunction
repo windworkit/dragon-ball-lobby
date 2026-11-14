@@ -9,6 +9,7 @@ function dblobby:regions/hub_guide_pavilion
 function dblobby:regions/plaza_npc_stations
 function dblobby:regions/capsule_city
 function dblobby:regions/capsule_city_detail
+function dblobby:regions/capsule_city_arrival
 function dblobby:regions/capsule_boulevard_lighting
 function dblobby:regions/capsule_hq_entrance
 function dblobby:regions/capsule_hq_interior
