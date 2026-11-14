@@ -123,3 +123,16 @@ This is a first landscape pass. Confirm the path connection, plant placement, an
 2. Add deliberate path edging and district entrance markers.
 3. Continue district-specific polish, beginning with Capsule Corporation and the tournament forecourt.
 4. Load the pack in a disposable Java 1.21.1 world and review screenshots before calling any area finished.
+
+
+## Iteration 8 — Shenron Valley southern entry gate
+
+Implemented in the repaired installable pack:
+
+- `versions/patched/data/dblobby/function/regions/shenron_valley_entry_gate.mcfunction`
+- Adds a nine-block-wide polished-andesite approach from the visitor terrace.
+- Frames the southern entrance with dark polished-blackstone piers, gold bands, red inner accents, and a gold-capped lintel.
+- Adds lanterns and low approach markers outside the central walking lane.
+- Integrated into full generation, exposed as an independent rebuild command, and added to required-region static validation.
+
+This is a structural first pass. Check the terrace connection, gate clearance, and sightline in a disposable Java 1.21.1 world.
