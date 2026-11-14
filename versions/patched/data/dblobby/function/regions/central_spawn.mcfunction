@@ -31,15 +31,3 @@ setblock ~19 ~1 ~-19 minecraft:sea_lantern
 fill ~18 ~0 ~-20 ~20 ~0 ~-18 minecraft:light_blue_concrete
 setblock ~-19 ~1 ~-19 minecraft:sea_lantern
 fill ~-20 ~0 ~-20 ~-18 ~0 ~-18 minecraft:light_blue_concrete
-fill ~-15 ~1 ~11 ~-9 ~1 ~13 minecraft:dark_oak_slab
-setblock ~-16 ~1 ~12 minecraft:dark_oak_fence
-setblock ~-8 ~1 ~12 minecraft:dark_oak_fence
-fill ~9 ~1 ~11 ~15 ~1 ~13 minecraft:dark_oak_slab
-setblock ~8 ~1 ~12 minecraft:dark_oak_fence
-setblock ~16 ~1 ~12 minecraft:dark_oak_fence
-fill ~-15 ~1 ~-13 ~-9 ~1 ~-11 minecraft:dark_oak_slab
-setblock ~-16 ~1 ~-12 minecraft:dark_oak_fence
-setblock ~-8 ~1 ~-12 minecraft:dark_oak_fence
-fill ~9 ~1 ~-13 ~15 ~1 ~-11 minecraft:dark_oak_slab
-setblock ~8 ~1 ~-12 minecraft:dark_oak_fence
-setblock ~16 ~1 ~-12 minecraft:dark_oak_fence
