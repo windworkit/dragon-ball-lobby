@@ -41,3 +41,9 @@ function dblobby:regions/plaza_gate_accents
 function dblobby:regions/plaza_art_direction
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
+
+function dblobby:regions/capsule_city_finish
+function dblobby:regions/tournament_arrival_finish
+function dblobby:regions/kame_house_finish
+function dblobby:regions/kamis_lookout_finish
+function dblobby:regions/korins_tower_finish
