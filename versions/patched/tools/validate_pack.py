@@ -16,7 +16,7 @@ EXPECTED_REGIONS = {
     "shenron_giant_form", "kamis_lookout_expansion", "korins_tower",
     "capsule_city_detail", "tournament_stadium_detail", "kame_island_detail",
     "kame_house_interior", "capsule_hq_interior", "korins_tower_access", "kamis_lookout_interior",
-    "shenron_surface_detail", "kamis_lookout_access",
+    "shenron_surface_detail", "kamis_lookout_access", "spawn_rotunda",
 }
 FUNCTION_REF = re.compile(r"^function\s+([a-z0-9_.-]+:[a-z0-9_./-]+)\s*$")
 FILL = re.compile(
@@ -51,6 +51,9 @@ def main() -> int:
         errors.append("missing required region functions: " + ", ".join(missing_regions))
     if extra_regions:
         print("INFO: additional region functions: " + ", ".join(extra_regions))
+
+    if not (FUNCTION_ROOT / "hub.mcfunction").is_file():
+        errors.append("missing player guide function: hub.mcfunction")
 
     generator = FUNCTION_ROOT / "generate.mcfunction"
     if not generator.is_file():
