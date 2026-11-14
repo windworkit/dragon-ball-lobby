@@ -11,6 +11,7 @@ tellraw @s {"text":"/function dblobby:regions/tournament_seating — rebuild tou
 tellraw @s {"text":"/function dblobby:regions/kame_house — build the tropical island","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kame_dock_details — rebuild the Kame House dock and lanterns","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kamis_lookout — build the elevated lookout","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/lookout_sanctuary_details — add the upper-deck training court, garden, and lights","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_valley — build the Dragon Ball valley centerpiece","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/roads_and_waypoints — rebuild the connecting roads and markers","color":"yellow"}
 tellraw @s {"text":"WARNING: functions place blocks and can overwrite existing builds. Back up your world first.","color":"red"}
