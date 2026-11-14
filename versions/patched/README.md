@@ -35,3 +35,13 @@ yet include custom NPCs, quests, mod-specific blocks, interiors with detailed
 furnishings, or Dragon Ball progression logic. The pack has not yet been
 tested in a live Minecraft world. Back up first: generation can overwrite
 existing terrain and player builds around the chosen execution point.
+
+## Layout and build status
+
+See [WORLD_LAYOUT.md](WORLD_LAYOUT.md) for the relative region positions and
+recommended generation precautions.
+
+Every push affecting this folder runs static validation and builds a
+`DragonBallLobby-Patched-1.0` ZIP artifact. Open the repository's Actions tab,
+select the latest successful **Validate repaired Dragon Ball lobby** run,
+and download the artifact from its Artifacts section.
