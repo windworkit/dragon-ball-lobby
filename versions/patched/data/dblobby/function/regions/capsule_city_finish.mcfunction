@@ -3,7 +3,7 @@
 # and a more deliberate boulevard rhythm without narrowing the central route.
 # Headquarters identity panel above the south-facing entrance.
 fill ~-10 ~13 ~-149 ~10 ~18 ~-148 minecraft:blue_concrete
-fill ~-8 ~14 ~-149 ~8 ~17 ~148 minecraft:light_blue_concrete
+fill ~-8 ~14 ~-149 ~8 ~17 ~-148 minecraft:light_blue_concrete
 fill ~-6 ~15 ~-149 ~6 ~16 ~-148 minecraft:white_concrete
 fill ~-4 ~14 ~-149 ~4 ~17 ~-148 minecraft:light_blue_stained_glass
 fill ~-3 ~15 ~-149 ~3 ~16 ~-148 minecraft:blue_concrete
@@ -22,9 +22,9 @@ fill ~30 ~5 ~-144 ~44 ~7 ~-144 minecraft:light_blue_stained_glass
 fill ~-63 ~2 ~-111 ~-63 ~16 ~-95 minecraft:quartz_pillar
 fill ~-41 ~2 ~-111 ~-41 ~16 ~-95 minecraft:quartz_pillar
 fill ~43 ~2 ~-111 ~43 ~21 ~-95 minecraft:quartz_pillar
-fill ~63 ~2 ~-111 ~63 ~21 ~-95 minecraft:quartz_pillar
-fill ~-60 ~6 ~-111 ~-44 ~7 ~-111 minecraft:light_blue_stained_glass
-fill ~-60 ~12 ~-111 ~-44 ~13 ~-111 minecraft:light_blue_stained_glass
+fill ~61 ~2 ~-111 ~61 ~21 ~-95 minecraft:quartz_pillar
+fill ~-60 ~6 ~-112 ~-44 ~7 ~-112 minecraft:light_blue_stained_glass
+fill ~-60 ~12 ~-112 ~-44 ~13 ~-112 minecraft:light_blue_stained_glass
 fill ~46 ~7 ~-111 ~60 ~8 ~-111 minecraft:light_blue_stained_glass
 fill ~46 ~14 ~-111 ~60 ~15 ~-111 minecraft:light_blue_stained_glass
 # Blue roof crowns and white fascia soften the box silhouettes.
