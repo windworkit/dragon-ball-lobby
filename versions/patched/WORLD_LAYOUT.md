@@ -70,7 +70,9 @@ an in-game test.
 | Tournament corner pylons | X 98..100 and 170..172; Z -38..-36 and 36..38; Y 2..8 | Four illuminated seating-entry markers |
 
 The Capsule boulevard lamps are placed in the open strips outside the central
-headquarters and existing side buildings. Tournament seating occupies the
+headquarters and existing side buildings. The HQ entrance detail opens a centered
+passage through the existing south wall and builds its forecourt immediately
+outside; inspect the doorway and threshold in-game before relying on it. Tournament seating occupies the
 space between the central ring and the existing perimeter wall. Exact sightlines
 and player access still need in-game review.
 
