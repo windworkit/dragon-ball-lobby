@@ -51,7 +51,7 @@ fill ~34 ~31 ~137 ~35 ~42 ~140 minecraft:quartz_pillar
 fill ~-42 ~32 ~132 ~-35 ~32 ~145 minecraft:gold_block
 fill ~35 ~32 ~132 ~42 ~32 ~145 minecraft:gold_block
 fill ~-42 ~33 ~132 ~-42 ~35 ~145 minecraft:quartz_pillar
-fill ~42 ~33 ~132 ~42 ~35 ~145 minecraft:quartz_wall
+fill ~42 ~33 ~132 ~42 ~35 ~145 minecraft:quartz_pillar
 # Tall white tower shaft broadened below the sanctuary; preserve the original core.
 fill ~-8 ~1 ~94 ~8 ~27 ~108 minecraft:white_concrete
 fill ~-6 ~1 ~92 ~6 ~27 ~110 minecraft:smooth_quartz
