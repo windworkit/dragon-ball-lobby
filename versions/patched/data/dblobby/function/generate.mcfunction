@@ -13,6 +13,7 @@ function dblobby:regions/kame_dock_details
 function dblobby:regions/kamis_lookout
 function dblobby:regions/lookout_sanctuary_details
 function dblobby:regions/shenron_valley
+function dblobby:regions/shenron_viewing_terrace
 function dblobby:regions/roads_and_waypoints
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
