@@ -14,10 +14,10 @@ EXPECTED_REGIONS = {
     "central_spawn", "capsule_city", "tournament", "kame_house",
     "kamis_lookout", "shenron_valley", "roads_and_waypoints",
 }
-FUNCTION_REF = re.compile(r"^function\\s+([a-z0-9_.-]+:[a-z0-9_./-]+)\\s*$")
+FUNCTION_REF = re.compile(r"^function\s+([a-z0-9_.-]+:[a-z0-9_./-]+)\s*$")
 FILL = re.compile(
-    r"^fill\\s+(\\S+)\\s+(\\S+)\\s+(\\S+)\\s+"
-    r"(\\S+)\\s+(\\S+)\\s+(\\S+)\\s+(\\S+)(?:\\s+.*)?$"
+    r"^fill\s+(\S+)\s+(\S+)\s+(\S+)\s+"
+    r"(\S+)\s+(\S+)\s+(\S+)\s+(\S+)(?:\s+.*)?$"
 )
 
 
@@ -104,7 +104,7 @@ def main() -> int:
     print(f"Found {len(actual_regions)} of {len(EXPECTED_REGIONS)} required region functions.")
     if errors:
         print(f"FAILED: {len(errors)} issue(s)")
-        print("\\n".join(errors))
+        print("\n".join(errors))
         return 1
     print("PASS: required regions, JSON, pack format, and function references are valid.")
     print("PASS: all fill commands are within Minecraft's 32,768-block limit.")
