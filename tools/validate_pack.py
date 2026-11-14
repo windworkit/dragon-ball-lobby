@@ -55,6 +55,6 @@ for path in functions:
                 errors.append(f"{path.name}:{number}: missing function target {target}")
 
 if errors:
-    print("\\n".join(errors))
+    print("\n".join(errors))
     sys.exit(1)
 print(f"Validated {len(functions)} functions. No structural or fill-volume errors found.")
