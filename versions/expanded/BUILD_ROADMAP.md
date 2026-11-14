@@ -26,6 +26,7 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 
 ## Phase 2 — district polish
 - [ ] Capsule Corp: coherent streetscape, headquarters silhouette, courtyard, and reserved interiors.
+- [x] Add a defined south-facing HQ entrance with forecourt, blue architectural accents, paired lights, and planters.
 - [x] Add ten matching boulevard lamps along the Capsule Corp avenue.
 - [ ] Tournament: stadium bowl, ring, forecourt, spectator access, and event staging.
 - [x] Add stepped north/south spectator banks and illuminated entry pylons.
