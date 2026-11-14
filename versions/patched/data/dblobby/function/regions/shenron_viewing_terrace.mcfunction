@@ -20,10 +20,6 @@ fill ~132 ~32 ~-96 ~140 ~32 ~-96 minecraft:dark_oak_stairs[facing=north,half=bot
 fill ~132 ~32 ~-90 ~140 ~32 ~-90 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
 fill ~158 ~32 ~-96 ~166 ~32 ~-96 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
 fill ~158 ~32 ~-90 ~166 ~32 ~-90 minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
-fill ~132 ~33 ~-95 ~140 ~33 ~-95 minecraft:dark_oak_planks
-fill ~132 ~33 ~-89 ~140 ~33 ~-89 minecraft:dark_oak_planks
-fill ~158 ~33 ~-95 ~166 ~33 ~-95 minecraft:dark_oak_planks
-fill ~158 ~33 ~-89 ~166 ~33 ~-89 minecraft:dark_oak_planks
 # Four lantern columns frame the terrace without blocking the view.
 fill ~123 ~32 ~-99 ~123 ~35 ~-99 minecraft:quartz_pillar
 fill ~175 ~32 ~-99 ~175 ~35 ~-99 minecraft:quartz_pillar
