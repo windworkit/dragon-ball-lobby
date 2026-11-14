@@ -15,7 +15,7 @@ and all seven region functions.
 5. Run `/function dblobby:generate`.
 
 ## What's included
-- Central spawn plaza and four directional roads.
+- Central spawn plaza with four landscaped cherry-tree gardens and four directional roads.
 - Capsule Corporation-inspired city block and glass towers.
 - World Martial Arts Tournament arena.
 - Kame House island.
