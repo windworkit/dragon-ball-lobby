@@ -43,24 +43,24 @@ fill ~207 ~56 ~-130 ~217 ~59 ~-118 minecraft:yellow_concrete
 fill ~211 ~61 ~-128 ~218 ~64 ~-120 minecraft:orange_concrete
 # Eyes, pupils, brows, nostrils and mouth details on the south-facing display side.
 fill ~201 ~70 ~-116 ~205 ~74 ~-115 minecraft:red_concrete
-fill ~202 ~71 ~-114 ~204 ~73 ~114 minecraft:black_concrete
+fill ~202 ~71 ~-114 ~204 ~73 ~-114 minecraft:black_concrete
 fill ~212 ~70 ~-116 ~216 ~74 ~-115 minecraft:red_concrete
-fill ~213 ~71 ~-114 ~215 ~73 ~114 minecraft:black_concrete
+fill ~213 ~71 ~-114 ~215 ~73 ~-114 minecraft:black_concrete
 fill ~199 ~75 ~-119 ~207 ~78 ~-116 minecraft:green_concrete
 fill ~210 ~75 ~-119 ~218 ~78 ~-116 minecraft:green_concrete
 fill ~214 ~61 ~-115 ~218 ~63 ~-114 minecraft:black_concrete
 # Long golden antler horns rising above the crown.
-fill ~190 ~78 ~-145 ~193 ~89 ~142 minecraft:yellow_concrete
+fill ~190 ~78 ~-142 ~193 ~89 ~-142 minecraft:yellow_concrete
 fill ~188 ~86 ~-144 ~195 ~89 ~-141 minecraft:yellow_concrete
-fill ~209 ~77 ~-145 ~212 ~90 ~142 minecraft:yellow_concrete
-fill ~207 ~87 ~-144 ~214 ~90 ~141 minecraft:yellow_concrete
+fill ~209 ~77 ~-142 ~212 ~90 ~-142 minecraft:yellow_concrete
+fill ~207 ~87 ~-144 ~214 ~90 ~-141 minecraft:yellow_concrete
 # Red-orange whiskers sweep outward from the muzzle.
 fill ~213 ~66 ~-118 ~229 ~68 ~-116 minecraft:orange_concrete
-fill ~216 ~63 ~-121 ~233 ~65 ~119 minecraft:orange_concrete
-fill ~205 ~66 ~-118 ~190 ~68 ~116 minecraft:orange_concrete
+fill ~216 ~63 ~-121 ~233 ~65 ~-119 minecraft:orange_concrete
+fill ~190 ~66 ~-118 ~205 ~68 ~-116 minecraft:orange_concrete
 # Tail curls upward on the western end, with a pointed gold tip.
 fill ~83 ~51 ~-160 ~96 ~62 ~-146 minecraft:green_concrete
-fill ~78 ~57 ~-158 ~89 ~68 ~148 minecraft:lime_concrete
+fill ~78 ~57 ~-158 ~89 ~68 ~-148 minecraft:lime_concrete
 fill ~74 ~65 ~-156 ~84 ~75 ~-146 minecraft:green_concrete
 fill ~71 ~72 ~-154 ~80 ~81 ~-145 minecraft:yellow_concrete
 # Cloud-like support plinth and dramatic gold-lit viewing base.
