@@ -224,3 +224,8 @@ The four main roads now have repeated paired light pylons to establish a visual 
 ## Capsule City arrival threshold
 
 A dedicated blue-and-white gateway marks the north road's transition into Capsule City at approximately Z -70. Its quartz piers and lintel frame the road while staying outside the five-block walking lane. Paired low plinths and garden strips provide a small arrival forecourt; the blue pavement band marks the city side of the threshold. This is a decorative district entrance, not a portal or teleport trigger.
+
+
+## Kame House island arrival promenade
+
+A narrow sandstone connector leaves the west road at the island's eastern edge, then follows the south side of the Kame House shell toward the existing beach path and oak dock. The promenade uses a sandstone stair transition, smooth-sandstone paving, pink identity markers, lanterns, and low coastal planting beds. A small dark-oak landing pad overlaps the existing beach path and pier approach to create a continuous visual connection. The route is deliberately kept outside the house footprint and leaves the dock's central deck clear. Confirm the exact one-block elevation transition and shoreline join in-game.
