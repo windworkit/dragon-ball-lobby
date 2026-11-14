@@ -35,6 +35,29 @@ reference for the lobby; choose a broad, open test area.
 These are approximate bounding boxes inferred from the function coordinates,
 not a promise that every block inside the box is filled.
 
+## Central plaza detail coordinates
+
+These are exact command footprints for the new decorative pass, relative to
+the same generation origin:
+
+| Detail | Relative footprint | Notes |
+| --- | --- | --- |
+| Northwest garden | X -35..-21, Z -35..-21, Y 1..8 | Cherry tree, moss planter, flowers |
+| Northeast garden | X 21..35, Z -35..-21, Y 1..8 | Mirrored garden |
+| Southwest garden | X -35..-21, Z 21..35, Y 1..8 | Mirrored garden |
+| Southeast garden | X 21..35, Z 21..35, Y 1..8 | Mirrored garden |
+| Dragon Ball orb | X/Z -3..3, Y 8..14 | Layered orange glass; south-facing one-star motif |
+| North gateway cap | X -3..3, Z -38..-32, Y 12 | Blue |
+| East gateway cap | X 32..38, Z -3..3, Y 12 | Red |
+| West gateway cap | X -38..-32, Z -3..3, Y 12 | Pink |
+| South gateway cap | X -3..3, Z 32..38, Y 12 | Yellow |
+
+The existing generator sets the player's spawn point at Y +3. The Dragon Ball
+starts at Y +8, leaving the ground-level arrival area open. The gardens are
+placed in the plaza's diagonal corners; the four cardinal approach lanes remain
+clear at ground level. Visual clearance and multiplayer crowding still require
+an in-game test.
+
 ## Generation precautions
 
 - Make a fresh world or a complete backup first.
