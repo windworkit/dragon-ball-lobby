@@ -18,6 +18,7 @@ tellraw @s {"text":"/function dblobby:regions/kame_house_interior — furnish Ma
 tellraw @s {"text":"/function dblobby:regions/kame_dock_details — rebuild the Kame House dock and lanterns","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kamis_lookout — build the elevated lookout foundation","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kamis_lookout_expansion — expand Kami’s Lookout into a monumental palace and sky platform","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/kamis_lookout_access — open the tower shaft and connect the sky bridge to the palace stairs","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kamis_lookout_interior — furnish the palace hall and meditation pools","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/korins_tower — build Korin’s colossal tower and summit pavilion","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/korins_tower_access — add the interior climbing shaft and rest landings","color":"yellow"}
