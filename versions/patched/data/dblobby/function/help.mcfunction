@@ -6,4 +6,5 @@ tellraw @s {"text":"/function dblobby:regions/tournament — build the martial a
 tellraw @s {"text":"/function dblobby:regions/kame_house — build the tropical island","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kamis_lookout — build the elevated lookout","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_valley — build the Dragon Ball valley centerpiece","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/roads_and_waypoints — rebuild the connecting roads and markers","color":"yellow"}
 tellraw @s {"text":"WARNING: functions place blocks and can overwrite existing builds. Back up your world first.","color":"red"}
