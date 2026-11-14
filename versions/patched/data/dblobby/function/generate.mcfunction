@@ -2,6 +2,7 @@ tellraw @s {"text":"[Dragon Ball Lobby] Generating the world around your current
 function dblobby:regions/central_spawn
 function dblobby:regions/plaza_gardens
 function dblobby:regions/plaza_dragon_ball
+function dblobby:regions/spawn_rotunda
 function dblobby:regions/plaza_gate_accents
 function dblobby:regions/capsule_city
 function dblobby:regions/capsule_city_detail
