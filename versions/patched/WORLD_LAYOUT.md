@@ -73,10 +73,10 @@ the same generation origin:
 | Southwest garden | X -35..-21, Z 21..35, Y 1..8 | Mirrored garden |
 | Southeast garden | X 21..35, Z 21..35, Y 1..8 | Mirrored garden |
 | Dragon Ball orb | X/Z -3..3, Y 8..14 | Layered orange glass; south-facing one-star motif |
-| North gateway cap | X -3..3, Z -38..-32, Y 12 | Blue |
-| East gateway cap | X 32..38, Z -3..3, Y 12 | Red |
-| West gateway cap | X -38..-32, Z -3..3, Y 12 | Pink |
-| South gateway cap | X -3..3, Z 32..38, Y 12 | Yellow |
+| North gateway arch | X -7..+7, Z -49..-47, Y 0..10 | Blue quartz-and-light-blue frame, supports outside the road |
+| East gateway arch | X +47..+49, Z -7..+7, Y 0..10 | Red-and-orange frame, supports outside the road |
+| West gateway arch | X -49..-47, Z -7..+7, Y 0..10 | Pink-and-magenta frame, supports outside the road |
+| South gateway arch | X -7..+7, Z +47..+49, Y 0..10 | Gold-and-yellow frame, supports outside the road |
 
 The existing generator sets the player's spawn point at Y +3. The Dragon Ball
 starts at Y +8, leaving the ground-level arrival area open. The gardens are
@@ -192,7 +192,7 @@ a populated world.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator now runs thirty-two region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
+- The generator now runs thirty-three region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
 - The expanded lookout adds broad platform wings, a layered palace hall, side galleries, a taller decorated tower shaft, and monumental corner pylons. The training court and garden are added afterward on the enlarged deck. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
