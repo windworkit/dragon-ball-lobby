@@ -5,7 +5,7 @@ fill ~-4 ~3 ~-152 ~4 ~7 ~-150 minecraft:air
 # Broad approach apron and three shallow steps rising toward the entrance.
 fill ~-11 ~1 ~-145 ~11 ~1 ~-137 minecraft:smooth_quartz
 fill ~-9 ~2 ~-149 ~9 ~2 ~-146 minecraft:quartz_bricks
-fill ~-7 ~3 ~-151 ~7 ~3 ~-149 minecraft:polished_diorite
+fill ~-7 ~2 ~-151 ~7 ~2 ~-150 minecraft:polished_diorite
 fill ~-6 ~1 ~-146 ~6 ~1 ~-138 minecraft:light_blue_concrete
 # Blue accent strips guide visitors toward the doorway without blocking the boulevard.
 fill ~-12 ~2 ~-145 ~-10 ~2 ~-139 minecraft:light_blue_concrete
