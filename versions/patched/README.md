@@ -15,7 +15,7 @@ and all original region functions and the expanded decorative modules.
 5. Run `/function dblobby:generate`.
 
 ## What's included
-- Central spawn hub with an open-air monumental rotunda framing the floating one-star Dragon Ball, illuminated crown columns, seating bays, compass medallions, four landscaped cherry-tree gardens, four passable architectural district gateways and roads, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace with landscaped approach gardens and a gold-capped southern entry gate.
+- Central spawn hub with an open-air monumental rotunda framing the floating one-star Dragon Ball, illuminated crown columns, seating bays, compass medallions, four landscaped cherry-tree gardens, four passable architectural district gateways and roads, four dedicated social seating courts, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace with landscaped approach gardens and a gold-capped southern entry gate.
 - Capsule Corporation-inspired city block and glass towers, expanded with residential/workshop buildings, rooftop greenery, boulevard pylons, illuminated forecourt details, and a framed public HQ entrance.
 - World Martial Arts Tournament stadium with expanded outer concourse, upper spectator tiers, roofline canopy wings, illuminated corner pylons, and multiple entry portals.
 - Kame House island with a curved beach approach, palm grove, beach umbrellas, outdoor seating, shoreline markers, and a dedicated training garden with practice posts.
@@ -26,7 +26,7 @@ and all original region functions and the expanded decorative modules.
 
 ## Player hub guide
 
-Run `/function dblobby:hub` in-game for a concise welcome message and district directions. The north blue road leads to Capsule Corporation City, east red to the World Martial Arts Tournament, south gold to Kami's Lookout, and west pink to Kame House Island. Shenron Valley lies beyond the northeastern city route; Korin's Tower stands beyond the southwestern island route. A guide pavilion sits beside the north road, and four color-coded NPC-ready stations are staged around the plaza for future server guides, quests, travel, and character information. `/function dblobby:help` lists builder and maintenance functions.
+Run `/function dblobby:hub` in-game for a concise welcome message and district directions. The north blue road leads to Capsule Corporation City, east red to the World Martial Arts Tournament, south gold to Kami's Lookout, and west pink to Kame House Island. Shenron Valley lies beyond the northeastern city route; Korin's Tower stands beyond the southwestern island route. A guide pavilion sits beside the north road, four social seating courts give players places to gather, and four color-coded NPC-ready stations are staged around the plaza for future server guides, quests, travel, and character information. `/function dblobby:help` lists builder and maintenance functions.
 
 ## Repair applied
 The original Shenron Valley function contained three fills exceeding
