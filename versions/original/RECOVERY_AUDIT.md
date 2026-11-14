@@ -12,10 +12,11 @@ archive hash was checked locally.
 
 ## Source recovery status
 
-Six of the seven original region functions have been restored to this folder
+All seven original region functions have been restored to this folder
 and individually verified against the original local files using Git blob
 SHA-1 hashes:
 
+- `capsule_city.mcfunction`
 - `central_spawn.mcfunction`
 - `kame_house.mcfunction`
 - `kamis_lookout.mcfunction`
@@ -23,9 +24,10 @@ SHA-1 hashes:
 - `shenron_valley.mcfunction`
 - `tournament.mcfunction`
 
-The remaining region file is `capsule_city.mcfunction` (214 lines). The
-original README, pack metadata, load tag, and three core functions are also
-preserved here. The binary ZIP itself has not yet been committed.
+The original README, pack metadata, load tag, and three core functions are
+also preserved here. Capsule City was checked against the recovered source's
+exact Git blob hash. The complete repaired datapack is assembled separately
+under `versions/patched/`. The binary ZIP itself has not yet been committed.
 
 ## Static validation findings
 
@@ -54,4 +56,7 @@ original generator expecting the Shenron Valley terrain layers to complete.
 These are static checks only. They do not execute Minecraft, verify every
 block identifier against the target runtime, or prove the resulting build
 looks correct. Test in a disposable 1.21.1 world before using it on a valued
-world. The separate `datapack/` working implementation remains untouched.
+world. The separate `datapack/` working implementation remains untouched. The
+assembled `versions/patched/` tree includes all seven region functions and
+uses the repaired Shenron Valley function. A matching static validator is
+included in that folder.
