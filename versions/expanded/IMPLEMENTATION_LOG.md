@@ -78,6 +78,18 @@ Implemented in the repaired installable pack:
 
 The details are positioned outside the central palace footprint and sit on the existing platform at Y+28. Their appearance, collision, and clearance still need in-game inspection.
 
+## Iteration 5 — Capsule Corporation headquarters entrance
+
+Implemented in the repaired installable pack:
+
+- `versions/patched/data/dblobby/function/regions/capsule_hq_entrance.mcfunction`
+- Cuts a centered public doorway through the existing south-facing HQ wall.
+- Adds a broad quartz forecourt, shallow approach steps, blue guide strips, a framed blue entrance sign, and paired illuminated pillars.
+- Adds low moss planters to soften the approach while keeping the boulevard-side lamp rows separate.
+- Integrated into the full generator and exposed as an independent rebuild command.
+
+The threshold was kept at the existing building floor height and the stair blocks sit outside the doorway. The passage, collision, and facade appearance still need an in-game visual check.
+
 ## Next build priorities
 
 1. Build a welcome / navigation pavilion with clear placeholder stations for rules, portals, and future NPCs.
