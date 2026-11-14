@@ -15,5 +15,6 @@ tellraw @s {"text":"/function dblobby:regions/kamis_lookout — build the elevat
 tellraw @s {"text":"/function dblobby:regions/lookout_sanctuary_details — add the upper-deck training court, garden, and lights","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_valley — build the Dragon Ball valley centerpiece","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_viewing_terrace — rebuild the visitor terrace south of Shenron","color":"yellow"}
+tellraw @s {"text":"/function dblobby:regions/shenron_valley_garden — rebuild the landscaped approach gardens","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/roads_and_waypoints — rebuild the connecting roads and markers","color":"yellow"}
 tellraw @s {"text":"WARNING: functions place blocks and can overwrite existing builds. Back up your world first.","color":"red"}
