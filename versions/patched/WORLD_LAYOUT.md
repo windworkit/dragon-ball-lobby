@@ -6,8 +6,8 @@ reference for the lobby; choose a broad, open test area.
 
 ```text
                          NORTH (-Z)
-                 Kami's Lookout palace / tower
-                       (Z +92 to +188)
+                 Capsule Corporation city district
+                       (Z -202 to -63)
 
  Korin's Tower landmark
  (X -184 to -126, Z +126 to +184)
@@ -17,10 +17,12 @@ reference for the lobby; choose a broad, open test area.
  island               plaza                      (X +65 to +205)
  (X -202 to -62)      (origin)
 
- Capsule Corporation                         Shenron Valley
- city                                        (X +72 to +214,
- (Z -202 to -63)                              Z -208 to -66)
+ Korin's Tower                                  Shenron Valley
+ (X -184..-126, Z +126..+184)                  (X +72..+233,
+                                                Z -208..-66)
                          SOUTH (+Z)
+                    Kami's Lookout palace
+                       (Z +91 to +188)
 ```
 
 ## Region footprints
@@ -183,7 +185,7 @@ a populated world.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator now runs thirty region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four gateway caps are color-coded to match the existing district road markers: north blue, east red, west pink, and south yellow.
+- The generator now runs thirty region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
 - The expanded lookout adds broad platform wings, a layered palace hall, side galleries, a taller decorated tower shaft, and monumental corner pylons. The training court and garden are added afterward on the enlarged deck. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
