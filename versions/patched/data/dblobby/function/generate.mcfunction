@@ -5,7 +5,6 @@ function dblobby:regions/plaza_dragon_ball
 function dblobby:regions/spawn_rotunda
 function dblobby:regions/hub_guide_pavilion
 function dblobby:regions/plaza_npc_stations
-function dblobby:regions/plaza_gate_accents
 function dblobby:regions/capsule_city
 function dblobby:regions/capsule_city_detail
 function dblobby:regions/capsule_boulevard_lighting
@@ -32,5 +31,6 @@ function dblobby:regions/shenron_viewing_terrace
 function dblobby:regions/shenron_valley_garden
 function dblobby:regions/shenron_valley_entry_gate
 function dblobby:regions/roads_and_waypoints
+function dblobby:regions/plaza_gate_accents
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
