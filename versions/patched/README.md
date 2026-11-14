@@ -19,8 +19,9 @@ and all original region functions and the expanded decorative modules.
 - Capsule Corporation-inspired city block and glass towers, with a framed public HQ entrance, blue-accented forecourt, low planters, and paired lights.
 - World Martial Arts Tournament arena.
 - Kame House island.
-- Kami's Lookout with an upper-deck training court, meditation garden, and four corner lantern pylons.
-- Shenron Valley with its large terrain terraces, dragon sculpture, seven Dragon Ball displays, and a south-side visitor viewing terrace with matching low garden borders, a clear center approach, and an ornamental southern entry gate.
+- Kami's Lookout expanded into a monumental white-and-red palace with a broad sky platform, ceremonial colonnade, observation wings, and a taller decorated tower shaft;
+- Shenron Valley with a giant raised Shenron dragon, layered green coils, gold belly plates, dorsal mane, horns, whiskers, seven Dragon Ball displays, and a south-side visitor viewing terrace with matching low garden borders, a clear center approach, and an ornamental southern entry gate.
+- Korin's Tower: a separate colossal terracotta tower with multiple balcony bands, vertical windows, a cloud-like foundation, and an elevated summit pavilion.
 - Roads and colored waypoints.
 
 ## Repair applied
@@ -30,7 +31,7 @@ nine smaller commands. The untouched original remains in
 `versions/original/`.
 
 ## Important limitations
-This is a static blockout, not a finished custom adventure map. It does not
+This is an expanding static build, not a finished custom adventure map. It does not
 yet include custom NPCs, quests, mod-specific blocks, interiors with detailed
 furnishings, or Dragon Ball progression logic. The pack has not yet been
 tested in a live Minecraft world. Back up first: generation can overwrite
