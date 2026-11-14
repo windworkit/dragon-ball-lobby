@@ -19,7 +19,7 @@ and all original region functions and the expanded decorative modules.
 - Capsule Corporation-inspired city block and glass towers.
 - World Martial Arts Tournament arena.
 - Kame House island.
-- Kami's Lookout.
+- Kami's Lookout with an upper-deck training court, meditation garden, and four corner lantern pylons.
 - Shenron Valley with its large terrain terraces and dragon sculpture.
 - Roads and colored waypoints.
 
