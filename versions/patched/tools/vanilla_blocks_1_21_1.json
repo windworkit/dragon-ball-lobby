@@ -179,6 +179,32 @@
     "ladder": [
       "facing",
       "waterlogged"
-    ]
+    ],
+    "nether_bricks": [],
+    "quartz_stairs": [
+      "facing",
+      "half",
+      "shape",
+      "waterlogged"
+    ],
+    "water": [
+      "level"
+    ],
+    "light_gray_wool": [],
+    "terracotta": [],
+    "cyan_terracotta": [],
+    "stone_brick_wall": [
+      "east",
+      "north",
+      "south",
+      "up",
+      "waterlogged",
+      "west"
+    ],
+    "cherry_log": [
+      "axis"
+    ],
+    "chiseled_stone_bricks": [],
+    "polished_andesite": []
   }
 }
