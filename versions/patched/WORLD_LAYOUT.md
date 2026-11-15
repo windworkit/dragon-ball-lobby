@@ -190,6 +190,7 @@ and player access still need in-game review.
 | Tournament exterior facade finish | North/south wall faces Z +/-54, X +91..+183, Y +2..+18; end-wall piers X +80..+84 and +186..+190 | Repeating quartz buttresses with gold collars and red caps, blue-glass spectator window bays seated on the wall face, sea-lantern crowns, and matching end-wall piers set outside the west/east portal centers. |
 | Kame House island detail | X -198..-81, Z -40..+41, Y -4..+9 | Adds beach pathing, palm trees, umbrellas, a training garden, outdoor seating, and shoreline lighting. |
 | Kame Island beach cabana | X -109..-91, Z -40..-22, Y -3..+8 | Open-sided jungle-log and dark-wood beach shelter with striped white/light-blue canopy, small gold crown, Turtle-shell sign, benches, storage barrels, hanging lanterns, and a flush sandstone path to the eastern umbrella beach. |
+| Kame Island training garden finish | Sparring ring centered X -151 / Z -27, outer oval X -163..-139, Z -37..-17, Y -2; target stations at X -162/-151/-140, Z -31 | Concentric sandstone and red practice ring, polished central mat with green/white/gold Turtle School emblem, target markers on the original wooden posts, dojo entry walk, four low lantern posts, instructor benches and equipment barrel. |
 
 The Capsule civic finish sits on the existing Y2 square and keeps the central five-wide boulevard open; its crossing stripes are flush with the road. A stray west-side tree canopy coordinate in the earlier streetscape pass has also been corrected back into the residential block. The stadium canopy is intentionally limited to the perimeter so the fighting ring remains visible from above. The final arena rebuild clears the oversized former mat and inner rows, then rebuilds a smaller chamfered fighting platform with a gold-marked pale surface and symmetric inner seating. The outer grandstands, roof canopy, side portals, pagoda entrance, announcer platform, scoreboard, and canopy lighting remain in place. Confirm ring access, seat spacing, and the central aisle in-game.
 
@@ -552,6 +553,18 @@ continuously through the Lookout keel into the main sanctuary. Approximate footp
 X -70..+70, Z +71..+207. The hull is decorative floating architecture, not a
 physics-supported platform; final proportions, approach clearance, and the underside
 silhouette still need visual confirmation in Minecraft.
+
+### Kame Island Turtle School training garden finish
+
+The existing rough-dirt training patch now has a defined oval sparring floor
+centered near X -151 / Z -27. Two concentric sandstone courses frame a red
+inner ring and polished central mat carrying a green/white/gold Turtle School
+shell motif. The three original wooden striking posts remain in place and gain
+red/white/gold target markers. A straight sandstone and gold path connects the
+north edge of the ring to the dojo exit; four low quartz/sea-lantern posts mark
+the practice area's edges. Two dark-wood instructor benches and a small barrel
+equipment station sit outside the target line. All floor elements remain flush
+with the garden's Y-2 walking level and stay inside its low perimeter walls.
 
 ### Kame Island eastern beach cabana
 
