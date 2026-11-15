@@ -52,7 +52,7 @@ confirm the silhouette, limb clearance, and viewing angles in a live world.
 
 ## District gateways and guide pavilion
 
-The four gateway arches are centered on the cardinal roads at approximately 45 blocks from spawn. Their piers sit outside the five-wide walking lane; the centerline is kept clear. North is blue for Capsule City, east red for the World Tournament, west pink for Kame House, and south yellow for Kami's Lookout. Shenron Valley branches into the northeast city region; Korin's Tower occupies the southwest beyond Kame House.
+The four gateway arches are centered on the cardinal roads at approximately 45 blocks from spawn. Their piers sit outside the five-wide walking lane; the centerline is kept clear. North is blue for Capsule City, east red for the World Tournament, west pink for Kame House, and south yellow for Kami's Lookout. Shenron Valley branches into the northeast city region; Korin's Tower rises from the south approach directly beneath Kami's Lookout at X 0 / Z +139.
 
 The information pavilion sits beside the north road at X +12..+30, Z -59..-40, Y -1..+8. It contains a covered counter, lectern/cartography station, light-blue glazing, and a simple Dragon Ball color motif. It is deliberately outside the road corridor. `/function dblobby:hub` remains the reliable text guide.
 
@@ -144,7 +144,7 @@ These additions are a first visual-detail pass. The stadium canopy is intentiona
 | Kami's Lookout main sanctuary | X -22..+22, Z +118..+160, Y +170..+216 | Open ceremonial hall, layered golden lower dome, tall white belfry, upper gold dome and finial, with a protected central ladder hatch. |
 | Korin's Tower shaft and crown | Shaft center X 0 / Z +139, Y 0..+83; crown X -50..+50, Z +85..+193, Y +81..+139; outer terrace X -61..+61, Z +79..+199, Y +107..+114 | Terracotta and sandstone shaft rises into a hollow rounded shell with a cream stepped dome, red-brown equatorial belt, window bays, internal gallery, gardened wraparound terrace, and gold keel. |
 
-These are first-pass functional interiors. The Korin shaft is a ladder-based climb rather than a fully modeled spiral staircase; confirm ladder attachment, floor openings, and summit arrival in-game. Interior furnishings are decorative block approximations, not modded furniture.
+These are first-pass functional interiors. Korin's shaft is a central ladder-based climb with periodic rest platforms and a hollow interior crown; confirm ladder attachment and the Lookout hatch in-game. Interior furnishings are decorative block approximations, not modded furniture.
 
 ## Latest landmark refinement
 
@@ -214,10 +214,10 @@ a populated world.
 
 - Make a fresh world or a complete backup first.
 - Find a large, mostly empty area. The map covers several hundred blocks.
-- Ensure there is vertical clearance for the lookout and tall structures.
+- Ensure there is vertical clearance for the lookout and tall structures. The stacked Kami's Lookout now reaches generation-origin Y +216; run `/function dblobby:generate` from a position no higher than Y +103 to remain below Minecraft's standard Y=319 ceiling (a typical surface-level origin around Y64 is safe).
 - Avoid running the generator a second time over player builds.
-- The generator now runs the complete set of base, access, and finish region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
-- The complete Lookout rebuild replaces the former rectangular platform and palace with a circular 129-by-137-block saucer sanctuary. Its upper deck is a tiled oval with cypress-like topiary, four tall orbital lamps, paired reflecting pools, a central tiered temple, two matching domed side towers, and a clear arrival promenade. The underside narrows through red, ivory, and green hull bands to a small gold keel. Confirm the actual silhouette and player movement in-game.
+- The generator now runs the complete set of base, access, and finish region functions in one call, including the centered Korin shaft and the Lookout rebuilt 140 blocks higher. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
+- The complete Lookout rebuild replaces the former rectangular platform and palace with a circular 129-by-137-block saucer sanctuary, now shifted upward by 140 blocks so Korin's Tower can rise directly beneath its center. Its upper deck is a tiled oval with cypress-like topiary, four tall orbital lamps, paired reflecting pools, a central tiered temple, and two matching domed side towers. The underside narrows through red, ivory, and green hull bands to a small gold keel. The central ladder hatch is now aligned over Korin's Tower at X 0 / Z +139.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
 
@@ -229,7 +229,7 @@ A final gateway detail region adds wider stone or quartz footing caps, colored v
 
 ## District approach markers
 
-The four main roads now have repeated paired light pylons to establish a visual rhythm between the central plaza and each destination. North uses quartz and Capsule blue; east uses deepslate and tournament red; west uses sandstone and Kame pink; south uses quartz and Kami gold. Markers sit outside the five-block walking lanes. The southern pair is offset farther from center to clear the Lookout tower shaft.
+The four main roads now have repeated paired light pylons to establish a visual rhythm between the central plaza and each destination. North uses quartz and Capsule blue; east uses deepslate and tournament red; west uses sandstone and Kame pink; south uses quartz and Kami gold. Markers sit outside the five-block walking lanes. The southern pair is offset farther from center to clear the former Lookout ground shaft; the new Korin tower is centered farther south at X 0 / Z +139.
 
 
 ## Capsule City arrival threshold
