@@ -49,6 +49,7 @@ function dblobby:regions/tournament_arena_rebuild
 function dblobby:regions/kame_house_finish
 function dblobby:regions/kame_training_pavilion
 function dblobby:regions/kame_house_complete_rebuild
+function dblobby:regions/kame_beach_cabana_finish
 function dblobby:regions/kamis_lookout_legacy_clear
 execute positioned ~ ~140 ~ run function dblobby:regions/kamis_lookout_complete_rebuild
 function dblobby:regions/korins_tower_complete_rebuild
