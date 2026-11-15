@@ -91,6 +91,94 @@
       "has_book",
       "powered"
     ],
-    "cartography_table": []
+    "cartography_table": [],
+    "oak_planks": [],
+    "stripped_dark_oak_log": [
+      "axis"
+    ],
+    "dark_oak_fence": [
+      "east",
+      "north",
+      "south",
+      "waterlogged",
+      "west"
+    ],
+    "oak_fence": [
+      "east",
+      "north",
+      "south",
+      "waterlogged",
+      "west"
+    ],
+    "sand": [],
+    "jungle_log": [
+      "axis"
+    ],
+    "jungle_leaves": [
+      "distance",
+      "persistent",
+      "waterlogged"
+    ],
+    "orange_terracotta": [],
+    "mossy_cobblestone": [],
+    "red_nether_brick_stairs": [
+      "facing",
+      "half",
+      "shape",
+      "waterlogged"
+    ],
+    "red_nether_bricks": [],
+    "sandstone_stairs": [
+      "facing",
+      "half",
+      "shape",
+      "waterlogged"
+    ],
+    "lime_concrete": [],
+    "green_concrete": [],
+    "pink_tulip": [],
+    "white_tulip": [],
+    "red_carpet": [],
+    "white_wool": [],
+    "bookshelf": [],
+    "quartz_block": [],
+    "iron_block": [],
+    "campfire": [
+      "facing",
+      "lit",
+      "signal_fire",
+      "waterlogged"
+    ],
+    "barrel": [
+      "facing",
+      "open"
+    ],
+    "dark_oak_stairs": [
+      "facing",
+      "half",
+      "shape",
+      "waterlogged"
+    ],
+    "magenta_wool": [],
+    "red_wool": [],
+    "light_blue_wool": [],
+    "coarse_dirt": [],
+    "cobblestone_wall": [
+      "east",
+      "north",
+      "south",
+      "up",
+      "waterlogged",
+      "west"
+    ],
+    "flowering_azalea_leaves": [
+      "distance",
+      "persistent",
+      "waterlogged"
+    ],
+    "ladder": [
+      "facing",
+      "waterlogged"
+    ]
   }
 }
