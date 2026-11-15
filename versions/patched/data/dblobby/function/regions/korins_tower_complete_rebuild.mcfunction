@@ -5957,9 +5957,8 @@ fill ~45 ~104 ~136 ~50 ~113 ~142 minecraft:air
 fill ~-50 ~104 ~136 ~-45 ~113 ~142 minecraft:air
 
 # FINAL ALIGNMENT CHECK: tower tip and Lookout keel share X0/Z+139.
-# Tower shell stops at Y+139; the Lookout begins at Y+140.
-# The ladder continues into the centered Lookout shaft through Y+167.
-fill ~-4 ~138 ~135 ~4 ~140 ~143 minecraft:air
+# The tower shell stops at Y+139; the Lookout's keel begins at Y+140.
+# Preserve the vertical ladder at X-4/Z+136 through the centered Lookout shaft.
+fill ~-4 ~138 ~135 ~4 ~139 ~143 minecraft:air
 fill ~-3 ~138 ~136 ~3 ~139 ~142 minecraft:smooth_quartz
-fill ~-3 ~140 ~136 ~3 ~167 ~136 minecraft:ladder[facing=east]
 # End of centered Korin's Tower rebuild.
