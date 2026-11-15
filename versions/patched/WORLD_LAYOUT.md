@@ -205,7 +205,7 @@ a populated world.
 - Find a large, mostly empty area. The map covers several hundred blocks.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
-- The generator now runs thirty-five region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
+- The generator now runs the complete set of base, access, and finish region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
 - The expanded lookout adds broad platform wings, a layered palace hall, side galleries, a taller decorated tower shaft, and monumental corner pylons. The training court and garden are added afterward on the enlarged deck. Exact appearance and collision still need in-game review.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
@@ -229,3 +229,76 @@ A dedicated blue-and-white gateway marks the north road's transition into Capsul
 ## Kame House island arrival promenade
 
 A narrow sandstone connector leaves the west road at the island's eastern edge, then follows the south side of the Kame House shell toward the existing beach path and oak dock. The promenade uses a sandstone stair transition, smooth-sandstone paving, pink identity markers, lanterns, and low coastal planting beds. A small dark-oak landing pad overlaps the existing beach path and pier approach to create a continuous visual connection. The route is deliberately kept outside the house footprint and leaves the dock's central deck clear. Confirm the exact one-block elevation transition and shoreline join in-game.
+
+## Full polish pass — current build standard
+
+This section supersedes earlier Y-level notes above wherever they conflict with the
+current generator. The goal is a consistent **Y0 ground datum** for the main hub
+and ground districts, while keeping intentionally elevated landmarks legible and
+reachable.
+
+### Surface and route elevations
+
+| Area | Floor / arrival level | Current treatment |
+| --- | --- | --- |
+| Central spawn plaza | Floor blocks Y0 | One continuous quartz/stone plaza, flush colored district spokes, four social courts, and a rounded floating Dragon Ball at Y8..13 |
+| Capsule City | Boulevard floor blocks Y2 | Two north-facing stair rows at the city threshold connect the Y0 north road to the raised avenue; civic forecourt and side streets remain at ground level |
+| Tournament district | Concourses Y0; fighting mat Y1 | Previous nested full-height pyramid cleared and replaced with a level spectator concourse and a one-block-high central platform |
+| Kame House island | Beach paths and promenade Y-3..-2 | House faces south, with a red pitched roof, pink-and-white façade, porch, palms, dock, and a short sandstone transition from the west road |
+| Kami's Lookout | Floating platform surface Y28..29; palace floor Y32 | Intentional sky sanctuary; the central tower route and bridge remain the vertical access route |
+| Korin's Tower | Ground plinth Y0..10; shaft Y12..133; summit Y134..177 | The tower has been raised by 32 blocks so its cloud foundation begins at the world datum; an exterior supported stair and bridge meet the entry shaft |
+| Shenron Valley | Visitor court Y31; seven Dragon Ball displays Y32..39 | A level display court, seven separated orb pedestals, layered cloud banks, and a thick C-shaped Shenron coil at approximately Y45..92 |
+
+### Shenron — rebuilt landmark silhouette
+
+The previous thin, disconnected body trace and oversized square base are removed
+by the generator. The new sculpture uses overlapping volumetric body segments to
+form a broad coil, a rising neck, a tapered tail, and a distinct south-facing
+head with brows, eyes, muzzle, horns, and long orange whiskers. Yellow underside
+plates and green scale bands help the body read as a rounded dragon rather than a
+single green bar. Cloud clusters rise from the level visitor court and blend into
+the coil; they are built from placeable wool blocks.
+
+Seven Dragon Balls are displayed on individual plinths around the court. The
+orbs use rounded orange-glass profiles with a red star count facing the visitor
+terrace. They are not placed in a flat row, and the central hub orb has its own
+smaller, rounded one-star silhouette beneath the rotunda aperture.
+
+### Central hub and ground-district finish
+
+The central plaza's player walking surface is now rebuilt as one level at Y0.
+A geometric dark-stone and quartz medallion frames the spawn, with flush blue,
+red, pink, and gold route inlays pointing to the four districts. The central orb
+is smaller and rounder, leaving the ground-level spawn unobstructed.
+
+Capsule City receives a more recognizable blue-and-white corporate identity:
+façade bands, window ribbons, roof crowns, entry-sign detailing, low planted
+courts, and a direct stair transition from the north road. The main avenue is
+intentionally raised two blocks and the entry ramp makes that change visible.
+
+The tournament district has a single level concourse, red perimeter treatment,
+open entry portals, spectator tiers, a clear fighting surface, and a separate
+event arrival with registration kiosks and an entry crest. The central fighting
+platform is only one block above the concourse.
+
+Kame House receives a pitched red roof over the pink shell, pale eaves, a
+turtle-inspired front sign, side windows, a porch that leaves the dock route
+open, and warm island landscaping. Its shore remains lower than the main road
+because it is built as a beach island; the promenade is the intended transition.
+
+### Elevated landmarks
+
+Kami's Lookout remains deliberately above ground. Its circular platform, red
+perimeter band, gold dome, front colonnade, side galleries, practice court, and
+meditation garden make it read as a distinct sanctuary rather than another
+ground-level building. The vertical climb is part of the landmark experience.
+
+Korin's Tower is now grounded: the original below-grade base has been moved up
+32 blocks without shrinking the shaft or summit pavilion. A supported, wide
+exterior stair rises from the southwest approach to a bridge and then the
+interior ladder route. The summit remains intentionally high.
+
+The landmarks above have passed repository static validation and command-volume
+checks. Minecraft does not perform a visual preview of datapack geometry, so
+their final proportions, stair collision, and sightlines still require a live
+world review.
