@@ -153,6 +153,7 @@ and player access still need in-game review.
 | --- | --- | --- |
 | Capsule City streetscape | X -76..+76, Z -185..-73, Y 0..19 | Adds smaller residential and workshop blocks, rooftop planting, boulevard pylons, and HQ forecourt lighting. |
 | Capsule City civic square | X -29..+29, Z -129..-105, Y 2..12 | Flush pedestrian crossing across the north-south boulevard, tiled side walks, two paired bench courts, four raised corner planters with tapered trees, eight blue-white lamp posts, and two small illuminated capsule displays. |
+| Capsule satellite visitor/research courts | West X -46..-15, east X +15..+48; Z -146..-135, Y 0..5 | Separate blue visitor and cyan research landing courts, stepped entries, low planters, sea-lantern beacons, and level side walks joining both rounded satellites to the HQ forecourt. |
 | Tournament stadium expansion | X +77..+193, Z -61..+61, Y 1..21 | Adds an outer concourse, upper spectator tiers, roofline canopy wings, corner pylons, and three entry portals. The central ring remains uncovered. |
 | Tournament fighting platform and inner seating | Ring centered X +135/Z 0, chamfered footprint X +110..+160, Z -23..+23, Y +1; inner seat banks X +102..+168, Z +/-27..+36, Y +2..+6 | Rebuilds the oversized mat into a clean chamfered square with red outer border, quartz band, pale fighting surface, gold edge lines, four corner markers, west/east access stairs, three stepped seating rows per side, and a wide central aisle. |
 | Kame House island detail | X -198..-81, Z -40..+41, Y -4..+9 | Adds beach pathing, palm trees, umbrellas, a training garden, outdoor seating, and shoreline lighting. |
@@ -371,7 +372,9 @@ Two smaller satellite buildings flank the HQ:
 
 Both satellites have a Y1 foundation, Y2 public floor, and a roof crown reaching
 approximately Y14. They replace the previous square shells within the existing
-city footprint. The side walkways join their entrances to the central campus.
+city footprint. The new west visitor court uses Capsule blue and the east research
+court uses cyan; each has a stepped entrance, flush landing pad, planted corners,
+and a side walk that joins the HQ forecourt. The main boulevard tunnel stays open.
 
 ## Kame House island shoreline rebuild
 
