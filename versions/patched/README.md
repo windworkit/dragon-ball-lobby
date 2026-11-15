@@ -17,7 +17,7 @@ and all original region functions and the expanded decorative modules.
 ## What's included
 - Central spawn hub with an open-air monumental rotunda framing the floating one-star Dragon Ball, illuminated crown columns, seating bays, compass medallions, four landscaped cherry-tree gardens, four passable architectural district gateways with layered supports, illuminated glass insets, flush colored threshold strips, and repeated illuminated roadside approach markers, and a dedicated blue-and-white Capsule City arrival gateway, four dedicated social seating courts, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace with landscaped approach gardens and a gold-capped southern entry gate.
 - Capsule Corporation city with a large white-and-gold domed HQ, blue ribbon glazing, a clear boulevard tunnel, furnished reception/research wings, two rounded satellite capsule buildings, and illuminated boulevard details.
-- World Martial Arts Tournament stadium with a level ground concourse, a one-block-raised fighting mat, upper spectator tiers, roofline canopy wings, illuminated corner pylons, and a separate event arrival.
+- World Martial Arts Tournament stadium with a level concourse, one-block-raised fighting mat, spectator tiers, roof canopy, pagoda-style arrival gate, open registration/vendor stalls, announcer stand, and waiting benches.
 - Kame House on a reshaped oval island with layered sandstone/sand/grass shelves, a shallow surrounding water ring, palm grove, beach umbrellas, outdoor seating, shoreline rockwork, dock, and dedicated training garden.
 - Kami's Lookout expanded into a monumental white-and-red palace with a broad sky platform, ceremonial colonnade, observation wings, and a taller decorated tower shaft;
 - Shenron Valley with a rebuilt giant Shenron with a thick C-shaped coil, defined head, horns, whiskers, cloud banks, gold underside, and seven individually staged Dragon Ball displays, and a south-side visitor viewing terrace with matching low garden borders, a clear center approach, and an ornamental southern entry gate.
@@ -71,3 +71,7 @@ Kame House's foundation has been reshaped from a rectangular platform into an
 oval island with stepped shore layers and a surrounding shallow-water ring.
 The house, dock, training garden, and path details are generated after the
 shoreline so they remain connected to the revised landform.
+
+The Tournament forecourt now reads as an event entrance rather than a plain
+passage: the pagoda gate frames the west arrival, the open stalls flank the
+approach, and the announcer platform overlooks the fighting area.
