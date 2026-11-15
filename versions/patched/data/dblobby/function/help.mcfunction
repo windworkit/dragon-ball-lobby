@@ -18,17 +18,11 @@ tellraw @s {"text":"/function dblobby:regions/kame_house — build the tropical 
 tellraw @s {"text":"/function dblobby:regions/kame_island_detail — add beach, palms, training garden, and island details","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kame_house_interior — furnish Master Roshi’s house interior","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/kame_dock_details — rebuild the Kame House dock and lanterns","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/kamis_lookout — build the elevated lookout foundation","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/kamis_lookout_expansion — expand Kami’s Lookout into a monumental palace and sky platform","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/kamis_lookout_access — open the tower shaft and connect the sky bridge to the palace stairs","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/kamis_lookout_interior — furnish the palace hall and meditation pools","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/korins_tower — build Korin’s colossal tower and summit pavilion","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/korins_tower_access — add the interior climbing shaft and rest landings","color":"yellow"}
-tellraw @s {"text":"/function dblobby:regions/lookout_sanctuary_details — add the upper-deck training court, garden, and lights","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_valley — build the Dragon Ball valley foundation","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_giant_form — add the giant raised Shenron landmark","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_viewing_terrace — rebuild the visitor terrace south of Shenron","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_valley_garden — rebuild the landscaped approach gardens","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/shenron_valley_entry_gate — rebuild the southern Shenron Valley entry gate","color":"yellow"}
 tellraw @s {"text":"/function dblobby:regions/roads_and_waypoints — rebuild the connecting roads and markers","color":"yellow"}
+tellraw @s {"text":"Kami's Lookout and Korin's Tower are a vertically stacked landmark pair; generate them together with /function dblobby:generate.","color":"green"}
 tellraw @s {"text":"WARNING: functions place blocks and can overwrite existing builds. Back up your world first.","color":"red"}
