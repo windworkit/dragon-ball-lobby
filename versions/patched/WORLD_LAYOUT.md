@@ -158,6 +158,7 @@ and player access still need in-game review.
 | Tournament stadium expansion | X +77..+193, Z -61..+61, Y 1..21 | Adds an outer concourse, upper spectator tiers, roofline canopy wings, corner pylons, and three entry portals. The central ring remains uncovered. |
 | Tournament fighting platform and inner seating | Ring centered X +135/Z 0, chamfered footprint X +110..+160, Z -23..+23, Y +1; inner seat banks X +102..+168, Z +/-27..+36, Y +2..+6 | Rebuilds the oversized mat into a clean chamfered square with red outer border, quartz band, pale fighting surface, gold edge lines, four corner markers, west/east access stairs, three stepped seating rows per side, and a wide central aisle. |
 | Kame House island detail | X -198..-81, Z -40..+41, Y -4..+9 | Adds beach pathing, palm trees, umbrellas, a training garden, outdoor seating, and shoreline lighting. |
+| Kame Island beach cabana | X -109..-91, Z -40..-22, Y -3..+8 | Open-sided jungle-log and dark-wood beach shelter with striped white/light-blue canopy, small gold crown, Turtle-shell sign, benches, storage barrels, hanging lanterns, and a flush sandstone path to the eastern umbrella beach. |
 
 The Capsule civic finish sits on the existing Y2 square and keeps the central five-wide boulevard open; its crossing stripes are flush with the road. A stray west-side tree canopy coordinate in the earlier streetscape pass has also been corrected back into the residential block. The stadium canopy is intentionally limited to the perimeter so the fighting ring remains visible from above. The final arena rebuild clears the oversized former mat and inner rows, then rebuilds a smaller chamfered fighting platform with a gold-marked pale surface and symmetric inner seating. The outer grandstands, roof canopy, side portals, pagoda entrance, announcer platform, scoreboard, and canopy lighting remain in place. Confirm ring access, seat spacing, and the central aisle in-game.
 
@@ -477,6 +478,19 @@ continuously through the Lookout keel into the main sanctuary. Approximate footp
 X -70..+70, Z +71..+207. The hull is decorative floating architecture, not a
 physics-supported platform; final proportions, approach clearance, and the underside
 silhouette still need visual confirmation in Minecraft.
+
+### Kame Island eastern beach cabana
+
+A compact open-sided rest cabana now sits on the eastern beach shelf, away from
+the training garden and Turtle School dojo. Its smooth-sandstone footing and
+dark-oak deck support six jungle-log posts, dark-wood beams, a striped white and
+light-blue canopy, a stepped red-brick crown, and a small gold-lit finial. The
+south-facing lintel carries a green Turtle-island motif. A low counter, two
+barrel stores, paired benches, and hanging lanterns furnish the shaded interior.
+A flush sandstone walk leads south toward the existing eastern beach umbrella
+area; it stops before the umbrella canopy so the lounge remains unobstructed.
+The outboard east shore receives two small irregular rock/moss clusters and a
+low sea-lantern marker.
 
 ### Kame Island Turtle School pavilion
 
