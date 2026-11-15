@@ -33,8 +33,8 @@ fill ~170 ~3 ~-34 ~170 ~5 ~-32 minecraft:white_concrete
 fill ~170 ~4 ~-34 ~170 ~4 ~-32 minecraft:gold_block
 setblock ~170 ~6 ~-33 minecraft:sea_lantern
 # Front queue pad is flush with the concourse and approaches from the west.
-fill ~166 ~0 ~-34 ~170 ~0 ~-30 minecraft:polished_andesite
-fill ~168 ~0 ~-33 ~169 ~0 ~-31 minecraft:gold_block
+fill ~169 ~0 ~-34 ~171 ~0 ~-30 minecraft:polished_andesite
+fill ~169 ~0 ~-33 ~170 ~0 ~-31 minecraft:gold_block
 # Hanging service lanterns under the front eave.
 setblock ~173 ~5 ~-37 minecraft:lantern[hanging=true]
 setblock ~181 ~5 ~-37 minecraft:lantern[hanging=true]
@@ -69,8 +69,8 @@ fill ~170 ~4 ~28 ~170 ~4 ~32 minecraft:white_concrete
 fill ~170 ~3 ~30 ~170 ~5 ~30 minecraft:white_concrete
 setblock ~170 ~6 ~30 minecraft:sea_lantern
 # Front queue pad stays level and separate from the ring-side spectator aisle.
-fill ~166 ~0 ~27 ~170 ~0 ~31 minecraft:polished_andesite
-fill ~168 ~0 ~28 ~169 ~0 ~30 minecraft:gold_block
+fill ~169 ~0 ~27 ~171 ~0 ~31 minecraft:polished_andesite
+fill ~169 ~0 ~28 ~170 ~0 ~30 minecraft:gold_block
 setblock ~173 ~5 ~24 minecraft:lantern[hanging=true]
 setblock ~181 ~5 ~24 minecraft:lantern[hanging=true]
 # Both support kiosks sit outside the seating banks and announcer platform.
