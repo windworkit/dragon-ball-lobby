@@ -19,7 +19,7 @@ and all original region functions and the expanded decorative modules.
 - Capsule Corporation city with a large white-and-gold domed HQ, blue ribbon glazing, a clear boulevard tunnel, furnished reception/research wings, two rounded satellite capsule buildings, and illuminated boulevard details.
 - World Martial Arts Tournament stadium with a level concourse, one-block-raised fighting mat, spectator tiers, roof canopy, pagoda-style arrival gate, open registration/vendor stalls, announcer stand, and waiting benches.
 - Kame House on a reshaped oval island with layered sandstone/sand/grass shelves, a shallow surrounding water ring, palm grove, beach umbrellas, outdoor seating, shoreline rockwork, dock, and dedicated training garden.
-- Kami's Lookout expanded into a monumental white-and-red palace with a broad sky platform, ceremonial colonnade, observation wings, and a taller decorated tower shaft;
+- Kami's Lookout completely rebuilt as a monumental floating circular sanctuary: a tiled oval courtyard, layered red-and-ivory hull with a green lower bowl, central gold-domed temple and two matching side sanctuaries, tall orbital lanterns, cypress-like gardens, reflecting pools, a preserved ladder-shaft arrival, and an open ceremonial promenade;
 - Shenron Valley with a monumental, reference-inspired Shenron: a massive layered coil, elevated chest and neck, sculpted muzzle and jaw, raised brow, branching swept horns, long curling whiskers, four articulated clawed limbs, fanned tail, flowing nape mane, stepped dorsal crest, contrasting scale plates, segmented gold belly, cloud supports, and seven individually staged Dragon Ball displays. The south-side visitor terrace keeps its clear center approach and ornamental entry gate.
 - Korin's Tower: a grounded colossal terracotta tower with a supported exterior stair, multiple balcony bands, vertical windows, a cloud foundation, and a high summit pavilion.
 - Roads and colored waypoints.
@@ -53,8 +53,8 @@ and download the artifact from its Artifacts section.
 
 The current patched build includes a rebuilt volumetric Shenron, a rounded central
 Dragon Ball, a unified central plaza floor, district façade finishing, a Kame House
-roof and porch, a gold-domed Lookout, a grounded Korin Tower with exterior access,
-and a level tournament concourse. See [WORLD_LAYOUT.md](WORLD_LAYOUT.md) for the
+roof and porch, a completely redesigned floating Kami's Lookout, a grounded Korin
+Tower with exterior access, and a level tournament concourse. See [WORLD_LAYOUT.md](WORLD_LAYOUT.md) for the
 current elevation table and relative coordinates.
 
 The static validator now also checks every referenced vanilla block ID and block-state
@@ -89,5 +89,5 @@ tapered whisker filaments, branching horn tines, a layered nape mane, and a
 stepped dorsal crest. These additions are generated after the main statue so
 the face, limbs, and silhouette details remain visible.
 - Korin's Tower cloud-plinth finish with chamfered tiers, soft cloud lobes, and a blue-and-gold entrance frame.
-- Kami's Lookout cloud underbelly with layered cloud banks and restrained gold/quartz underside ribs.
+- Kami's Lookout full floating-sanctuary rebuild with a stepped red/ivory/green saucer hull, tiled oval court, three gold-domed temple volumes, four high lantern pylons, planted cypress avenues, reflecting pools, and a rebuilt ladder-shaft promenade.
 - Kame Island Turtle School pavilion with a red roof, shell crest, practice targets, benches, and lanterns.
