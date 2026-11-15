@@ -33,6 +33,7 @@ function dblobby:regions/plaza_art_direction
 function dblobby:regions/hub_architecture_finish
 function dblobby:regions/plaza_orbital_finish
 function dblobby:regions/plaza_npc_station_finish
+function dblobby:regions/plaza_social_courts_finish
 function dblobby:regions/capsule_hq_dome
 function dblobby:regions/capsule_hq_interior
 function dblobby:regions/capsule_city_satellites
