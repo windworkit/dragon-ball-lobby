@@ -35,8 +35,8 @@ fill ~70 ~1 ~8 ~70 ~8 ~8 minecraft:polished_blackstone_bricks
 fill ~70 ~9 ~8 ~70 ~11 ~8 minecraft:red_concrete
 setblock ~70 ~12 ~-8 minecraft:sea_lantern
 setblock ~70 ~12 ~8 minecraft:sea_lantern
-# One-block transition up to the stadium's Y+1 concourse.
+# Flush approach apron meets the level Y0 stadium concourse.
 fill ~75 ~0 ~-4 ~82 ~0 ~4 minecraft:smooth_stone
 fill ~78 ~0 ~-3 ~82 ~0 ~3 minecraft:polished_andesite
 # Gold inlay points toward the fighting ring; the path remains clear.
-fill ~80 ~1 ~-1 ~82 ~1 ~1 minecraft:gold_block
+fill ~80 ~0 ~-1 ~82 ~0 ~1 minecraft:gold_block
