@@ -184,6 +184,7 @@ and player access still need in-game review.
 | Capsule City streetscape | X -76..+76, Z -185..-73, Y 0..19 | Adds smaller residential and workshop blocks, rooftop planting, boulevard pylons, and HQ forecourt lighting. |
 | Capsule City civic square | X -29..+29, Z -129..-105, Y 2..12 | Flush pedestrian crossing across the north-south boulevard, tiled side walks, two paired bench courts, four raised corner planters with tapered trees, eight blue-white lamp posts, and two small illuminated capsule displays. |
 | Capsule satellite visitor/research courts | West X -46..-15, east X +15..+48; Z -146..-135, Y 0..5 | Separate blue visitor and cyan research landing courts, stepped entries, low planters, sea-lantern beacons, and level side walks joining both rounded satellites to the HQ forecourt. |
+| Capsule neighborhood / workshop entries | West residence door X -69..-65, Z -111; west workshop X -46..-42, Z -77; east workshop X +39, Z -84..-80; east visitor capsule X +62, Z -127..-123 | Four carved public entrances with quartz frames, blue/cyan glazing, shallow canopies, flush landing pads, front plaques, roof ventilation pods and lantern markers. Paths stay clear of the central boulevard. |
 | Tournament stadium expansion | X +77..+193, Z -61..+61, Y 1..21 | Adds an outer concourse, upper spectator tiers, roofline canopy wings, corner pylons, and three entry portals. The central ring remains uncovered. |
 | Tournament fighting platform and inner seating | Ring centered X +135/Z 0, chamfered footprint X +110..+160, Z -23..+23, Y +1; inner seat banks X +102..+168, Z +/-27..+36, Y +2..+6 | Rebuilds the oversized mat into a clean chamfered square with red outer border, quartz band, pale fighting surface, gold edge lines, four corner markers, west/east access stairs, three stepped seating rows per side, and a wide central aisle. |
 | Tournament exterior facade finish | North/south wall faces Z +/-54, X +91..+183, Y +2..+18; end-wall piers X +80..+84 and +186..+190 | Repeating quartz buttresses with gold collars and red caps, blue-glass spectator window bays seated on the wall face, sea-lantern crowns, and matching end-wall piers set outside the west/east portal centers. |
@@ -420,6 +421,18 @@ Likewise, the old `kame_house_interior` module is omitted from the full generato
 because `kame_house_complete_rebuild` clears and refurnishes the entire rounded
 house, including its interior. This prevents old geometry from being placed only
 to be overwritten and keeps the generator's final architecture authoritative.
+
+### Capsule City neighborhood and workshop finish
+
+The four smaller blocks around the HQ campus now have proper public entrances:
+the west residence and compact west workshop use south-facing doors, the tall
+east workshop has a west-facing service entry, and the east visitor capsule has
+a matching west-facing door. Each opening is cut into the existing hollow shell,
+then framed with quartz, role-color fascia and light-blue glass. Shallow quartz
+or diorite landing pads stay level with the Y0 city floor. The entries receive
+small sign plaques or awnings, while low roof service pods, iron grilles and
+sea-lantern markers give the flat crowns a more lived-in technical character.
+The north-south boulevard and HQ forecourt remain untouched.
 
 ## Capsule Corporation architectural rebuild
 
