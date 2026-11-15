@@ -4,7 +4,7 @@
 
 # Level circulation floor and two blue guiding lines, outside the main boulevard.
 fill ~-18 ~2 ~-175 ~-7 ~2 ~-151 minecraft:smooth_quartz
-fill ~7 ~2 ~18 ~7 ~2 ~-151 minecraft:smooth_quartz
+fill ~7 ~2 ~-175 ~18 ~2 ~-151 minecraft:smooth_quartz
 fill ~-17 ~2 ~-174 ~-8 ~2 ~-173 minecraft:light_blue_concrete
 fill ~8 ~2 ~-174 ~17 ~2 ~-173 minecraft:light_blue_concrete
 
