@@ -61,6 +61,15 @@ Every block is set at Y0, leaving the central five-block lane unobstructed and
 keeping the approach surfaces level. These are decorative wayfinding marks, not
 portals or teleport triggers.
 
+### Four district gateway crests
+
+Each cardinal arch now has a destination-specific crest mounted on its inward-facing
+surface above the lintel. The north Capsule gate carries a blue/white capsule emblem;
+the east Tournament gate has a red/gold ring medallion; the south Kami gate has a
+gold/white halo with a luminous core; and the west Kame gate carries a pink/green
+turtle-shell emblem. The plaques occupy Y+11..+17, above the existing arch openings,
+and do not narrow the five-wide road lanes.
+
 ## District gateways and guide pavilion
 
 The four gateway arches are centered on the cardinal roads at approximately 45 blocks from spawn. Their piers sit outside the five-wide walking lane; the centerline is kept clear. North is blue for Capsule City, east red for the World Tournament, west pink for Kame House, and south yellow for Kami's Lookout. Shenron Valley branches into the northeast city region; Korin's Tower rises from the south approach directly beneath Kami's Lookout at X 0 / Z +139.
