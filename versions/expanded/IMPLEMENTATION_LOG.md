@@ -180,3 +180,16 @@ Implemented in the patched datapack:
 - Integrated after the main tournament arrival and required by static validation.
 
 The gate roof height, kiosk counter access, announcer sightline, and player circulation still need a live 1.21.1 visual check.
+
+## Iteration 13 — Shenron sculptural finishing
+
+Implemented in the patched datapack:
+
+- `shenron_sculpture_finish.mcfunction` overlays pale segmented belly plates and ochre seams on the south-facing body surfaces.
+- Adds dark green flank scales and a repeated dorsal fin rhythm along the coil.
+- Bridges the neck into the head with throat plates, swept-back mane tufts, curved horn tips, and side fins.
+- Refines the face with a recessed mouth, lower jaw, fangs, nostrils, and curled whisker terminals.
+- Adds a fan-like tail-root detail while leaving the tail tip and seven Dragon Ball displays intact.
+- Integrated after the main Shenron form, surface detail, and elevated access route.
+
+The silhouette still needs a live multi-angle Minecraft review; this pass improves surface anatomy and does not replace that acceptance step.
