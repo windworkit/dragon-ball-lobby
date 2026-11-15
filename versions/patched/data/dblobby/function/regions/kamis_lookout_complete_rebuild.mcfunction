@@ -1317,7 +1317,6 @@ fill ~-5 ~29 ~135 ~-5 ~29 ~143 minecraft:gold_block
 fill ~5 ~29 ~135 ~5 ~29 ~143 minecraft:gold_block
 fill ~-4 ~29 ~134 ~4 ~29 ~134 minecraft:gold_block
 fill ~-4 ~29 ~144 ~4 ~29 ~144 minecraft:gold_block
-forceload add ~ ~ ~
 fill ~-19 ~30 ~120 ~19 ~42 ~158 minecraft:white_concrete
 fill ~-15 ~31 ~124 ~15 ~41 ~154 minecraft:air
 fill ~-5 ~31 ~120 ~5 ~39 ~126 minecraft:air
