@@ -40,6 +40,7 @@ function dblobby:regions/capsule_city_finish
 function dblobby:regions/capsule_hq_facade_finish
 function dblobby:regions/capsule_city_civic_finish
 function dblobby:regions/capsule_satellite_courts
+function dblobby:regions/capsule_neighborhood_finish
 function dblobby:regions/tournament_arrival_finish
 function dblobby:regions/tournament_venue_finish
 function dblobby:regions/tournament_spectator_finish
