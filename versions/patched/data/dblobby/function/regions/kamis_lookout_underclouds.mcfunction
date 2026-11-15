@@ -39,10 +39,12 @@ setblock ~-38 ~24 ~163 minecraft:sea_lantern
 setblock ~38 ~24 ~163 minecraft:sea_lantern
 
 # Gold-and-quartz underside ribs visually tie the clouds to the deck.
-fill ~-36 ~27 ~108 ~-32 ~27 ~170 minecraft:quartz_pillar
-fill ~32 ~27 ~108 ~36 ~27 ~170 minecraft:quartz_pillar
-fill ~-30 ~27 ~120 ~30 ~27 ~124 minecraft:gold_block
-fill ~-30 ~27 ~153 ~30 ~27 ~157 minecraft:gold_block
-fill ~-42 ~27 ~128 ~-38 ~27 ~158 minecraft:gold_block
-fill ~38 ~27 ~128 ~42 ~27 ~158 minecraft:gold_block
+fill ~-36 ~27 ~120 ~-36 ~27 ~120 minecraft:quartz_pillar
+fill ~36 ~27 ~120 ~36 ~27 ~120 minecraft:quartz_pillar
+fill ~-36 ~27 ~148 ~-36 ~27 ~148 minecraft:quartz_pillar
+fill ~36 ~27 ~148 ~36 ~27 ~148 minecraft:quartz_pillar
+fill ~-30 ~27 ~120 ~30 ~27 ~120 minecraft:gold_block
+fill ~-30 ~27 ~157 ~30 ~27 ~157 minecraft:gold_block
+fill ~-42 ~27 ~128 ~-42 ~27 ~158 minecraft:gold_block
+fill ~42 ~27 ~128 ~42 ~27 ~158 minecraft:gold_block
 # The central tower shaft and the bridge corridor remain open.
