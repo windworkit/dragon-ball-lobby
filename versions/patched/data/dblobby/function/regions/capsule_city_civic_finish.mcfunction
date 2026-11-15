@@ -40,7 +40,7 @@ fill ~23 ~3 ~-123 ~23 ~4 ~-122 minecraft:blue_concrete
 
 # 3) Four raised planters provide greenery at the outer corners of the plaza.
 fill ~-28 ~3 ~-119 ~-23 ~3 ~-114 minecraft:stone_bricks
-fill ~-27 ~4 ~-24 ~-24 ~4 ~-116 minecraft:moss_block
+fill ~-27 ~4 ~-118 ~-24 ~4 ~-115 minecraft:moss_block
 fill ~23 ~3 ~-119 ~28 ~3 ~-114 minecraft:stone_bricks
 fill ~24 ~4 ~-118 ~27 ~4 ~-115 minecraft:moss_block
 fill ~-28 ~3 ~-110 ~-23 ~3 ~-105 minecraft:stone_bricks
