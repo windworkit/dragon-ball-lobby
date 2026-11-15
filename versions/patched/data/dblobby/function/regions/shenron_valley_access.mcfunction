@@ -208,11 +208,18 @@ fill ~80 ~32 ~-82 ~80 ~32 ~-81 minecraft:stone_brick_wall
 fill ~86 ~32 ~-82 ~86 ~32 ~-81 minecraft:stone_brick_wall
 
 # The flat Y31 viaduct runs along the south edge of the visitor terrace to the entry gate.
-fill ~83 ~31 ~-84 ~153 ~31 ~-80 minecraft:smooth_stone
-fill ~83 ~31 ~-84 ~144 ~31 ~-84 minecraft:quartz_block
-fill ~83 ~31 ~-80 ~144 ~31 ~-80 minecraft:quartz_block
-fill ~83 ~31 ~-82 ~144 ~31 ~-82 minecraft:light_blue_concrete
+fill ~86 ~31 ~-84 ~153 ~31 ~-80 minecraft:smooth_stone
+fill ~86 ~31 ~-84 ~144 ~31 ~-84 minecraft:quartz_block
+fill ~86 ~31 ~-80 ~144 ~31 ~-80 minecraft:quartz_block
+fill ~86 ~31 ~-82 ~144 ~31 ~-82 minecraft:light_blue_concrete
 fill ~145 ~31 ~-84 ~153 ~31 ~-80 minecraft:polished_andesite
+
+
+# Open the approach through the existing viewing-terrace guard rails.
+fill ~120 ~32 ~-83 ~153 ~33 ~-83 minecraft:air
+fill ~119 ~32 ~-88 ~120 ~33 ~-82 minecraft:air
+# Remove the final ramp-side handrail where the player turns onto the causeway.
+fill ~86 ~32 ~-82 ~86 ~32 ~-81 minecraft:air
 
 # Guard rails frame the exposed bridge; they stop before the gate opening.
 fill ~86 ~32 ~-85 ~143 ~32 ~-85 minecraft:stone_brick_wall
