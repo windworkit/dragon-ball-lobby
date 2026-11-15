@@ -411,6 +411,16 @@ of the dome, ending in gold caps. Corner beacons mark the outer forecourt but
 remain clear of the road corridor. The central eleven-block transit opening
 stays unobstructed.
 
+### Generator cleanup — complete-shell ownership
+
+The full generator no longer calls the older standalone `capsule_hq_entrance`
+module: the later `capsule_hq_dome` rebuild now owns the south portal and forecourt,
+and the post-shell `capsule_hq_facade_finish` supplies the final visible frame.
+Likewise, the old `kame_house_interior` module is omitted from the full generator
+because `kame_house_complete_rebuild` clears and refurnishes the entire rounded
+house, including its interior. This prevents old geometry from being placed only
+to be overwritten and keeps the generator's final architecture authoritative.
+
 ## Capsule Corporation architectural rebuild
 
 The main HQ is now a layered elliptical dome with a white cylindrical lower body,
