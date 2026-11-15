@@ -168,3 +168,15 @@ Implemented in the patched datapack:
 ### Static / visual status
 
 The new modules are integrated and their region names are required by the static validator. The current checks cover function references, fill-volume limits, Java 1.21.1 block IDs, and block-state properties. The Capsule City and Kame island shapes remain unverified visually until they are generated in a real 1.21.1 test world.
+
+## Iteration 12 — World Martial Arts Tournament event venue
+
+Implemented in the patched datapack:
+
+- `tournament_venue_finish.mcfunction` adds a layered pagoda-style gate over the west entrance without narrowing the approach.
+- Rebuilds the north and south registration kiosks as open vendor stalls with counters, barrels, red awnings, gold trim, and lighting.
+- Adds an announcer/judge stand on the east side of the ring, with a short stair and red aisle.
+- Adds four waiting benches outside the fighting surface.
+- Integrated after the main tournament arrival and required by static validation.
+
+The gate roof height, kiosk counter access, announcer sightline, and player circulation still need a live 1.21.1 visual check.
