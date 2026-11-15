@@ -157,6 +157,7 @@ and player access still need in-game review.
 | Capsule satellite visitor/research courts | West X -46..-15, east X +15..+48; Z -146..-135, Y 0..5 | Separate blue visitor and cyan research landing courts, stepped entries, low planters, sea-lantern beacons, and level side walks joining both rounded satellites to the HQ forecourt. |
 | Tournament stadium expansion | X +77..+193, Z -61..+61, Y 1..21 | Adds an outer concourse, upper spectator tiers, roofline canopy wings, corner pylons, and three entry portals. The central ring remains uncovered. |
 | Tournament fighting platform and inner seating | Ring centered X +135/Z 0, chamfered footprint X +110..+160, Z -23..+23, Y +1; inner seat banks X +102..+168, Z +/-27..+36, Y +2..+6 | Rebuilds the oversized mat into a clean chamfered square with red outer border, quartz band, pale fighting surface, gold edge lines, four corner markers, west/east access stairs, three stepped seating rows per side, and a wide central aisle. |
+| Tournament exterior facade finish | North/south wall faces Z +/-54, X +91..+183, Y +2..+18; end-wall piers X +80..+84 and +186..+190 | Repeating quartz buttresses with gold collars and red caps, blue-glass spectator window bays seated on the wall face, sea-lantern crowns, and matching end-wall piers set outside the west/east portal centers. |
 | Kame House island detail | X -198..-81, Z -40..+41, Y -4..+9 | Adds beach pathing, palm trees, umbrellas, a training garden, outdoor seating, and shoreline lighting. |
 | Kame Island beach cabana | X -109..-91, Z -40..-22, Y -3..+8 | Open-sided jungle-log and dark-wood beach shelter with striped white/light-blue canopy, small gold crown, Turtle-shell sign, benches, storage barrels, hanging lanterns, and a flush sandstone path to the eastern umbrella beach. |
 
@@ -460,6 +461,15 @@ All these coordinates are relative to the /function dblobby:generate
 execution position. The new landscape is statically validated, but the water
 simulation, terrain transition, path clearance, support visibility, and
 multi-angle dragon sightlines still need a real Java 1.21.1 visual check.
+
+### Tournament exterior facade finish
+
+The long north/south walls receive six repeating quartz buttresses per side, with
+gold collar courses, red brick caps and sea-lantern crowns. Five glazed spectator
+bays per side sit flush against the outer wall face between the piers. Four
+additional buttresses and illuminated caps rhythm the short end walls while
+staying clear of the west/east portal openings. The canopy wings, open fighting
+ring sightline, and inner spectator seating are unchanged.
 
 ## Tournament spectator and event finish
 
