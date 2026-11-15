@@ -1,7 +1,7 @@
 # WORLD MARTIAL ARTS TOURNAMENT — second-pass stadium scale and finish.
 # Outer concourse, grandstand wings, roof canopy and entry portals.
 # Paved concourse surrounds the arena without covering the central fighting ring.
-fill ~78 ~1 ~-61 ~192 ~1 ~61 minecraft:smooth_stone
+fill ~78 ~0 ~-61 ~192 ~0 ~61 minecraft:smooth_stone
 fill ~81 ~2 ~-58 ~189 ~2 ~-55 minecraft:red_concrete
 fill ~81 ~2 ~55 ~189 ~2 ~58 minecraft:red_concrete
 fill ~81 ~2 ~-54 ~84 ~2 ~54 minecraft:red_concrete
