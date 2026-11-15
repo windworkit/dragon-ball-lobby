@@ -50,3 +50,23 @@ setblock ~0 ~0 ~16 minecraft:gold_block
 setblock ~16 ~0 ~0 minecraft:gold_block
 setblock ~-16 ~0 ~0 minecraft:gold_block
 setblock ~0 ~0 ~0 minecraft:sea_lantern
+# Flush legacy rotunda medallions and the old elevated lantern markers into the Y0 floor.
+# This removes leftover blocks from the first-generation one-block-high center treatment.
+fill ~-2 ~1 ~-2 ~2 ~1 ~2 minecraft:air
+fill ~-2 ~1 ~-31 ~2 ~1 ~-27 minecraft:air
+fill ~-2 ~1 ~27 ~2 ~1 ~31 minecraft:air
+fill ~27 ~1 ~-2 ~31 ~1 ~2 minecraft:air
+fill ~-31 ~1 ~-2 ~-27 ~1 ~2 minecraft:air
+setblock ~0 ~2 ~-29 minecraft:air
+setblock ~0 ~2 ~29 minecraft:air
+setblock ~29 ~2 ~0 minecraft:air
+setblock ~-29 ~2 ~0 minecraft:air
+setblock ~19 ~1 ~19 minecraft:air
+setblock ~-19 ~1 ~19 minecraft:air
+setblock ~19 ~1 ~-19 minecraft:air
+setblock ~-19 ~1 ~-19 minecraft:air
+setblock ~19 ~0 ~19 minecraft:sea_lantern
+setblock ~-19 ~0 ~19 minecraft:sea_lantern
+setblock ~19 ~0 ~-19 minecraft:sea_lantern
+setblock ~-19 ~0 ~-19 minecraft:sea_lantern
+
