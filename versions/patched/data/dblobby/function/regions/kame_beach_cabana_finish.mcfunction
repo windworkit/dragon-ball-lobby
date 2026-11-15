@@ -50,9 +50,8 @@ setblock ~-107 ~5 ~-36 minecraft:lantern[hanging=true]
 setblock ~-93 ~5 ~-36 minecraft:lantern[hanging=true]
 
 # A flush sandstone walk joins the cabana to the existing eastern beach umbrella area.
-fill ~-103 ~-2 ~-24 ~-99 ~-2 ~-16 minecraft:smooth_sandstone
-fill ~-102 ~-2 ~-19 ~-98 ~-2 ~-16 minecraft:sandstone
-fill ~-103 ~-2 ~-17 ~-99 ~-2 ~-16 minecraft:smooth_sandstone
+fill ~-103 ~-2 ~-24 ~-99 ~-2 ~-19 minecraft:smooth_sandstone
+fill ~-102 ~-2 ~-21 ~-98 ~-2 ~-19 minecraft:sandstone
 
 # Irregular rock and moss pockets soften the outer east shore without narrowing the island route.
 fill ~-88 ~-3 ~-38 ~-85 ~-2 ~-35 minecraft:stone
