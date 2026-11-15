@@ -256,7 +256,7 @@ reachable.
 | Capsule City | Boulevard floor blocks Y2 | Two north-facing stair rows at the city threshold connect the Y0 north road to the raised avenue; civic forecourt and side streets remain at ground level |
 | Tournament district | Concourses Y0; fighting mat Y1 | Previous nested full-height pyramid cleared and replaced with a level spectator concourse and a one-block-high central platform |
 | Kame House island | Beach paths and promenade Y-3..-2 | House faces south, with a red pitched roof, pink-and-white façade, porch, palms, dock, and a short sandstone transition from the west road |
-| Kami's Lookout | Floating platform surface Y28..29; palace floor Y32 | Intentional sky sanctuary; the central tower route and bridge remain the vertical access route |
+| Kami's Lookout | Saucer deck Y+28..29; main hall floor Y+30; central spire Y+76 | Floating oval sanctuary with a stepped armored underside, three gold-domed temple volumes, gardens, reflecting pools, and a ladder-shaft promenade |
 | Korin's Tower | Ground plinth Y0..10; shaft Y12..133; summit Y134..177 | The tower has been raised by 32 blocks so its cloud foundation begins at the world datum; an exterior supported stair and bridge meet the entry shaft |
 | Shenron Valley | Visitor court Y31; seven Dragon Ball displays Y32..39 | A level display court, seven separated orb pedestals, layered cloud banks, and a thick C-shaped Shenron coil at approximately Y45..92 |
 
