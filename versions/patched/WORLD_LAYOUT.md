@@ -182,11 +182,23 @@ These are first-pass functional interiors. Korin's shaft is a central ladder-bas
 
 The Korin ascent is a continuous central ladder with three rest platforms in the shaft and an interior gallery inside the crown. The Shenron surface pass is block-art detailing; inspect its face orientation and scale placement from the viewing terrace in-game.
 
+### Shenron visitor-deck finish
+
+The viewing deck receives a three-block polished center aisle with flush gold
+edge lines and quartz interval ticks that continues the display-court route
+south toward the gate. Paired five-by-seven dragon-scale medallions sit in the
+unused west/east side bays, using deep-prismarine, green/lime, red and gold
+blocks. Two low dark-prismarine wish-marker plinths with gold caps and sea
+lanterns mark the southern deck edge, while small green/gold floor ticks echo
+Shenron's palette. All additions stay at or above the Y31 deck and leave the
+north-facing sightline and central approach unobstructed.
+
 ## Shenron Valley viewing terrace
 
 | Detail | Relative footprint | Purpose |
 | --- | --- | --- |
 | Visitor deck | X +118..+180, Z -103..-82, Y +31 | Broad smooth-stone viewing platform south of the dragon display |
+| Shenron visitor-deck finish | Center aisle X +148..+150, Z -102..-84, Y +31; side medallions centered X +127/+171, Z -92 | Adds flush gold-edged center wayfinding, paired green/gold dragon-scale floor medallions, two low wish-marker plinths, and subtle sculpture-color edge ticks without obstructing the north-facing view or center route. |
 | Approach tongue | X +145..+153, Z -108..-104, Y +31 | Connects the existing moss display edge to the terrace |
 | Side and rear rails | West/east edges and south edge, Y +32..+33 | Low stone-brick and spruce-fence safety rails; north-facing view stays open |
 | Seating bays | X +132..+140 and +158..+166, Z -96 and -90, Y +32 | Four short dark-oak stair benches with a clear central aisle |
