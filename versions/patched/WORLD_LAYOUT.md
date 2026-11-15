@@ -27,9 +27,9 @@ KORIN'S TOWER                                      SHENRON VALLEY
 | Region | Approximate relative footprint |
 | --- | --- |
 | Central spawn, floating Dragon Ball, and four corner gardens | X/Z -118 to +118 (plaza core approximately -38 to +38) |
-| Capsule City | X -83 to +83, Z -202 to -63 |
+| Capsule City | X -83 to +83, Z -202 to -63; HQ dome X -22..+22, Z -186..-140, Y 0..27; paired satellite capsules centered at X -37/+37, Z -155 |
 | Tournament | X +65 to +205, Z -70 to +70 |
-| Kame House | X -202 to -62, Z -62 to +62 |
+| Kame House | Main island ellipse centered X -132, Z 0; land approx. X -202..-62, Z -58..+58; surrounding water oval approx. X -212..-52, Z -68..+68 |
 | Kami's Lookout | X -46 to +46, Z +91 to +188; palace reaches Y +60 |
 | Korin's Tower | X -184 to -126, Z +126 to +184; base Y -32, summit pavilion Y +102..+145 |
 | Lookout upper-deck details | East training court X +17..+31, Z +131..+147; west meditation garden X -31..-17, Z +131..+147; four corner lights at the platform edges |
@@ -313,3 +313,37 @@ causeway continues along the southern edge of the viewing deck and meets the
 existing Shenron entry gate. The route has low retaining walls, blue threshold
 accents, lantern markers, and repeated stone/quartz buttresses under the high
 causeway. It is an intentional elevated promenade, not a teleport or portal.
+
+## Capsule Corporation architectural rebuild
+
+The main HQ is now a layered elliptical dome with a white cylindrical lower body,
+blue ribbon glazing, and a gold/yellow stepped roof. It occupies approximately
+X -22..+22, Z -181..-145, Y 0..27. The north-south boulevard remains a clear
+11-block-wide passage through the center at X -5..+5; side entrances connect to
+the west reception and east research wings. The interior's desks, waiting bays,
+research pods, and light column are kept out of the boulevard.
+
+Two smaller satellite buildings flank the HQ:
+- West residential capsule: center X -37, Z -155; rounded white body, blue roof,
+  south entrance, glazed windows, and a small furnished home interior
+- East research capsule: center X +37, Z -155; rounded white body, yellow/gold
+  roof, south entrance, glass sample pods, and a research console wall
+
+Both satellites have a Y1 foundation, Y2 public floor, and a roof crown reaching
+approximately Y14. They replace the previous square shells within the existing
+city footprint. The side walkways join their entrances to the central campus.
+
+## Kame House island shoreline rebuild
+
+The original rectangular land slab has been cleared and replaced with five
+nested oval terrain layers centered at X -132, Z 0. The outer sandstone base is
+approximately 140 by 116 blocks; successive sandstone and sand shelves narrow
+toward the grass surface at Y -3. A shallow oval water ring wraps around the
+island and extends beyond the former rectangular corners. The dock remains at
+the south shore and sits at the waterline. The west palm and shoreline marker
+were moved inward to match the new island outline. Existing house, training
+garden, beach path, and dock details are reapplied after the shoreline pass.
+
+All footprints above are relative to the generator origin. Shape, waterline,
+tree attachment, access transitions, and sightlines still require review in a
+disposable Minecraft 1.21.1 world.
