@@ -16,9 +16,9 @@ and all original region functions and the expanded decorative modules.
 
 ## What's included
 - Central spawn hub with an open-air monumental rotunda framing the floating one-star Dragon Ball, illuminated crown columns, seating bays, compass medallions, four landscaped cherry-tree gardens, four passable architectural district gateways with layered supports, illuminated glass insets, flush colored threshold strips, and repeated illuminated roadside approach markers, and a dedicated blue-and-white Capsule City arrival gateway, four dedicated social seating courts, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace with landscaped approach gardens and a gold-capped southern entry gate.
-- Capsule Corporation-inspired city block and glass towers, expanded with residential/workshop buildings, rooftop greenery, boulevard pylons, illuminated forecourt details, and a framed public HQ entrance.
+- Capsule Corporation city with a large white-and-gold domed HQ, blue ribbon glazing, a clear boulevard tunnel, furnished reception/research wings, two rounded satellite capsule buildings, and illuminated boulevard details.
 - World Martial Arts Tournament stadium with a level ground concourse, a one-block-raised fighting mat, upper spectator tiers, roofline canopy wings, illuminated corner pylons, and a separate event arrival.
-- Kame House island with a curved beach approach, palm grove, beach umbrellas, outdoor seating, shoreline markers, and a dedicated training garden with practice posts.
+- Kame House on a reshaped oval island with layered sandstone/sand/grass shelves, a shallow surrounding water ring, palm grove, beach umbrellas, outdoor seating, shoreline rockwork, dock, and dedicated training garden.
 - Kami's Lookout expanded into a monumental white-and-red palace with a broad sky platform, ceremonial colonnade, observation wings, and a taller decorated tower shaft;
 - Shenron Valley with a rebuilt giant Shenron with a thick C-shaped coil, defined head, horns, whiskers, cloud banks, gold underside, and seven individually staged Dragon Ball displays, and a south-side visitor viewing terrace with matching low garden borders, a clear center approach, and an ornamental southern entry gate.
 - Korin's Tower: a grounded colossal terracotta tower with a supported exterior stair, multiple balcony bands, vertical windows, a cloud foundation, and a high summit pavilion.
@@ -60,3 +60,14 @@ The static validator now also checks every referenced vanilla block ID and block
 property/value against a pinned Java 1.21.1 block manifest in
 `tools/vanilla_blocks_1_21_1.json`. This catches invalid block names before a
 datapack ZIP is packaged.
+
+## Recent architectural rebuilds
+
+Capsule City now has a distinctive domed headquarters and two smaller rounded
+capsule buildings. The main boulevard remains open through the HQ, while the
+reception and research areas sit in separate side wings.
+
+Kame House's foundation has been reshaped from a rectangular platform into an
+oval island with stepped shore layers and a surrounding shallow-water ring.
+The house, dock, training garden, and path details are generated after the
+shoreline so they remain connected to the revised landform.
