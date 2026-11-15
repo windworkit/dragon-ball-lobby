@@ -28,9 +28,7 @@ fill ~-6 ~28 ~108 ~6 ~28 ~119 minecraft:smooth_quartz
 # Two broad quartz stair rows rise from the floating deck to the sanctuary plinth and hall floor.
 fill ~-6 ~29 ~118 ~6 ~29 ~118 minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
 fill ~-6 ~30 ~119 ~6 ~30 ~119 minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
-# Gold tread strips mark the final approach without narrowing the doorway.
-fill ~-6 ~29 ~118 ~6 ~29 ~118 minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
-fill ~-6 ~30 ~119 ~6 ~30 ~119 minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+# Existing gold edge inlays continue alongside the stair rows without reducing the walking width.
 fill ~-5 ~28 ~108 ~-5 ~28 ~119 minecraft:gold_block
 fill ~5 ~28 ~108 ~5 ~28 ~119 minecraft:gold_block
 fill ~-4 ~28 ~109 ~4 ~28 ~109 minecraft:polished_diorite
