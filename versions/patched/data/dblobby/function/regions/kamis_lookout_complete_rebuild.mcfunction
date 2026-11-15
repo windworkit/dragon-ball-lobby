@@ -1321,6 +1321,14 @@ fill ~-19 ~30 ~120 ~19 ~42 ~158 minecraft:white_concrete
 fill ~-15 ~31 ~124 ~15 ~41 ~154 minecraft:air
 fill ~-5 ~31 ~120 ~5 ~39 ~126 minecraft:air
 fill ~-18 ~30 ~120 ~18 ~30 ~158 minecraft:smooth_quartz
+# Clear a centered 9x9 vertical passage through the hall floor and central red runner.
+fill ~-4 ~30 ~135 ~4 ~32 ~143 minecraft:air
+# Rebuild a gold rim around the opening without narrowing the climb.
+fill ~-5 ~30 ~135 ~-5 ~30 ~143 minecraft:gold_block
+fill ~5 ~30 ~135 ~5 ~30 ~143 minecraft:gold_block
+fill ~-4 ~30 ~134 ~4 ~30 ~134 minecraft:gold_block
+fill ~-4 ~30 ~144 ~4 ~30 ~144 minecraft:gold_block
+
 fill ~-3 ~31 ~127 ~3 ~31 ~153 minecraft:red_nether_bricks
 fill ~-2 ~32 ~127 ~2 ~32 ~153 minecraft:red_concrete
 fill ~-9 ~30 ~119 ~-7 ~38 ~121 minecraft:quartz_pillar
