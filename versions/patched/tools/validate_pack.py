@@ -23,6 +23,7 @@ FILL = re.compile(
     r"^fill\s+(\S+)\s+(\S+)\s+(\S+)\s+"
     r"(\S+)\s+(\S+)\s+(\S+)\s+(\S+)(?:\s+.*)?$"
 )
+BLOCK_STATE = re.compile(r"minecraft:([a-z0-9_]+)(?:\\[([^\\]]+)\\])?")
 
 
 def coordinate(token: str) -> int:
@@ -65,6 +66,19 @@ def main() -> int:
             if reference not in generator_text:
                 errors.append(f"generate.mcfunction: missing call to {reference}")
 
+    block_manifest: dict[str, dict[str, list[str]]] = {}
+    try:
+        manifest_path = ROOT / "tools" / "vanilla_blocks_1_21_1.json"
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        if manifest.get("minecraft_version") != "1.21.1":
+            errors.append("vanilla block manifest: expected Minecraft 1.21.1")
+        if not isinstance(manifest.get("blocks"), dict):
+            errors.append("vanilla block manifest: 'blocks' must be an object")
+        else:
+            block_manifest = manifest["blocks"]
+    except (OSError, json.JSONDecodeError, TypeError) as exc:
+        errors.append(f"vanilla block manifest: unavailable or invalid ({exc})")
+
     for path in functions:
         for number, raw_line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
             line = raw_line.strip()
@@ -76,6 +90,37 @@ def main() -> int:
                     errors.append(f"{path}:{number}: malformed function command")
                 elif ref.group(1) not in known:
                     errors.append(f"{path}:{number}: missing function {ref.group(1)}")
+            if line.startswith(("fill ", "setblock ")):
+                block_match = BLOCK_STATE.search(line)
+                if not block_match:
+                    errors.append(f"{path.relative_to(ROOT)}:{number}: missing namespaced block ID")
+                else:
+                    block_id, state_text = block_match.groups()
+                    if block_id not in block_manifest:
+                        errors.append(
+                            f"{path.relative_to(ROOT)}:{number}: unknown Minecraft 1.21.1 block "
+                            f"minecraft:{block_id}"
+                        )
+                    elif state_text:
+                        valid_states = block_manifest[block_id]
+                        for state in state_text.split(","):
+                            if "=" not in state:
+                                errors.append(
+                                    f"{path.relative_to(ROOT)}:{number}: malformed block state {state!r}"
+                                )
+                                continue
+                            state_name, state_value = state.split("=", 1)
+                            if state_name not in valid_states:
+                                errors.append(
+                                    f"{path.relative_to(ROOT)}:{number}: minecraft:{block_id} "
+                                    f"has no state {state_name!r}"
+                                )
+                            elif valid_states[state_name] and state_value not in valid_states[state_name]:
+                                errors.append(
+                                    f"{path.relative_to(ROOT)}:{number}: invalid value {state_value!r} "
+                                    f"for minecraft:{block_id}[{state_name}]"
+                                )
+
             if line.startswith("fill "):
                 match = FILL.match(line)
                 if not match:
@@ -123,7 +168,7 @@ def main() -> int:
         print(f"FAILED: {len(errors)} issue(s)")
         print("\n".join(errors))
         return 1
-    print("PASS: required regions, JSON, pack format, and function references are valid.")
+    print("PASS: required regions, JSON, pack format, function references, block IDs, and block states are valid.")
     print("PASS: all fill commands are within Minecraft's 32,768-block limit.")
     print("NOTE: static checks do not replace an in-game test.")
     return 0
