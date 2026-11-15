@@ -16,6 +16,11 @@ fill ~35 ~0 ~-144 ~83 ~1 ~-142 minecraft:stone_bricks
 fill ~35 ~2 ~-144 ~83 ~2 ~-142 minecraft:smooth_stone
 fill ~35 ~2 ~-144 ~83 ~2 ~-144 minecraft:light_blue_concrete
 fill ~35 ~2 ~-142 ~83 ~2 ~-142 minecraft:light_blue_concrete
+
+# Clear a five-block-high open cut through the new lower hill so the road reaches the stair.
+fill ~35 ~3 ~-145 ~80 ~8 ~-141 minecraft:air
+# Open the bend between the road and first stair tread; the main stair corridor continues south.
+fill ~79 ~3 ~-144 ~87 ~31 ~-139 minecraft:air
 fill ~81 ~2 ~-141 ~85 ~2 ~-141 minecraft:smooth_stone
 fill ~81 ~2 ~-141 ~85 ~2 ~-141 minecraft:light_blue_concrete
 
