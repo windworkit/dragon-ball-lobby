@@ -136,3 +136,35 @@ Implemented in the repaired installable pack:
 - Integrated into full generation, exposed as an independent rebuild command, and added to required-region static validation.
 
 This is a structural first pass. Check the terrace connection, gate clearance, and sightline in a disposable Java 1.21.1 world.
+
+## Iteration 9 — Capsule Corporation dome and boulevard atrium
+
+Implemented in the patched datapack:
+
+- `capsule_hq_dome.mcfunction` clears the original rectangular HQ and rebuilds it as a large elliptical white body with blue ribbon glazing and a layered gold/yellow dome.
+- The central north-south boulevard remains open through the HQ as an 11-block-wide passage.
+- Separate west and east side entrances lead to reception and research wings.
+- `capsule_hq_interior.mcfunction` now places counters, research pods, displays, waiting bays, and lights only in the side wings.
+- The new dome is generated after the previous facade finish, and the interior is furnished after the dome.
+
+## Iteration 10 — Capsule City satellite buildings
+
+Implemented in the patched datapack:
+
+- `capsule_city_satellites.mcfunction` replaces the two square side buildings with rounded capsule structures.
+- The west satellite is a residential capsule home with blue roof accents and a small furnished interior.
+- The east satellite is a research annex with a gold/yellow crown and glass sample pods.
+- Both buildings retain separate south-facing entries and align to the HQ campus footprint.
+
+## Iteration 11 — Kame House island shoreline
+
+Implemented in the patched datapack:
+
+- `kame_island_shoreline.mcfunction` clears the previous rectangular foundation and rebuilds the island with nested sandstone, sand, and grass ellipses.
+- A larger oval of gravel and shallow water surrounds the landform, bringing the dock to a readable shoreline.
+- The outer west palm and shoreline light were moved inward to match the reshaped island.
+- The shoreline runs immediately after the Kame House base and before the palm grove, training garden, beach path, dock details, and arrival promenade.
+
+### Static / visual status
+
+The new modules are integrated and their region names are required by the static validator. The current checks cover function references, fill-volume limits, Java 1.21.1 block IDs, and block-state properties. The Capsule City and Kame island shapes remain unverified visually until they are generated in a real 1.21.1 test world.
