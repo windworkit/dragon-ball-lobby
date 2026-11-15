@@ -25,14 +25,18 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 **Exit gate:** a first-time player can arrive, orient themselves, and understand where to go without staff help.
 
 ## Phase 2 — district polish
-- [ ] Capsule Corp: coherent streetscape, headquarters silhouette, courtyard, and reserved interiors.
+- [x] Rebuild Capsule Corp HQ as a domed skyline anchor with a clear central boulevard tunnel and separate reception/research wings.
+- [x] Replace the two flanking box buildings with distinct rounded residential and research capsule buildings.
+- [ ] Finish remaining city blocks, civic courtyard, citywide streetscape, and final route review.
 - [x] Add a defined south-facing HQ entrance with forecourt, blue architectural accents, paired lights, and planters.
 - [x] Add ten matching boulevard lamps along the Capsule Corp avenue.
 - [ ] Tournament: stadium bowl, ring, forecourt, spectator access, and event staging.
 - [x] Add stepped north/south spectator banks and illuminated entry pylons.
 - [x] First Korin's Tower pass: colossal vertical tower, ring balconies, windows, cloud foundation, and summit pavilion.
 - [ ] Korin's Tower: add a readable approach, climbing route / lift concept, and detailed summit interior.
-- [ ] Kame House: shoreline, dock, palms, paths, and complete exterior.
+- [x] Reshape Kame House's rectangular foundation into a stepped oval island with a surrounding shallow-water ring.
+- [x] Keep the dock, beach path, palms, training garden, and outdoor spaces connected after the shoreline rebuild.
+- [ ] Inspect waterline, palm attachment, house entrance, and shoreline collisions in a live world.
 - [x] Extend the existing dock into a lantern-lit pier with support piles and safety rails.
 - [x] First expanded Kami's Lookout pass: monumental palace hall, broad sky platform, observation wings, tower-shaft enlargement, and corner pylons.
 - [ ] Kami's Lookout: readable vertical approach, safe access, interiors, and finished platform.
@@ -70,3 +74,12 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [ ] Package a versioned ZIP and publish installation / rollback instructions.
 
 **Release rule:** never label a phase complete based only on documentation or static validation. In-game visual and functional checks are required.
+
+## New polish work — Capsule City and Kame House
+
+- [x] Rebuild Capsule Corp HQ as a large elliptical white-and-gold dome with blue ribbon glazing and a continuous north-south boulevard passage.
+- [x] Rework the HQ interior into west reception and east research bays, keeping the central travel lane clear.
+- [x] Replace the flanking office boxes with a rounded residential capsule and a rounded research annex.
+- [x] Replace the square Kame island platform with nested oval sandstone, sand, and grass shelves.
+- [x] Add a shallow water ring and move the outer west palm/shore marker to stay within the new island silhouette.
+- [ ] Review Capsule and Kame architecture in a disposable Minecraft 1.21.1 world; static validation does not count as visual acceptance.
