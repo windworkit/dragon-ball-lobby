@@ -14,8 +14,8 @@ KAME HOUSE ISLAND       CENTRAL SPAWN              WORLD TOURNAMENT
 (X -202 to -62)            (origin)                (X +65 to +205)
 
 KORIN'S TOWER                                      SHENRON VALLEY
-(X -184..-126,                                      (X +72..+233,
- Z +126..+184)                                       Z -208..-66)
+(DIRECTLY BELOW KAMI'S LOOKOUT,                    (X +72..+233,
+ X 0 / Z +139)                                      Z -208..-66)
 
                          SOUTH (+Z)
                     KAMI'S LOOKOUT
@@ -30,8 +30,8 @@ KORIN'S TOWER                                      SHENRON VALLEY
 | Capsule City | X -83 to +83, Z -202 to -63; HQ dome X -22..+22, Z -186..-140, Y 0..27; paired satellite capsules centered at X -37/+37, Z -155 |
 | Tournament | X +65 to +205, Z -70 to +70 |
 | Kame House | Main island ellipse centered X -132, Z 0; land approx. X -202..-62, Z -58..+58; surrounding water oval approx. X -212..-52, Z -68..+68 |
-| Kami's Lookout | X -70 to +70, Z +71 to +207; saucer hull Y +1..+27, circular deck Y +28, central gold-crowned sanctuary reaches Y +76, side towers and orbital lamps reach Y +68 |
-| Korin's Tower | X -190 to -120, Z +126 to +210; chamfered cloud plinth Y 0..10, summit pavilion Y +134..+177 |
+| Kami's Lookout | X -70 to +70, Z +71 to +207; saucer hull Y +141..+167, circular deck Y +168..+169, central gold-crowned sanctuary reaches Y +216, side towers and orbital lamps reach Y +208 |
+| Korin's Tower | X -61 to +61, Z +78 to +200; grounded base plaza Y 0..4, central shaft Y +5..+83, rounded crown Y +81..+139, equatorial terrace Y +107..+114; center X 0 / Z +139 |
 | Shenron Valley | X +59 to +233, Z -211 to -66; reference-inspired Shenron spans approximately X +59..+219 and Z -211..-88, with horn and tail-fin tips reaching Y +158 |
 | Roads and waypoints | Main cardinal roads extending to about 118 blocks |
 
@@ -141,8 +141,8 @@ These additions are a first visual-detail pass. The stadium canopy is intentiona
 | --- | --- | --- |
 | Capsule Corp HQ interior | X -15..+15, Z -173..-153, Y +3..+18 | Reception desk, waiting benches, research pods, wall consoles, and ceiling lights inside the headquarters shell. |
 | Kame House interior | X -149..-121, Z -13..+13, Y -1..+4 | Living room, kitchen counter, dining area, bedroom nook, display wall, and warm lighting. |
-| Kami's Lookout main sanctuary | X -22..+22, Z +118..+160, Y +30..+76 | Open ceremonial hall, layered golden lower dome, tall white belfry, upper gold dome and finial. |
-| Korin's Tower access | X -159..-151, Z +151..+159, Y -18..+103 | Vertical ladder shaft with reinforced walls and rest platforms at regular intervals, opening into the summit pavilion. |
+| Kami's Lookout main sanctuary | X -22..+22, Z +118..+160, Y +170..+216 | Open ceremonial hall, layered golden lower dome, tall white belfry, upper gold dome and finial, with a protected central ladder hatch. |
+| Korin's Tower shaft and crown | Shaft center X 0 / Z +139, Y 0..+83; crown X -50..+50, Z +85..+193, Y +81..+139; outer terrace X -61..+61, Z +79..+199, Y +107..+114 | Terracotta and sandstone shaft rises into a hollow rounded shell with a cream stepped dome, red-brown equatorial belt, window bays, internal gallery, gardened wraparound terrace, and gold keel. |
 
 These are first-pass functional interiors. The Korin shaft is a ladder-based climb rather than a fully modeled spiral staircase; confirm ladder attachment, floor openings, and summit arrival in-game. Interior furnishings are decorative block approximations, not modded furniture.
 
@@ -151,9 +151,9 @@ These are first-pass functional interiors. The Korin shaft is a ladder-based cli
 | Detail | Relative footprint | Purpose |
 | --- | --- | --- |
 | Shenron epic anatomy pass | X +76..+219, Z -208..-88, Y +43..+147 | Clears the old compact silhouette above the court and rebuilds a towering coil, chest, neck, broad head, branching horns, swept whiskers, paired clawed forelimbs, dorsal mane, segmented belly, and cloud supports. |
-| Kami's Lookout arrival shaft and promenade | Shaft X -5..+5, Z +93..+108, Y +1..+28; bridge X -5..+5, Z +104..+121, Y +28 | Rebuilt ladder shaft, framed upper arrival, and a clear gold-edged promenade into the temple forecourt. |
+| Kami's Lookout central shaft and hatch | Shaft X -5..+5, Z +134..+144, Y +141..+168; hall hatch X -4..+4, Z +135..+143, Y +169..+172 | A continuous ladder rises from Korin's Tower through the Lookout keel and opens into the center of the main sanctuary. |
 
-The new tower access is a first functional route, not a final architectural staircase. The Shenron surface pass is block-art detailing; inspect its face orientation and scale placement from the viewing terrace in-game.
+The Korin ascent is a continuous central ladder with three rest platforms in the shaft and an interior gallery inside the crown. The Shenron surface pass is block-art detailing; inspect its face orientation and scale placement from the viewing terrace in-game.
 
 ## Shenron Valley viewing terrace
 
@@ -256,8 +256,8 @@ reachable.
 | Capsule City | Boulevard floor blocks Y2 | Two north-facing stair rows at the city threshold connect the Y0 north road to the raised avenue; civic forecourt and side streets remain at ground level |
 | Tournament district | Concourses Y0; fighting mat Y1 | Previous nested full-height pyramid cleared and replaced with a level spectator concourse and a one-block-high central platform |
 | Kame House island | Beach paths and promenade Y-3..-2 | House faces south, with a red pitched roof, pink-and-white façade, porch, palms, dock, and a short sandstone transition from the west road |
-| Kami's Lookout | Saucer deck Y+28..29; main hall floor Y+30; central spire Y+76 | Floating oval sanctuary with a stepped armored underside, three gold-domed temple volumes, gardens, reflecting pools, and a ladder-shaft promenade |
-| Korin's Tower | Ground plinth Y0..10; shaft Y12..133; summit Y134..177 | The tower has been raised by 32 blocks so its cloud foundation begins at the world datum; an exterior supported stair and bridge meet the entry shaft |
+| Kami's Lookout | Saucer hull Y+140..167; deck Y+168..169; main hall Y+170; central spire Y+216 | Floating oval sanctuary raised 140 blocks to accommodate the centered Korin crown beneath it; the ladder shaft continues through the central keel |
+| Korin's Tower | Ground plaza Y0..4; shaft Y5..83; rounded crown Y81..139; center X0/Z+139 | Vertically aligned beneath Kami's Lookout, with a hollow dome, wraparound terrace, and continuous ladder into the Lookout's central hatch |
 | Shenron Valley | Visitor court Y31; seven Dragon Ball displays Y32..39 | A level display court, seven separated orb pedestals, layered cloud banks, and a thick C-shaped Shenron coil at approximately Y45..92 |
 
 ### Shenron — rebuilt landmark silhouette
@@ -295,10 +295,7 @@ because it is built as a beach island; the promenade is the intended transition.
 
 Kami's Lookout has been completely reimagined as a large floating circular sanctuary inspired by the supplied reference. The upper court is a 129-by-137-block oval tiled in white and pale stone. Beneath it, stepped red, white, green, and red hull bands narrow into a golden keel, giving the platform a broad inverted-bowl profile. A central white temple rises through a broad lower gold dome into a tall upper belfry and second gold crown; two smaller matching temples flank it. Four tall white orbital lamps, cypress-like topiary planters, twin reflecting pools, perimeter markers, and a clear shaft-to-temple promenade finish the upper deck. The old cloud-only underbelly and rectangular palace are cleared by the final rebuild region.
 
-Korin's Tower is now grounded: the original below-grade base has been moved up
-32 blocks without shrinking the shaft or summit pavilion. A supported, wide
-exterior stair rises from the southwest approach to a bridge and then the
-interior ladder route. The summit remains intentionally high.
+Korin's Tower has been completely relocated from the southwest to the exact center of Kami's Lookout (X 0 / Z +139). A circular ground plaza connects to the south approach road. A long terracotta and pale-sandstone shaft rises through repeated cyan-and-gold balconies, glazed windows, and a continuous ladder with rest landings. Above it, a hollow ellipsoidal crown widens into a giant rounded shell with a stepped cream dome, red-brown equatorial armor, open wraparound terrace, internal gallery, small garden planters, sculpted lower bowl, and gold keel. The ladder passes through the Lookout's centered access shaft and emerges through a protected hatch in the main sanctuary floor. To make room for the full crown beneath the Lookout, the entire Lookout has been shifted upward by 140 blocks without changing its X/Z footprint or architectural proportions.
 
 The landmarks above have passed repository static validation and command-volume
 checks. Minecraft does not perform a visual preview of datapack geometry, so
@@ -405,15 +402,9 @@ the center aisle left open. Evenly spaced sea-lanterns sit beneath both canopy
 wings. These are decorative block-built fixtures; no live score system or
 interactive tournament logic is assumed.
 
-### Korin's Tower cloud plinth and entrance finish
+### Korin's Tower complete vertical rebuild
 
-The tower's square white foundation is softened with progressively chamfered
-corners through its four cloud-and-quartz tiers. Low white and light-gray cloud
-lobes extend beyond the plinth, while the south bridge landing receives paired
-quartz-and-gold bollards. The base entrance is framed by slim quartz pillars,
-blue glass insets, gold collars, and lantern caps. The existing bridge and
-climbing route remain open; the new cloud work is decorative and does not add
-a new teleport or mod dependency.
+Korin's Tower now occupies the same X/Z center as Kami's Lookout: X 0 / Z +139. The grounded circular base plaza joins the south approach road. A long central shaft rises through repeated cyan-and-gold balcony bands, glazed windows, and a ladder with rest landings. Above it, a hollow rounded crown widens to an approximately 100-by-108-block shell. The stepped cream dome is detailed with concentric courses and raised ribs; the broad red-brown center belt is edged in gold. An open wraparound terrace carries eight porticos, planter trees, and perimeter lights. The lower bowl narrows into a gold keel that meets the Lookout's underside. The ladder continues through the centered Lookout shaft and emerges through the protected hatch in the main sanctuary floor.
 
 ### Kami's Lookout complete floating rebuild
 
