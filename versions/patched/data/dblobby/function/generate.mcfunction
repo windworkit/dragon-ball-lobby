@@ -56,5 +56,6 @@ function dblobby:regions/korins_tower_finish
 function dblobby:regions/korins_tower_base_finish
 function dblobby:regions/shenron_valley_access
 function dblobby:regions/shenron_sculpture_finish
+function dblobby:regions/shenron_epic_rebuild
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
