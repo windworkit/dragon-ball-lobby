@@ -44,6 +44,53 @@
     "dark_oak_slab": [
       "type",
       "waterlogged"
-    ]
+    ],
+    "flowering_azalea": [],
+    "azalea": [],
+    "stone_brick_stairs": [
+      "facing",
+      "half",
+      "shape",
+      "waterlogged"
+    ],
+    "quartz_bricks": [],
+    "polished_diorite": [],
+    "stone_bricks": [],
+    "light_blue_carpet": [],
+    "quartz_slab": [
+      "type",
+      "waterlogged"
+    ],
+    "gold_block": [],
+    "polished_deepslate": [],
+    "deepslate_bricks": [],
+    "red_concrete": [],
+    "cut_sandstone": [],
+    "sandstone": [],
+    "pink_concrete": [],
+    "yellow_concrete": [],
+    "orange_stained_glass": [],
+    "orange_concrete": [],
+    "yellow_stained_glass": [],
+    "smooth_sandstone": [],
+    "pink_stained_glass": [],
+    "magenta_concrete": [],
+    "chiseled_quartz_block": [],
+    "dark_oak_planks": [],
+    "lantern": [
+      "hanging",
+      "waterlogged"
+    ],
+    "cherry_leaves": [
+      "distance",
+      "persistent",
+      "waterlogged"
+    ],
+    "lectern": [
+      "facing",
+      "has_book",
+      "powered"
+    ],
+    "cartography_table": []
   }
 }
