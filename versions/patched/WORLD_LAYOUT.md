@@ -136,6 +136,7 @@ an in-game test.
 | --- | --- | --- |
 | Capsule boulevard lamps | X -26..-22 and 22..26; Z -182..-80 | Ten matching quartz-and-light-blue street lamps with sea-lantern cores |
 | Capsule HQ entrance | X -19..+19, Z -152..-137, Y 1..12 | Centered south-facing doorway, quartz-and-blue entrance frame, forecourt steps, paired lamps, and low planters |
+| Capsule HQ south facade finish | South curved wall Z -151..-147, X +/-7..+23, Y +3..+16 | Gold-capped quartz portal piers, paired blue-glass windows on the lower curved shell, blue-and-white upper Capsule crest, vertical ribbon fins on both dome shoulders, and corner beacons outside the boulevard passage. |
 | Tournament north seating | X 101..169; Z -37..-26; Y 2..5 | Four stepped spectator rows |
 | Tournament south seating | X 101..169; Z 26..37; Y 2..5 | Matching four stepped spectator rows |
 | Tournament corner pylons | X 98..100 and 170..172; Z -38..-36 and 36..38; Y 2..8 | Four illuminated seating-entry markers |
@@ -354,6 +355,18 @@ causeway continues along the southern edge of the viewing deck and meets the
 existing Shenron entry gate. The route has low retaining walls, blue threshold
 accents, lantern markers, and repeated stone/quartz buttresses under the high
 causeway. It is an intentional elevated promenade, not a teleport or portal.
+
+
+### Capsule HQ facade finish
+
+The south-facing public wall now has paired light-blue glazed window bays in
+the curved lower shell, with gold sill/cap accents and a wider quartz portal
+frame outside the central boulevard tunnel. An upper blue-and-white Capsule
+crest and sea-lantern caps strengthen the entrance identity. Two pairs of
+vertical quartz-and-glass ribbon fins climb the southwest/southeast shoulders
+of the dome, ending in gold caps. Corner beacons mark the outer forecourt but
+remain clear of the road corridor. The central eleven-block transit opening
+stays unobstructed.
 
 ## Capsule Corporation architectural rebuild
 
