@@ -15,6 +15,7 @@ fill ~27 ~6 ~-13 ~27 ~6 ~-9 minecraft:quartz_bricks
 fill ~22 ~7 ~-13 ~26 ~7 ~-13 minecraft:blue_concrete
 fill ~22 ~7 ~-9 ~26 ~7 ~-9 minecraft:light_blue_concrete
 fill ~22 ~7 ~-12 ~26 ~7 ~-12 minecraft:quartz_slab[type=top,waterlogged=false]
+fill ~23 ~6 ~-11 ~25 ~6 ~-11 minecraft:quartz_bricks
 setblock ~24 ~7 ~-11 minecraft:sea_lantern
 setblock ~24 ~8 ~-11 minecraft:gold_block
 fill ~23 ~0 ~-12 ~25 ~0 ~-10 minecraft:blue_concrete
@@ -34,6 +35,7 @@ fill ~27 ~6 ~9 ~27 ~6 ~13 minecraft:quartz_bricks
 fill ~22 ~7 ~9 ~26 ~7 ~9 minecraft:red_concrete
 fill ~22 ~7 ~13 ~26 ~7 ~13 minecraft:orange_concrete
 fill ~22 ~7 ~10 ~26 ~7 ~12 minecraft:quartz_slab[type=top,waterlogged=false]
+fill ~23 ~6 ~11 ~25 ~6 ~11 minecraft:quartz_bricks
 setblock ~24 ~7 ~11 minecraft:sea_lantern
 setblock ~24 ~8 ~11 minecraft:gold_block
 fill ~23 ~0 ~10 ~25 ~0 ~12 minecraft:red_concrete
@@ -53,6 +55,7 @@ fill ~-21 ~6 ~9 ~-21 ~6 ~13 minecraft:quartz_bricks
 fill ~-26 ~7 ~9 ~-22 ~7 ~9 minecraft:magenta_concrete
 fill ~-26 ~7 ~13 ~-22 ~7 ~13 minecraft:pink_concrete
 fill ~-26 ~7 ~10 ~-22 ~7 ~12 minecraft:quartz_slab[type=top,waterlogged=false]
+fill ~-25 ~6 ~11 ~-23 ~6 ~11 minecraft:quartz_bricks
 setblock ~-24 ~7 ~11 minecraft:sea_lantern
 setblock ~-24 ~8 ~11 minecraft:gold_block
 fill ~-25 ~0 ~10 ~-23 ~0 ~12 minecraft:magenta_concrete
@@ -72,6 +75,7 @@ fill ~-21 ~6 ~-13 ~-21 ~6 ~-9 minecraft:quartz_bricks
 fill ~-26 ~7 ~-13 ~-22 ~7 ~-13 minecraft:yellow_concrete
 fill ~-26 ~7 ~-9 ~-22 ~7 ~-9 minecraft:orange_terracotta
 fill ~-26 ~7 ~-12 ~-22 ~7 ~-10 minecraft:quartz_slab[type=top,waterlogged=false]
+fill ~-25 ~6 ~-11 ~-23 ~6 ~-11 minecraft:quartz_bricks
 setblock ~-24 ~7 ~-11 minecraft:sea_lantern
 setblock ~-24 ~8 ~-11 minecraft:gold_block
 fill ~-25 ~0 ~-12 ~-23 ~0 ~-10 minecraft:yellow_concrete
