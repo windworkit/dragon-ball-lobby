@@ -20,7 +20,7 @@ and all original region functions and the expanded decorative modules.
 - World Martial Arts Tournament stadium with a level concourse, one-block-raised fighting mat, spectator tiers, roof canopy, pagoda-style arrival gate, open registration/vendor stalls, announcer stand, and waiting benches.
 - Kame House on a reshaped oval island with layered sandstone/sand/grass shelves, a shallow surrounding water ring, palm grove, beach umbrellas, outdoor seating, shoreline rockwork, dock, and dedicated training garden.
 - Kami's Lookout expanded into a monumental white-and-red palace with a broad sky platform, ceremonial colonnade, observation wings, and a taller decorated tower shaft;
-- Shenron Valley with a rebuilt giant Shenron with a thick C-shaped coil, defined head, horns, whiskers, cloud banks, gold underside, and seven individually staged Dragon Ball displays, and a south-side visitor viewing terrace with matching low garden borders, a clear center approach, and an ornamental southern entry gate.
+- Shenron Valley with a monumental, reference-inspired Shenron: a much larger layered coil, rising chest and neck, broad expressive head, branching horns, swept whiskers, paired clawed forelimbs, dorsal mane, segmented gold belly, cloud supports, and seven individually staged Dragon Ball displays. The south-side visitor terrace keeps its clear center approach and ornamental entry gate.
 - Korin's Tower: a grounded colossal terracotta tower with a supported exterior stair, multiple balcony bands, vertical windows, a cloud foundation, and a high summit pavilion.
 - Roads and colored waypoints.
 
