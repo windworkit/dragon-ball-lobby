@@ -1245,8 +1245,8 @@ setblock ~22 ~16 ~195 minecraft:sea_lantern
 setblock ~30 ~15 ~195 minecraft:gold_block
 setblock ~30 ~16 ~195 minecraft:sea_lantern
 fill ~-5 ~0 ~134 ~5 ~1 ~144 minecraft:gold_block
-fill ~-3 ~-1 ~136 ~3 ~0 ~142 minecraft:yellow_concrete
-setblock ~0 ~-2 ~139 minecraft:sea_lantern
+fill ~-3 ~0 ~136 ~3 ~1 ~142 minecraft:yellow_concrete
+setblock ~0 ~2 ~139 minecraft:sea_lantern
 
 # REBUILT LADDER-SHAFT ARRIVAL THROUGH THE SOUTH EDGE OF THE COURTYARD.
 fill ~-5 ~1 ~93 ~5 ~28 ~108 minecraft:white_concrete
