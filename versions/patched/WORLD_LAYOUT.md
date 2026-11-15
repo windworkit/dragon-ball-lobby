@@ -302,3 +302,14 @@ The landmarks above have passed repository static validation and command-volume
 checks. Minecraft does not perform a visual preview of datapack geometry, so
 their final proportions, stair collision, and sightlines still require a live
 world review.
+
+### Capsule City to Shenron Valley elevated approach
+
+A marked three-block road leaves the eastern edge of the Capsule boulevard, bends
+north around the headquarters forecourt and workshops, then heads east to the
+valley stair. The 30-step stone stair climbs from the Capsule district's Y2
+street level to the Shenron visitor shelf at Y31. A five-wide supported
+causeway continues along the southern edge of the viewing deck and meets the
+existing Shenron entry gate. The route has low retaining walls, blue threshold
+accents, lantern markers, and repeated stone/quartz buttresses under the high
+causeway. It is an intentional elevated promenade, not a teleport or portal.
