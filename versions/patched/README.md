@@ -55,3 +55,8 @@ Dragon Ball, a unified central plaza floor, district façade finishing, a Kame H
 roof and porch, a gold-domed Lookout, a grounded Korin Tower with exterior access,
 and a level tournament concourse. See [WORLD_LAYOUT.md](WORLD_LAYOUT.md) for the
 current elevation table and relative coordinates.
+
+The static validator now also checks every referenced vanilla block ID and block-state
+property/value against a pinned Java 1.21.1 block manifest in
+`tools/vanilla_blocks_1_21_1.json`. This catches invalid block names before a
+datapack ZIP is packaged.
