@@ -2256,22 +2256,22 @@ fill ~-2 ~45 ~197 ~2 ~47 ~201 minecraft:green_terracotta
 fill ~-1 ~48 ~198 ~1 ~50 ~200 minecraft:lime_concrete
 
 # MIRRORED REFLECTING POOLS AND LOW GARDEN BEDS ALONGSIDE THE TEMPLE.
-fill ~-49 ~28 ~124 ~-44 ~28 ~155 minecraft:light_blue_stained_glass
-fill ~-50 ~28 ~123 ~-43 ~28 ~123 minecraft:smooth_quartz
-fill ~-50 ~28 ~156 ~-43 ~28 ~156 minecraft:smooth_quartz
-fill ~-50 ~29 ~124 ~-50 ~29 ~155 minecraft:quartz_pillar
-fill ~-43 ~29 ~124 ~-43 ~29 ~155 minecraft:quartz_pillar
-setblock ~-47 ~29 ~128 minecraft:sea_lantern
-setblock ~-47 ~29 ~139 minecraft:sea_lantern
-setblock ~-47 ~29 ~150 minecraft:sea_lantern
-fill ~43 ~28 ~124 ~48 ~28 ~155 minecraft:light_blue_stained_glass
-fill ~42 ~28 ~123 ~49 ~28 ~123 minecraft:smooth_quartz
-fill ~42 ~28 ~156 ~49 ~28 ~156 minecraft:smooth_quartz
-fill ~42 ~29 ~124 ~42 ~29 ~155 minecraft:quartz_pillar
-fill ~49 ~29 ~124 ~49 ~29 ~155 minecraft:quartz_pillar
-setblock ~45 ~29 ~128 minecraft:sea_lantern
-setblock ~45 ~29 ~139 minecraft:sea_lantern
-setblock ~45 ~29 ~150 minecraft:sea_lantern
+fill ~-46 ~28 ~124 ~-41 ~28 ~155 minecraft:light_blue_stained_glass
+fill ~-47 ~28 ~123 ~-40 ~28 ~123 minecraft:smooth_quartz
+fill ~-47 ~28 ~156 ~-40 ~28 ~156 minecraft:smooth_quartz
+fill ~-47 ~29 ~124 ~-47 ~29 ~155 minecraft:quartz_pillar
+fill ~-40 ~29 ~124 ~-40 ~29 ~155 minecraft:quartz_pillar
+setblock ~-44 ~29 ~128 minecraft:sea_lantern
+setblock ~-44 ~29 ~139 minecraft:sea_lantern
+setblock ~-44 ~29 ~150 minecraft:sea_lantern
+fill ~41 ~28 ~124 ~46 ~28 ~155 minecraft:light_blue_stained_glass
+fill ~40 ~28 ~123 ~47 ~28 ~123 minecraft:smooth_quartz
+fill ~40 ~28 ~156 ~47 ~28 ~156 minecraft:smooth_quartz
+fill ~40 ~29 ~124 ~40 ~29 ~155 minecraft:quartz_pillar
+fill ~47 ~29 ~124 ~47 ~29 ~155 minecraft:quartz_pillar
+setblock ~43 ~29 ~128 minecraft:sea_lantern
+setblock ~43 ~29 ~139 minecraft:sea_lantern
+setblock ~43 ~29 ~150 minecraft:sea_lantern
 fill ~-19 ~29 ~110 ~-15 ~29 ~117 minecraft:moss_block
 fill ~-18 ~30 ~112 ~-16 ~30 ~115 minecraft:flowering_azalea_leaves[persistent=true]
 fill ~-19 ~29 ~162 ~-15 ~29 ~169 minecraft:moss_block
