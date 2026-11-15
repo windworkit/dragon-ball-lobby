@@ -241,7 +241,7 @@ reachable.
 
 | Area | Floor / arrival level | Current treatment |
 | --- | --- | --- |
-| Central spawn plaza | Floor blocks Y0 | One continuous quartz/stone plaza, flush colored district spokes, four social courts, and a rounded floating Dragon Ball at Y8..13 |
+| Central spawn plaza | Floor blocks Y0 | One continuous quartz/stone plaza, flush colored district spokes, four social courts, and a rounded nine-block floating Dragon Ball at Y8..16 |
 | Capsule City | Boulevard floor blocks Y2 | Two north-facing stair rows at the city threshold connect the Y0 north road to the raised avenue; civic forecourt and side streets remain at ground level |
 | Tournament district | Concourses Y0; fighting mat Y1 | Previous nested full-height pyramid cleared and replaced with a level spectator concourse and a one-block-high central platform |
 | Kame House island | Beach paths and promenade Y-3..-2 | House faces south, with a red pitched roof, pink-and-white façade, porch, palms, dock, and a short sandstone transition from the west road |
