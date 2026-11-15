@@ -34,6 +34,7 @@ function dblobby:regions/district_approach_lighting
 function dblobby:regions/plaza_gate_accents
 function dblobby:regions/plaza_art_direction
 function dblobby:regions/hub_architecture_finish
+function dblobby:regions/plaza_orbital_finish
 function dblobby:regions/capsule_city_finish
 function dblobby:regions/capsule_hq_dome
 function dblobby:regions/capsule_hq_interior
