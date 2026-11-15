@@ -13,7 +13,7 @@ MAX_FILL_BLOCKS = 32_768
 EXPECTED_REGIONS = {
     "central_spawn", "plaza_art_direction", "hub_architecture_finish", "capsule_city_finish", "capsule_hq_dome", "capsule_city_satellites", "tournament_arrival_finish", "tournament_venue_finish", "tournament_spectator_finish", "kame_house_finish", "kame_training_pavilion", "kame_island_shoreline", "kamis_lookout_finish", "kamis_lookout_underclouds", "korins_tower_finish", "korins_tower_base_finish", "plaza_social_courts", "plaza_compass_inlay", "gateway_threshold_details", "district_approach_lighting", "capsule_city_arrival", "kame_island_arrival", "capsule_city", "tournament", "kame_house",
     "kamis_lookout", "lookout_sanctuary_details", "shenron_valley", "shenron_valley_terrain_finish", "roads_and_waypoints", "plaza_gardens", "plaza_dragon_ball", "plaza_gate_accents", "capsule_boulevard_lighting", "capsule_hq_entrance", "tournament_seating", "kame_dock_details", "shenron_viewing_terrace", "shenron_valley_garden", "shenron_valley_entry_gate",
-    "shenron_giant_form", "shenron_epic_rebuild", "shenron_valley_access", "shenron_sculpture_finish", "kamis_lookout_expansion", "korins_tower",
+    "shenron_giant_form", "shenron_epic_rebuild", "shenron_anatomy_finish", "shenron_valley_access", "shenron_sculpture_finish", "kamis_lookout_expansion", "korins_tower",
     "capsule_city_detail", "tournament_stadium_detail", "kame_island_detail",
     "kame_house_interior", "capsule_hq_interior", "korins_tower_access", "kamis_lookout_interior",
     "shenron_surface_detail", "kamis_lookout_access", "spawn_rotunda", "hub_guide_pavilion", "plaza_npc_stations",
