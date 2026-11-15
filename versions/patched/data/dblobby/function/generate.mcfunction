@@ -52,6 +52,7 @@ function dblobby:regions/kame_house_finish
 function dblobby:regions/kame_training_pavilion
 function dblobby:regions/kamis_lookout_finish
 function dblobby:regions/kamis_lookout_underclouds
+function dblobby:regions/kamis_lookout_complete_rebuild
 function dblobby:regions/korins_tower_finish
 function dblobby:regions/korins_tower_base_finish
 function dblobby:regions/shenron_valley_access
