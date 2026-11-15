@@ -1169,6 +1169,27 @@ setblock ~10 ~29 ~206 minecraft:quartz_slab[type=top,waterlogged=false]
 setblock ~0 ~29 ~207 minecraft:quartz_slab[type=top,waterlogged=false]
 
 # HULL BAND DETAILS, RIBS, AND LIGHT PORTS.
+# Bright red raised ribs and gold studs make the broad upper hull band read as layered armor.
+fill ~-62 ~24 ~139 ~-62 ~27 ~139 minecraft:red_concrete
+fill ~62 ~24 ~139 ~62 ~27 ~139 minecraft:red_concrete
+fill ~-53 ~24 ~103 ~-53 ~27 ~103 minecraft:red_concrete
+fill ~53 ~24 ~103 ~53 ~27 ~103 minecraft:red_concrete
+fill ~-40 ~24 ~88 ~-40 ~27 ~88 minecraft:red_concrete
+fill ~40 ~24 ~88 ~40 ~27 ~88 minecraft:red_concrete
+fill ~-20 ~24 ~77 ~-20 ~27 ~77 minecraft:red_concrete
+fill ~20 ~24 ~77 ~20 ~27 ~77 minecraft:red_concrete
+fill ~0 ~24 ~71 ~0 ~27 ~71 minecraft:red_concrete
+fill ~0 ~24 ~207 ~0 ~27 ~207 minecraft:red_concrete
+fill ~-20 ~24 ~201 ~-20 ~27 ~201 minecraft:red_concrete
+fill ~20 ~24 ~201 ~20 ~27 ~201 minecraft:red_concrete
+fill ~-40 ~24 ~190 ~-40 ~27 ~190 minecraft:red_concrete
+fill ~40 ~24 ~190 ~40 ~27 ~190 minecraft:red_concrete
+fill ~-53 ~24 ~175 ~-53 ~27 ~175 minecraft:red_concrete
+fill ~53 ~24 ~175 ~53 ~27 ~175 minecraft:red_concrete
+setblock ~-62 ~27 ~139 minecraft:gold_block
+setblock ~62 ~27 ~139 minecraft:gold_block
+setblock ~0 ~27 ~71 minecraft:gold_block
+setblock ~0 ~27 ~207 minecraft:gold_block
 fill ~0 ~23 ~72 ~1 ~23 ~72 minecraft:gold_block
 fill ~-29 ~23 ~81 ~-28 ~23 ~81 minecraft:gold_block
 fill ~28 ~23 ~81 ~29 ~23 ~81 minecraft:gold_block
@@ -1233,16 +1254,29 @@ fill ~-31 ~5 ~168 ~-31 ~9 ~168 minecraft:quartz_pillar
 fill ~31 ~5 ~168 ~31 ~9 ~168 minecraft:quartz_pillar
 fill ~0 ~5 ~93 ~0 ~9 ~93 minecraft:quartz_pillar
 fill ~0 ~5 ~185 ~0 ~9 ~185 minecraft:quartz_pillar
-fill ~-18 ~19 ~201 ~-14 ~21 ~203 minecraft:light_blue_stained_glass
-fill ~-19 ~18 ~203 ~-13 ~18 ~203 minecraft:gold_block
-fill ~-10 ~19 ~201 ~-6 ~21 ~203 minecraft:light_blue_stained_glass
-fill ~-11 ~18 ~203 ~-5 ~18 ~203 minecraft:gold_block
-fill ~-2 ~19 ~201 ~2 ~21 ~203 minecraft:light_blue_stained_glass
+fill ~-18 ~19 ~202 ~-14 ~21 ~202 minecraft:light_blue_stained_glass
+fill ~-19 ~18 ~201 ~-13 ~18 ~201 minecraft:gold_block
+fill ~-10 ~19 ~203 ~-6 ~21 ~203 minecraft:light_blue_stained_glass
+fill ~-11 ~18 ~202 ~-5 ~18 ~202 minecraft:gold_block
+fill ~-2 ~19 ~204 ~2 ~21 ~204 minecraft:light_blue_stained_glass
 fill ~-3 ~18 ~203 ~3 ~18 ~203 minecraft:gold_block
-fill ~6 ~19 ~201 ~10 ~21 ~203 minecraft:light_blue_stained_glass
-fill ~5 ~18 ~203 ~11 ~18 ~203 minecraft:gold_block
-fill ~14 ~19 ~201 ~18 ~21 ~203 minecraft:light_blue_stained_glass
-fill ~13 ~18 ~203 ~19 ~18 ~203 minecraft:gold_block
+fill ~6 ~19 ~203 ~10 ~21 ~203 minecraft:light_blue_stained_glass
+fill ~5 ~18 ~202 ~11 ~18 ~202 minecraft:gold_block
+fill ~14 ~19 ~202 ~18 ~21 ~202 minecraft:light_blue_stained_glass
+fill ~13 ~18 ~201 ~19 ~18 ~201 minecraft:gold_block
+# Side-facing blue inset windows follow the broadest section of the white band.
+fill ~60 ~19 ~131 ~60 ~21 ~133 minecraft:light_blue_stained_glass
+fill ~-60 ~19 ~131 ~-60 ~21 ~133 minecraft:light_blue_stained_glass
+fill ~61 ~19 ~138 ~61 ~21 ~140 minecraft:light_blue_stained_glass
+fill ~-61 ~19 ~138 ~-61 ~21 ~140 minecraft:light_blue_stained_glass
+fill ~60 ~19 ~145 ~60 ~21 ~147 minecraft:light_blue_stained_glass
+fill ~-60 ~19 ~145 ~-60 ~21 ~147 minecraft:light_blue_stained_glass
+setblock ~60 ~18 ~132 minecraft:gold_block
+setblock ~-60 ~18 ~132 minecraft:gold_block
+setblock ~61 ~18 ~139 minecraft:gold_block
+setblock ~-61 ~18 ~139 minecraft:gold_block
+setblock ~60 ~18 ~146 minecraft:gold_block
+setblock ~-60 ~18 ~146 minecraft:gold_block
 setblock ~-30 ~15 ~195 minecraft:gold_block
 setblock ~-30 ~16 ~195 minecraft:sea_lantern
 setblock ~-22 ~15 ~195 minecraft:gold_block
