@@ -43,7 +43,7 @@ fill ~43 ~16 ~-85 ~49 ~16 ~-79 minecraft:grass_block
 fill ~44 ~17 ~-84 ~48 ~19 ~-80 minecraft:azalea_leaves
 # Street trees and benches along the boulevard edges.
 fill ~-31 ~1 ~-119 ~-31 ~5 ~-119 minecraft:stripped_oak_log
-fill ~-34 ~5 ~-28 ~-28 ~8 ~-22 minecraft:oak_leaves
+fill ~-34 ~5 ~-122 ~-28 ~8 ~-116 minecraft:oak_leaves
 fill ~31 ~1 ~-119 ~31 ~5 ~-119 minecraft:stripped_oak_log
 fill ~28 ~5 ~-122 ~34 ~8 ~-116 minecraft:oak_leaves
 fill ~-31 ~1 ~-91 ~-31 ~5 ~-91 minecraft:stripped_oak_log
