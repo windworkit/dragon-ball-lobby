@@ -317,7 +317,7 @@ A geometric dark-stone and quartz medallion frames the spawn, with flush blue,
 red, pink, and gold route inlays pointing to the four districts. The central orb
 is smaller and rounder, leaving the ground-level spawn unobstructed.
 
-Capsule City receives a more recognizable blue-and-white corporate identity:
+Capsule City receives a more recognizable blue-and-white corporate identity. Its façade finish is now applied after the elliptical HQ dome, interior fit-out, and both satellite capsule shells, so the entrance insignia, ribbon windows, blue roof crowns, residential/workshop bands, and boulevard details are no longer hidden by later shell-generation steps:
 façade bands, window ribbons, roof crowns, entry-sign detailing, low planted
 courts, and a direct stair transition from the north road. The main avenue is
 intentionally raised two blocks and the entry ramp makes that change visible.
