@@ -41,11 +41,11 @@ function dblobby:regions/capsule_hq_facade_finish
 function dblobby:regions/capsule_city_civic_finish
 function dblobby:regions/capsule_satellite_courts
 function dblobby:regions/capsule_neighborhood_finish
+function dblobby:regions/tournament_arena_rebuild
+function dblobby:regions/tournament_exterior_finish
 function dblobby:regions/tournament_arrival_finish
 function dblobby:regions/tournament_venue_finish
 function dblobby:regions/tournament_spectator_finish
-function dblobby:regions/tournament_arena_rebuild
-function dblobby:regions/tournament_exterior_finish
 function dblobby:regions/kame_house_finish
 function dblobby:regions/kame_training_pavilion
 function dblobby:regions/kame_house_complete_rebuild
@@ -68,6 +68,7 @@ function dblobby:regions/shenron_valley_entry_gate
 function dblobby:regions/shenron_valley_access
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
+
 
 
 
