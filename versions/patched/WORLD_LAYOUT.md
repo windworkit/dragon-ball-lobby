@@ -30,9 +30,8 @@ KORIN'S TOWER                                      SHENRON VALLEY
 | Capsule City | X -83 to +83, Z -202 to -63; HQ dome X -22..+22, Z -186..-140, Y 0..27; paired satellite capsules centered at X -37/+37, Z -155 |
 | Tournament | X +65 to +205, Z -70 to +70 |
 | Kame House | Main island ellipse centered X -132, Z 0; land approx. X -202..-62, Z -58..+58; surrounding water oval approx. X -212..-52, Z -68..+68 |
-| Kami's Lookout | X -46 to +46, Z +91 to +188; palace reaches Y +60 |
+| Kami's Lookout | X -70 to +70, Z +71 to +207; saucer hull Y +1..+27, circular deck Y +28, central gold-crowned sanctuary reaches Y +76, side towers and orbital lamps reach Y +68 |
 | Korin's Tower | X -190 to -120, Z +126 to +210; chamfered cloud plinth Y 0..10, summit pavilion Y +134..+177 |
-| Lookout upper-deck details | East training court X +17..+31, Z +131..+147; west meditation garden X -31..-17, Z +131..+147; four corner lights at the platform edges |
 | Shenron Valley | X +59 to +233, Z -211 to -66; reference-inspired Shenron spans approximately X +59..+219 and Z -211..-88, with horn and tail-fin tips reaching Y +158 |
 | Roads and waypoints | Main cardinal roads extending to about 118 blocks |
 
@@ -142,7 +141,7 @@ These additions are a first visual-detail pass. The stadium canopy is intentiona
 | --- | --- | --- |
 | Capsule Corp HQ interior | X -15..+15, Z -173..-153, Y +3..+18 | Reception desk, waiting benches, research pods, wall consoles, and ceiling lights inside the headquarters shell. |
 | Kame House interior | X -149..-121, Z -13..+13, Y -1..+4 | Living room, kitchen counter, dining area, bedroom nook, display wall, and warm lighting. |
-| Kami's Lookout interior | X -15..+15, Z +124..+153, Y +32..+43 | Ceremonial hall, column pairs, raised dais, meditation pools, alcove benches, and lighting. |
+| Kami's Lookout main sanctuary | X -22..+22, Z +118..+160, Y +30..+76 | Open ceremonial hall, layered golden lower dome, tall white belfry, upper gold dome and finial. |
 | Korin's Tower access | X -159..-151, Z +151..+159, Y -18..+103 | Vertical ladder shaft with reinforced walls and rest platforms at regular intervals, opening into the summit pavilion. |
 
 These are first-pass functional interiors. The Korin shaft is a ladder-based climb rather than a fully modeled spiral staircase; confirm ladder attachment, floor openings, and summit arrival in-game. Interior furnishings are decorative block approximations, not modded furniture.
@@ -152,7 +151,7 @@ These are first-pass functional interiors. The Korin shaft is a ladder-based cli
 | Detail | Relative footprint | Purpose |
 | --- | --- | --- |
 | Shenron epic anatomy pass | X +76..+219, Z -208..-88, Y +43..+147 | Clears the old compact silhouette above the court and rebuilds a towering coil, chest, neck, broad head, branching horns, swept whiskers, paired clawed forelimbs, dorsal mane, segmented belly, and cloud supports. |
-| Kami's Lookout tower access | X -5..+5, Z +97..+116, Y +1..+30 | Opens a ladder shaft through the tower and adds a narrow railed sky bridge to the palace stairs. |
+| Kami's Lookout arrival shaft and promenade | Shaft X -5..+5, Z +93..+108, Y +1..+28; bridge X -5..+5, Z +104..+121, Y +28 | Rebuilt ladder shaft, framed upper arrival, and a clear gold-edged promenade into the temple forecourt. |
 
 The new tower access is a first functional route, not a final architectural staircase. The Shenron surface pass is block-art detailing; inspect its face orientation and scale placement from the viewing terrace in-game.
 
@@ -218,7 +217,7 @@ a populated world.
 - Ensure there is vertical clearance for the lookout and tall structures.
 - Avoid running the generator a second time over player builds.
 - The generator now runs the complete set of base, access, and finish region functions in one call. The four cherry-tree planters sit diagonally inside the central plaza, away from the cardinal roads and the center arrival pad. A floating orange-glass Dragon Ball sits above the arrival pad, beginning at Y +8 so the ground-level spawn remains clear. The four road gateways are color-coded: north blue (Capsule City), east red (Tournament), west pink (Kame House), and south yellow (Kami's Lookout). Their support piers sit outside the five-wide road lanes, leaving the centerline passable. The north-side guide pavilion occupies the side strip beside the road.
-- The expanded lookout adds broad platform wings, a layered palace hall, side galleries, a taller decorated tower shaft, and monumental corner pylons. The training court and garden are added afterward on the enlarged deck. Exact appearance and collision still need in-game review.
+- The complete Lookout rebuild replaces the former rectangular platform and palace with a circular 129-by-137-block saucer sanctuary. Its upper deck is a tiled oval with cypress-like topiary, four tall orbital lamps, paired reflecting pools, a central tiered temple, two matching domed side towers, and a clear arrival promenade. The underside narrows through red, ivory, and green hull bands to a small gold keel. Confirm the actual silhouette and player movement in-game.
 - The repaired pack has static validation and ZIP packaging in GitHub Actions,
   but still needs a real Minecraft 1.21.1 in-game visual test.
 
@@ -294,10 +293,7 @@ because it is built as a beach island; the promenade is the intended transition.
 
 ### Elevated landmarks
 
-Kami's Lookout remains deliberately above ground. Its circular platform, red
-perimeter band, gold dome, front colonnade, side galleries, practice court, and
-meditation garden make it read as a distinct sanctuary rather than another
-ground-level building. The vertical climb is part of the landmark experience.
+Kami's Lookout has been completely reimagined as a large floating circular sanctuary inspired by the supplied reference. The upper court is a 129-by-137-block oval tiled in white and pale stone. Beneath it, stepped red, white, green, and red hull bands narrow into a golden keel, giving the platform a broad inverted-bowl profile. A central white temple rises through a broad lower gold dome into a tall upper belfry and second gold crown; two smaller matching temples flank it. Four tall white orbital lamps, cypress-like topiary planters, twin reflecting pools, perimeter markers, and a clear shaft-to-temple promenade finish the upper deck. The old cloud-only underbelly and rectangular palace are cleared by the final rebuild region.
 
 Korin's Tower is now grounded: the original below-grade base has been moved up
 32 blocks without shrinking the shaft or summit pavilion. A supported, wide
@@ -419,13 +415,19 @@ blue glass insets, gold collars, and lantern caps. The existing bridge and
 climbing route remain open; the new cloud work is decorative and does not add
 a new teleport or mod dependency.
 
-### Kami's Lookout cloud underbelly
+### Kami's Lookout complete floating rebuild
 
-The floating sanctuary now has layered white and light-gray cloud banks beneath
-its four corners and along the side edges, with small luminous cores and restrained
-gold/quartz underside accents. These formations sit below the Y28 platform and
-stay clear of the south tower shaft, sky bridge, and palace entry. They are
-decorative supports; the platform remains intentionally floating.
+The final Lookout region clears the previous deck, palace, and cloud details before
+building the new saucer. The upper walking surface remains at Y+28 so the existing
+height relationship to the hub is preserved. The hull is formed from stepped
+horizontal ellipses: red outer band, broad ivory band, red belt, pale-gold/white
+transition, green lower bowl, red lower ring, and a small pale keel. Above the deck,
+the central temple rises to Y+76 with two lower gold-domed side sanctuaries, four
+high lantern pylons, cypress-like planters, twin reflecting pools, and a clear
+promenade from the rebuilt ladder shaft. Approximate footprint: X -70..+70,
+Z +71..+207. The hull is decorative floating architecture, not a physics-supported
+platform; final proportions, approach clearance, and the underside silhouette need
+visual confirmation in Minecraft.
 
 ### Kame Island Turtle School pavilion
 
