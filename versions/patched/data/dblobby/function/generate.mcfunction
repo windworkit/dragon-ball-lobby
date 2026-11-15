@@ -39,6 +39,7 @@ function dblobby:regions/gateway_threshold_details
 function dblobby:regions/district_approach_lighting
 function dblobby:regions/plaza_gate_accents
 function dblobby:regions/plaza_art_direction
+function dblobby:regions/hub_architecture_finish
 function dblobby:regions/capsule_city_finish
 function dblobby:regions/tournament_arrival_finish
 function dblobby:regions/kame_house_finish
