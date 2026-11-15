@@ -41,11 +41,12 @@ not a promise that every block inside the box is filled.
 
 ### Shenron anatomy finish
 
-The anatomy finish is applied after the main Shenron rebuild. It keeps the Y+31
-seven-ball court intact and adds a broader lower jaw and brow, layered cheek
-frills and nape mane, branching swept horns, paired curling whisker filaments,
-a fanned three-prong tail, two additional rear legs with toes and gold claws,
-and a stepped dorsal crest along the coil. The approximate statue envelope is
+The anatomy and forelimb finishes are applied after the main Shenron rebuild.
+They keep the Y+31 seven-ball court intact and add a broader lower jaw and brow,
+layered cheek frills and nape mane, branching swept horns, paired curling
+whisker filaments, a fanned three-prong tail, two additional rear legs, and a
+more visible outward-swept front pair of arms. The paws have separated toes and
+gold claws; a stepped dorsal crest and scale plates follow the coil. The approximate statue envelope is
 X +59..+219, Z -211..-88, Y +42..+158. This is a command-coordinate estimate;
 confirm the silhouette, limb clearance, and viewing angles in a live world.
 
