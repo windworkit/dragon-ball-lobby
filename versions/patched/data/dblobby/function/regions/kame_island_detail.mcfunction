@@ -44,7 +44,7 @@ fill ~-107 ~-3 ~-7 ~-107 ~-3 ~-3 minecraft:dark_oak_stairs[facing=west]
 fill ~-112 ~-2 ~-12 ~-108 ~-2 ~-8 minecraft:flowering_azalea_leaves
 setblock ~-110 ~-1 ~-10 minecraft:pink_tulip
 # Shoreline rock clusters and sea-facing lantern markers.
-fill ~-196 ~-4 ~-4 ~-193 ~-2 ~-1 minecraft:stone
+fill ~-192 ~-4 ~-4 ~-189 ~-2 ~-1 minecraft:stone
 fill ~-98 ~-4 ~38 ~-95 ~-2 ~41 minecraft:stone
-setblock ~-198 ~-2 ~0 minecraft:sea_lantern
+setblock ~-193 ~-2 ~0 minecraft:sea_lantern
 setblock ~-92 ~-2 ~39 minecraft:sea_lantern
