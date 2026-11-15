@@ -1,0 +1,49 @@
+{
+  "minecraft_version": "1.21.1",
+  "source": "PrismarineJS/minecraft-data data/pc/1.21.1/blocks.json",
+  "blocks": {
+    "quartz_pillar": [
+      "axis"
+    ],
+    "light_blue_concrete": [],
+    "sea_lantern": [],
+    "stone": [],
+    "smooth_quartz": [],
+    "white_concrete": [],
+    "gray_concrete": [],
+    "smooth_stone": [],
+    "air": [],
+    "blue_concrete": [],
+    "light_blue_stained_glass": [],
+    "light_gray_concrete": [],
+    "cyan_concrete": [],
+    "stripped_oak_log": [
+      "axis"
+    ],
+    "oak_leaves": [
+      "distance",
+      "persistent",
+      "waterlogged"
+    ],
+    "iron_bars": [
+      "east",
+      "north",
+      "south",
+      "waterlogged",
+      "west"
+    ],
+    "grass_block": [
+      "snowy"
+    ],
+    "moss_block": [],
+    "azalea_leaves": [
+      "distance",
+      "persistent",
+      "waterlogged"
+    ],
+    "dark_oak_slab": [
+      "type",
+      "waterlogged"
+    ]
+  }
+}
