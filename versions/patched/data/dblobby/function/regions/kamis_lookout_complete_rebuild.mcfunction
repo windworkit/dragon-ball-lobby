@@ -1331,6 +1331,9 @@ fill ~-4 ~30 ~144 ~4 ~30 ~144 minecraft:gold_block
 
 fill ~-3 ~31 ~127 ~3 ~31 ~153 minecraft:red_nether_bricks
 fill ~-2 ~32 ~127 ~2 ~32 ~153 minecraft:red_concrete
+# Final hatch cut comes after the runner so it cannot close Korin's ladder path.
+fill ~-4 ~31 ~135 ~4 ~31 ~143 minecraft:air
+fill ~-4 ~32 ~135 ~4 ~32 ~143 minecraft:air
 fill ~-9 ~30 ~119 ~-7 ~38 ~121 minecraft:quartz_pillar
 fill ~-10 ~38 ~119 ~-6 ~39 ~121 minecraft:gold_block
 fill ~7 ~30 ~119 ~9 ~38 ~121 minecraft:quartz_pillar
