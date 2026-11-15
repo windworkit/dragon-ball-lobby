@@ -11,7 +11,7 @@ fill ~-40 ~0 ~-139 ~-34 ~0 ~-139 minecraft:blue_concrete
 # Two-block entrance stair rises from the court to the satellite floor.
 fill ~-40 ~0 ~-144 ~-34 ~0 ~-144 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
 fill ~-40 ~1 ~-145 ~-34 ~1 ~-145 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
-fill ~-40 ~2 ~-146 ~-34 ~2 ~-146 minecraft:smooth_quartz
+fill ~-40 ~2 ~-146 ~-34 ~2 ~-146 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
 # Side walk from the residential capsule toward the shared HQ forecourt.
 fill ~-29 ~0 ~-140 ~-15 ~0 ~-138 minecraft:smooth_quartz
 fill ~-29 ~0 ~-140 ~-29 ~0 ~-138 minecraft:light_blue_concrete
@@ -35,7 +35,7 @@ fill ~34 ~0 ~-139 ~40 ~0 ~-139 minecraft:light_blue_concrete
 # Two-block entrance stair rises from the court to the research floor.
 fill ~34 ~0 ~-144 ~40 ~0 ~-144 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
 fill ~34 ~1 ~-145 ~40 ~1 ~-145 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
-fill ~34 ~2 ~-146 ~40 ~2 ~-146 minecraft:smooth_quartz
+fill ~34 ~2 ~-146 ~40 ~2 ~-146 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
 # Matching side walk joins the research annex to the HQ forecourt.
 fill ~15 ~0 ~-140 ~27 ~0 ~-138 minecraft:smooth_quartz
 fill ~15 ~0 ~-140 ~15 ~0 ~-138 minecraft:cyan_concrete
