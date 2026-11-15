@@ -21,13 +21,13 @@ and all original region functions and the expanded decorative modules.
 - Kame House on a reshaped oval island with layered sandstone/sand/grass shelves, a shallow surrounding water ring, palm grove, beach umbrellas, outdoor seating, shoreline rockwork, dock, and dedicated training garden.
 - Kami's Lookout completely rebuilt as a monumental floating circular sanctuary: a tiled oval courtyard, layered red-and-ivory hull with a green lower bowl, central gold-domed temple and two matching side sanctuaries, tall orbital lanterns, cypress-like gardens, reflecting pools, a preserved ladder-shaft arrival, and an open ceremonial promenade;
 - Shenron Valley with a monumental, reference-inspired Shenron: a massive layered coil, elevated chest and neck, sculpted muzzle and jaw, raised brow, branching swept horns, long curling whiskers, four articulated clawed limbs, fanned tail, flowing nape mane, stepped dorsal crest, contrasting scale plates, segmented gold belly, cloud supports, and seven individually staged Dragon Ball displays. The south-side visitor terrace keeps its clear center approach and ornamental entry gate.
-- Korin's Tower: a grounded colossal terracotta tower with a supported exterior stair, multiple balcony bands, vertical windows, a cloud foundation, and a high summit pavilion.
+- Korin's Tower: a centered 139-block rise directly beneath Kami's Lookout, with a long terracotta/sandstone shaft, a monumental rounded cream crown, dark red-brown equatorial belt, wraparound terrace, garden planters, gold keel, and a continuous central ladder into the Lookout.
 - Roads and colored waypoints.
 
 - Elevated Shenron Valley access road from Capsule City, with a stair climb, lit retaining walls, and a supported causeway to the viewing terrace.
 - Tournament spectator seating finish with an east-facing scoreboard, red-and-gold pennants, and canopy lighting.\n\n## Player hub guide
 
-Run `/function dblobby:hub` in-game for a concise welcome message and district directions. The north blue road leads to Capsule Corporation City, east red to the World Martial Arts Tournament, south gold to Kami's Lookout, and west pink to Kame House Island. Shenron Valley lies beyond the northeastern city route; Korin's Tower stands beyond the southwestern island route. A guide pavilion sits beside the north road, four social seating courts give players places to gather, and four color-coded NPC-ready stations are staged around the plaza for future server guides, quests, travel, and character information. `/function dblobby:help` lists builder and maintenance functions.
+Run `/function dblobby:hub` in-game for a concise welcome message and district directions. The north blue road leads to Capsule Corporation City, east red to the World Martial Arts Tournament, south gold to Kami's Lookout, and west pink to Kame House Island. Shenron Valley lies beyond the northeastern city route; Korin's Tower rises from the south approach and shares the exact X/Z centerline of Kami's Lookout. A guide pavilion sits beside the north road, four social seating courts give players places to gather, and four color-coded NPC-ready stations are staged around the plaza for future server guides, quests, travel, and character information. `/function dblobby:help` lists builder and maintenance functions.
 
 ## Repair applied
 The original Shenron Valley function contained three fills exceeding
@@ -53,8 +53,9 @@ and download the artifact from its Artifacts section.
 
 The current patched build includes a rebuilt volumetric Shenron, a rounded central
 Dragon Ball, a unified central plaza floor, district façade finishing, a Kame House
-roof and porch, a completely redesigned floating Kami's Lookout, a grounded Korin
-Tower with exterior access, and a level tournament concourse. See [WORLD_LAYOUT.md](WORLD_LAYOUT.md) for the
+roof and porch, a completely redesigned and elevated Kami's Lookout, a centered
+Korin Tower with a monumental rounded crown and continuous central ladder, and a
+level tournament concourse. See [WORLD_LAYOUT.md](WORLD_LAYOUT.md) for the
 current elevation table and relative coordinates.
 
 The static validator now also checks every referenced vanilla block ID and block-state
@@ -88,6 +89,6 @@ outward-swept front pair of arms, separated toes and gold claws, a fanned tail,
 tapered whisker filaments, branching horn tines, a layered nape mane, and a
 stepped dorsal crest. These additions are generated after the main statue so
 the face, limbs, and silhouette details remain visible.
-- Korin's Tower cloud-plinth finish with chamfered tiers, soft cloud lobes, and a blue-and-gold entrance frame.
-- Kami's Lookout full floating-sanctuary rebuild with a stepped red/ivory/green saucer hull, tiled oval court, three gold-domed temple volumes, four high lantern pylons, planted cypress avenues, reflecting pools, and a rebuilt ladder-shaft promenade.
+- Korin's Tower complete vertical rebuild: a grounded central shaft, a giant rounded cream dome, red-brown equatorial armor belt, open circular terrace, sculpted lower bowl, gold underside trim, and a direct ladder connection into the centered Kami's Lookout hatch.
+- Kami's Lookout full floating-sanctuary rebuild with a stepped red/ivory/green saucer hull, tiled oval court, three gold-domed temple volumes, four high lantern pylons, planted cypress avenues, reflecting pools, and a centered vertical shaft. The whole Lookout is elevated 140 blocks above the generation origin to sit directly above Korin's new crown.
 - Kame Island Turtle School pavilion with a red roof, shell crest, practice targets, benches, and lanterns.
