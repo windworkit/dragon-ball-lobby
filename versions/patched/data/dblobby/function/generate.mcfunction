@@ -51,6 +51,7 @@ function dblobby:regions/tournament_spectator_finish
 function dblobby:regions/kame_house_finish
 function dblobby:regions/kamis_lookout_finish
 function dblobby:regions/korins_tower_finish
+function dblobby:regions/korins_tower_base_finish
 function dblobby:regions/shenron_valley_access
 function dblobby:regions/shenron_sculpture_finish
 spawnpoint @s ~ ~3 ~
