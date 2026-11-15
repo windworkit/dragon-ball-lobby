@@ -2,236 +2,605 @@
   "minecraft_version": "1.21.1",
   "source": "PrismarineJS/minecraft-data data/pc/1.21.1/blocks.json",
   "blocks": {
-    "quartz_pillar": [
-      "axis"
-    ],
-    "light_blue_concrete": [],
-    "sea_lantern": [],
-    "stone": [],
-    "smooth_quartz": [],
-    "white_concrete": [],
-    "gray_concrete": [],
-    "smooth_stone": [],
-    "air": [],
-    "blue_concrete": [],
-    "light_blue_stained_glass": [],
-    "light_gray_concrete": [],
-    "cyan_concrete": [],
-    "stripped_oak_log": [
-      "axis"
-    ],
-    "oak_leaves": [
-      "distance",
-      "persistent",
-      "waterlogged"
-    ],
-    "iron_bars": [
-      "east",
-      "north",
-      "south",
-      "waterlogged",
-      "west"
-    ],
-    "grass_block": [
-      "snowy"
-    ],
-    "moss_block": [],
-    "azalea_leaves": [
-      "distance",
-      "persistent",
-      "waterlogged"
-    ],
-    "dark_oak_slab": [
-      "type",
-      "waterlogged"
-    ],
-    "flowering_azalea": [],
-    "azalea": [],
-    "stone_brick_stairs": [
-      "facing",
-      "half",
-      "shape",
-      "waterlogged"
-    ],
-    "quartz_bricks": [],
-    "polished_diorite": [],
-    "stone_bricks": [],
-    "light_blue_carpet": [],
-    "quartz_slab": [
-      "type",
-      "waterlogged"
-    ],
-    "gold_block": [],
-    "polished_deepslate": [],
-    "deepslate_bricks": [],
-    "red_concrete": [],
-    "cut_sandstone": [],
-    "sandstone": [],
-    "pink_concrete": [],
-    "yellow_concrete": [],
-    "orange_stained_glass": [],
-    "orange_concrete": [],
-    "yellow_stained_glass": [],
-    "smooth_sandstone": [],
-    "pink_stained_glass": [],
-    "magenta_concrete": [],
-    "chiseled_quartz_block": [],
-    "dark_oak_planks": [],
-    "lantern": [
-      "hanging",
-      "waterlogged"
-    ],
-    "cherry_leaves": [
-      "distance",
-      "persistent",
-      "waterlogged"
-    ],
-    "lectern": [
-      "facing",
-      "has_book",
-      "powered"
-    ],
-    "cartography_table": [],
-    "oak_planks": [],
-    "stripped_dark_oak_log": [
-      "axis"
-    ],
-    "dark_oak_fence": [
-      "east",
-      "north",
-      "south",
-      "waterlogged",
-      "west"
-    ],
-    "oak_fence": [
-      "east",
-      "north",
-      "south",
-      "waterlogged",
-      "west"
-    ],
-    "sand": [],
-    "jungle_log": [
-      "axis"
-    ],
-    "jungle_leaves": [
-      "distance",
-      "persistent",
-      "waterlogged"
-    ],
-    "orange_terracotta": [],
-    "mossy_cobblestone": [],
-    "red_nether_brick_stairs": [
-      "facing",
-      "half",
-      "shape",
-      "waterlogged"
-    ],
-    "red_nether_bricks": [],
-    "sandstone_stairs": [
-      "facing",
-      "half",
-      "shape",
-      "waterlogged"
-    ],
-    "lime_concrete": [],
-    "green_concrete": [],
-    "pink_tulip": [],
-    "white_tulip": [],
-    "red_carpet": [],
-    "white_wool": [],
-    "bookshelf": [],
-    "quartz_block": [],
-    "iron_block": [],
-    "campfire": [
-      "facing",
-      "lit",
-      "signal_fire",
-      "waterlogged"
-    ],
-    "barrel": [
-      "facing",
-      "open"
-    ],
-    "dark_oak_stairs": [
-      "facing",
-      "half",
-      "shape",
-      "waterlogged"
-    ],
-    "magenta_wool": [],
-    "red_wool": [],
-    "light_blue_wool": [],
-    "coarse_dirt": [],
-    "cobblestone_wall": [
-      "east",
-      "north",
-      "south",
-      "up",
-      "waterlogged",
-      "west"
-    ],
-    "flowering_azalea_leaves": [
-      "distance",
-      "persistent",
-      "waterlogged"
-    ],
-    "ladder": [
-      "facing",
-      "waterlogged"
-    ],
-    "nether_bricks": [],
-    "quartz_stairs": [
-      "facing",
-      "half",
-      "shape",
-      "waterlogged"
-    ],
-    "water": [
-      "level"
-    ],
-    "light_gray_wool": [],
-    "terracotta": [],
-    "cyan_terracotta": [],
-    "stone_brick_wall": [
-      "east",
-      "north",
-      "south",
-      "up",
-      "waterlogged",
-      "west"
-    ],
-    "cherry_log": [
-      "axis"
-    ],
-    "chiseled_stone_bricks": [],
-    "polished_andesite": [],
-    "red_stained_glass": [],
-    "azure_bluet": [],
-    "oxeye_daisy": [],
-    "magenta_stained_glass": [],
-    "flower_pot": [],
-    "polished_blackstone_bricks": [],
-    "redstone_block": [],
-    "shroomlight": [],
-    "green_terracotta": [],
-    "lime_terracotta": [],
-    "black_concrete": [],
-    "yellow_terracotta": [],
-    "blackstone": [],
-    "glowstone": [],
-    "stone_brick_slab": [
-      "type",
-      "waterlogged"
-    ],
-    "cornflower": [],
-    "spruce_fence": [
-      "east",
-      "north",
-      "south",
-      "waterlogged",
-      "west"
-    ],
-    "glass": []
+    "quartz_pillar": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    },
+    "light_blue_concrete": {},
+    "sea_lantern": {},
+    "stone": {},
+    "smooth_quartz": {},
+    "white_concrete": {},
+    "gray_concrete": {},
+    "smooth_stone": {},
+    "air": {},
+    "blue_concrete": {},
+    "light_blue_stained_glass": {},
+    "light_gray_concrete": {},
+    "cyan_concrete": {},
+    "stripped_oak_log": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    },
+    "oak_leaves": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "iron_bars": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    },
+    "grass_block": {
+      "snowy": [
+        "true",
+        "false"
+      ]
+    },
+    "moss_block": {},
+    "azalea_leaves": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "dark_oak_slab": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "flowering_azalea": {},
+    "azalea": {},
+    "stone_brick_stairs": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "quartz_bricks": {},
+    "polished_diorite": {},
+    "stone_bricks": {},
+    "light_blue_carpet": {},
+    "quartz_slab": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "gold_block": {},
+    "polished_deepslate": {},
+    "deepslate_bricks": {},
+    "red_concrete": {},
+    "cut_sandstone": {},
+    "sandstone": {},
+    "pink_concrete": {},
+    "yellow_concrete": {},
+    "orange_stained_glass": {},
+    "orange_concrete": {},
+    "yellow_stained_glass": {},
+    "smooth_sandstone": {},
+    "pink_stained_glass": {},
+    "magenta_concrete": {},
+    "chiseled_quartz_block": {},
+    "dark_oak_planks": {},
+    "lantern": {
+      "hanging": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "cherry_leaves": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "lectern": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "has_book": [
+        "true",
+        "false"
+      ],
+      "powered": [
+        "true",
+        "false"
+      ]
+    },
+    "cartography_table": {},
+    "oak_planks": {},
+    "stripped_dark_oak_log": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    },
+    "dark_oak_fence": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    },
+    "oak_fence": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    },
+    "sand": {},
+    "jungle_log": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    },
+    "jungle_leaves": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "orange_terracotta": {},
+    "mossy_cobblestone": {},
+    "red_nether_brick_stairs": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "red_nether_bricks": {},
+    "sandstone_stairs": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "lime_concrete": {},
+    "green_concrete": {},
+    "pink_tulip": {},
+    "white_tulip": {},
+    "red_carpet": {},
+    "white_wool": {},
+    "bookshelf": {},
+    "quartz_block": {},
+    "iron_block": {},
+    "campfire": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "lit": [
+        "true",
+        "false"
+      ],
+      "signal_fire": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "barrel": {
+      "facing": [
+        "north",
+        "east",
+        "south",
+        "west",
+        "up",
+        "down"
+      ],
+      "open": [
+        "true",
+        "false"
+      ]
+    },
+    "dark_oak_stairs": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "magenta_wool": {},
+    "red_wool": {},
+    "light_blue_wool": {},
+    "coarse_dirt": {},
+    "cobblestone_wall": {
+      "east": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "north": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "south": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "up": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "none",
+        "low",
+        "tall"
+      ]
+    },
+    "flowering_azalea_leaves": {
+      "distance": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "persistent": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "ladder": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "nether_bricks": {},
+    "quartz_stairs": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "water": {
+      "level": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "light_gray_wool": {},
+    "terracotta": {},
+    "cyan_terracotta": {},
+    "stone_brick_wall": {
+      "east": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "north": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "south": [
+        "none",
+        "low",
+        "tall"
+      ],
+      "up": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "none",
+        "low",
+        "tall"
+      ]
+    },
+    "cherry_log": {
+      "axis": [
+        "x",
+        "y",
+        "z"
+      ]
+    },
+    "chiseled_stone_bricks": {},
+    "polished_andesite": {},
+    "red_stained_glass": {},
+    "azure_bluet": {},
+    "oxeye_daisy": {},
+    "magenta_stained_glass": {},
+    "flower_pot": {},
+    "polished_blackstone_bricks": {},
+    "redstone_block": {},
+    "shroomlight": {},
+    "green_terracotta": {},
+    "lime_terracotta": {},
+    "black_concrete": {},
+    "yellow_terracotta": {},
+    "blackstone": {},
+    "glowstone": {},
+    "stone_brick_slab": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "cornflower": {},
+    "spruce_fence": {
+      "east": [
+        "true",
+        "false"
+      ],
+      "north": [
+        "true",
+        "false"
+      ],
+      "south": [
+        "true",
+        "false"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ],
+      "west": [
+        "true",
+        "false"
+      ]
+    },
+    "glass": {}
   }
 }
