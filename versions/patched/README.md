@@ -84,3 +84,4 @@ viewing deck. The Capsule City approach is cut through the lower hillside and
 climbs by a long stair to the elevated causeway.
 - Korin's Tower cloud-plinth finish with chamfered tiers, soft cloud lobes, and a blue-and-gold entrance frame.
 - Kami's Lookout cloud underbelly with layered cloud banks and restrained gold/quartz underside ribs.
+- Kame Island Turtle School pavilion with a red roof, shell crest, practice targets, benches, and lanterns.
