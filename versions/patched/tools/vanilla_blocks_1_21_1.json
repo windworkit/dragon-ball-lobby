@@ -604,6 +604,43 @@
     "glass": {},
     "cyan_stained_glass": {},
     "gravel": {},
-    "andesite": {}
+    "andesite": {},
+    "dark_prismarine": {},
+    "prismarine_bricks": {},
+    "prismarine": {},
+    "prismarine_slab": {
+      "type": [
+        "top",
+        "bottom",
+        "double"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    },
+    "prismarine_stairs": {
+      "facing": [
+        "north",
+        "south",
+        "west",
+        "east"
+      ],
+      "half": [
+        "top",
+        "bottom"
+      ],
+      "shape": [
+        "straight",
+        "inner_left",
+        "inner_right",
+        "outer_left",
+        "outer_right"
+      ],
+      "waterlogged": [
+        "true",
+        "false"
+      ]
+    }
   }
 }
