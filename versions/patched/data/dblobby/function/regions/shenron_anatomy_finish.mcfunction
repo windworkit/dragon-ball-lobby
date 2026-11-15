@@ -206,3 +206,15 @@ fill ~187 ~55 ~-128 ~192 ~58 ~-123 minecraft:yellow_terracotta
 setblock ~120 ~49 ~-115 minecraft:sea_lantern
 setblock ~202 ~49 ~-111 minecraft:sea_lantern
 setblock ~70 ~126 ~-203 minecraft:sea_lantern
+
+# Smooth the upward curl where each fine whisker grows out of the broad tendril.
+fill ~82 ~129 ~-132 ~87 ~134 ~-126 minecraft:green_terracotta
+fill ~83 ~134 ~-133 ~88 ~139 ~-127 minecraft:lime_concrete
+fill ~85 ~138 ~-135 ~90 ~143 ~-128 minecraft:green_terracotta
+fill ~208 ~129 ~-132 ~213 ~134 ~-126 minecraft:green_terracotta
+fill ~207 ~134 ~-133 ~212 ~139 ~-127 minecraft:lime_concrete
+fill ~205 ~138 ~-135 ~210 ~143 ~-128 minecraft:green_terracotta
+
+# Narrow color bands emphasize the raised outer curls without making them rigid.
+fill ~88 ~142 ~-137 ~92 ~145 ~-132 minecraft:yellow_terracotta
+fill ~203 ~142 ~-137 ~207 ~145 ~-132 minecraft:yellow_terracotta
