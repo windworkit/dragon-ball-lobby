@@ -398,8 +398,7 @@ fill ~-4 ~5 ~148 ~-4 ~15 ~150 minecraft:quartz_pillar
 fill ~4 ~5 ~148 ~4 ~15 ~150 minecraft:quartz_pillar
 fill ~-5 ~14 ~148 ~5 ~16 ~150 minecraft:red_nether_bricks
 fill ~-4 ~16 ~148 ~4 ~16 ~150 minecraft:gold_block
-fill ~-2 ~5 ~147 ~2 ~11 ~151 minecraft:air
-fill ~-2 ~5 ~152 ~2 ~11 ~152 minecraft:air
+fill ~-2 ~5 ~143 ~2 ~11 ~152 minecraft:air
 fill ~-3 ~5 ~151 ~-3 ~12 ~151 minecraft:gold_block
 fill ~3 ~5 ~151 ~3 ~12 ~151 minecraft:gold_block
 setblock ~0 ~13 ~150 minecraft:sea_lantern
@@ -5956,6 +5955,8 @@ fill ~-3 ~104 ~189 ~3 ~113 ~194 minecraft:air
 fill ~45 ~104 ~136 ~50 ~113 ~142 minecraft:air
 fill ~-50 ~104 ~136 ~-45 ~113 ~142 minecraft:air
 
+# A slim quartz spine supports the ladder through the hollow crown and into the Lookout shaft.
+fill ~-5 ~83 ~136 ~-5 ~140 ~136 minecraft:quartz_pillar
 # FINAL ALIGNMENT CHECK: tower tip and Lookout keel share X0/Z+139.
 # The tower shell stops at Y+139; the Lookout's keel begins at Y+140.
 # Preserve the vertical ladder at X-4/Z+136 through the centered Lookout shaft.
