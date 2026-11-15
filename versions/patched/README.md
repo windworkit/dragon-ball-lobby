@@ -20,7 +20,7 @@ and all original region functions and the expanded decorative modules.
 - World Martial Arts Tournament stadium with a level concourse, one-block-raised fighting mat, spectator tiers, roof canopy, pagoda-style arrival gate, open registration/vendor stalls, announcer stand, and waiting benches.
 - Kame House on a reshaped oval island with layered sandstone/sand/grass shelves, a shallow surrounding water ring, palm grove, beach umbrellas, outdoor seating, shoreline rockwork, dock, and dedicated training garden.
 - Kami's Lookout expanded into a monumental white-and-red palace with a broad sky platform, ceremonial colonnade, observation wings, and a taller decorated tower shaft;
-- Shenron Valley with a monumental, reference-inspired Shenron: a much larger layered coil, rising chest and neck, broad expressive head, branching horns, swept whiskers, paired clawed forelimbs, dorsal mane, segmented gold belly, cloud supports, and seven individually staged Dragon Ball displays. The south-side visitor terrace keeps its clear center approach and ornamental entry gate.
+- Shenron Valley with a monumental, reference-inspired Shenron: a massive layered coil, elevated chest and neck, sculpted muzzle and jaw, raised brow, branching swept horns, long curling whiskers, four articulated clawed limbs, fanned tail, flowing nape mane, stepped dorsal crest, contrasting scale plates, segmented gold belly, cloud supports, and seven individually staged Dragon Ball displays. The south-side visitor terrace keeps its clear center approach and ornamental entry gate.
 - Korin's Tower: a grounded colossal terracotta tower with a supported exterior stair, multiple balcony bands, vertical windows, a cloud foundation, and a high summit pavilion.
 - Roads and colored waypoints.
 
@@ -82,6 +82,11 @@ nested oval terraces. A spring and irregular rock outcrops break up the upper
 shelf, while the oval display court and garden approach join the supported
 viewing deck. The Capsule City approach is cut through the lower hillside and
 climbs by a long stair to the elevated causeway.
+
+The latest Shenron anatomy pass adds the second pair of legs, individual toes
+and gold claws, a fanned tail, tapered whisker filaments, branching horn tines,
+a layered nape mane, and a stepped dorsal crest. These additions are generated
+after the main statue so the face, limbs, and silhouette details remain visible.
 - Korin's Tower cloud-plinth finish with chamfered tiers, soft cloud lobes, and a blue-and-gold entrance frame.
 - Kami's Lookout cloud underbelly with layered cloud banks and restrained gold/quartz underside ribs.
 - Kame Island Turtle School pavilion with a red roof, shell crest, practice targets, benches, and lanterns.
