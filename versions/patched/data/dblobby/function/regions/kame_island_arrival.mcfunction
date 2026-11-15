@@ -8,10 +8,10 @@ fill ~-137 ~-3 ~17 ~-116 ~-3 ~21 minecraft:sand
 fill ~-137 ~-2 ~17 ~-116 ~-2 ~21 minecraft:smooth_sandstone
 fill ~-136 ~-2 ~18 ~-117 ~-2 ~20 minecraft:sandstone
 # Pink-and-white island identity markers at the promenade corners.
-fill ~-119 ~-2 ~9 ~-119 ~2 ~9 minecraft:sandstone_bricks
+fill ~-119 ~-2 ~9 ~-119 ~2 ~9 minecraft:cut_sandstone
 fill ~-120 ~3 ~8 ~-118 ~3 ~10 minecraft:pink_concrete
 setblock ~-119 ~4 ~9 minecraft:lantern
-fill ~-135 ~-2 ~17 ~-135 ~2 ~17 minecraft:sandstone_bricks
+fill ~-135 ~-2 ~17 ~-135 ~2 ~17 minecraft:cut_sandstone
 fill ~-136 ~3 ~16 ~-134 ~3 ~18 minecraft:pink_concrete
 setblock ~-135 ~4 ~17 minecraft:lantern
 # Low coastal planting beds, kept outside the central walkway.
