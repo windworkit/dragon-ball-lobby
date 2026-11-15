@@ -29,6 +29,7 @@ function dblobby:regions/lookout_sanctuary_details
 function dblobby:regions/korins_tower
 function dblobby:regions/korins_tower_access
 function dblobby:regions/shenron_valley
+function dblobby:regions/shenron_valley_terrain_finish
 function dblobby:regions/shenron_giant_form
 function dblobby:regions/shenron_surface_detail
 function dblobby:regions/shenron_viewing_terrace
