@@ -66,13 +66,15 @@ fill ~-144 ~10 ~188 ~-144 ~10 ~189 minecraft:stone_brick_wall
 fill ~-165 ~11 ~186 ~-145 ~11 ~187 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
 fill ~-166 ~11 ~186 ~-166 ~11 ~187 minecraft:stone_brick_wall
 fill ~-144 ~11 ~186 ~-144 ~11 ~187 minecraft:stone_brick_wall
-fill ~-164 ~12 ~181 ~-146 ~12 ~151 minecraft:smooth_sandstone
+# The raised bridge is supported at the cliff edge and joins the tower's south entry.
+fill ~-164 ~3 ~181 ~-146 ~11 ~185 minecraft:quartz_block
+fill ~-164 ~12 ~151 ~-146 ~12 ~185 minecraft:smooth_sandstone
 fill ~-163 ~12 ~180 ~-147 ~12 ~151 minecraft:gold_block
 fill ~-162 ~12 ~180 ~-148 ~12 ~151 minecraft:smooth_sandstone
+fill ~-164 ~3 ~181 ~-164 ~11 ~185 minecraft:quartz_pillar
+fill ~-146 ~3 ~181 ~-146 ~11 ~185 minecraft:quartz_pillar
 fill ~-162 ~13 ~150 ~-148 ~13 ~150 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
-fill ~-162 ~14 ~149 ~-148 ~14 ~149 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
-fill ~-162 ~15 ~148 ~-148 ~15 ~148 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
-fill ~-162 ~16 ~145 ~-148 ~16 ~147 minecraft:smooth_sandstone
+fill ~-162 ~13 ~145 ~-148 ~13 ~149 minecraft:smooth_sandstone
 setblock ~-165 ~1 ~206 minecraft:lantern
 setblock ~-145 ~1 ~206 minecraft:lantern
 setblock ~-165 ~12 ~182 minecraft:sea_lantern
