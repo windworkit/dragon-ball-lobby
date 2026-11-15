@@ -31,8 +31,8 @@ fill ~48 ~1 ~-6 ~48 ~2 ~-6 minecraft:sea_lantern
 fill ~48 ~1 ~6 ~48 ~2 ~6 minecraft:sea_lantern
 
 # WEST: Kame House island gateway.
-fill ~-49 ~0 ~-7 ~-47 ~8 ~-5 minecraft:sandstone_bricks
-fill ~-49 ~0 ~5 ~-47 ~8 ~7 minecraft:sandstone_bricks
+fill ~-49 ~0 ~-7 ~-47 ~8 ~-5 minecraft:cut_sandstone
+fill ~-49 ~0 ~5 ~-47 ~8 ~7 minecraft:cut_sandstone
 fill ~-49 ~8 ~-7 ~-47 ~10 ~7 minecraft:pink_concrete
 fill ~-49 ~8 ~-4 ~-47 ~9 ~4 minecraft:magenta_concrete
 fill ~-48 ~1 ~-6 ~-48 ~2 ~-6 minecraft:sea_lantern
