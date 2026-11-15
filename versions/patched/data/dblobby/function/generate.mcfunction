@@ -43,6 +43,7 @@ function dblobby:regions/tournament_arrival_finish
 function dblobby:regions/tournament_venue_finish
 function dblobby:regions/tournament_spectator_finish
 function dblobby:regions/tournament_arena_rebuild
+function dblobby:regions/tournament_exterior_finish
 function dblobby:regions/kame_house_finish
 function dblobby:regions/kame_training_pavilion
 function dblobby:regions/kame_house_complete_rebuild
