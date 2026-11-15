@@ -42,6 +42,7 @@ function dblobby:regions/hub_architecture_finish
 function dblobby:regions/capsule_city_finish
 function dblobby:regions/capsule_hq_dome
 function dblobby:regions/capsule_hq_interior
+function dblobby:regions/capsule_city_satellites
 function dblobby:regions/tournament_arrival_finish
 function dblobby:regions/kame_house_finish
 function dblobby:regions/kamis_lookout_finish
