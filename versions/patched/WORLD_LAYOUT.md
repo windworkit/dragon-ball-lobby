@@ -428,3 +428,12 @@ its four corners and along the side edges, with small luminous cores and restrai
 gold/quartz underside accents. These formations sit below the Y28 platform and
 stay clear of the south tower shaft, sky bridge, and palace entry. They are
 decorative supports; the platform remains intentionally floating.
+
+### Kame Island Turtle School pavilion
+
+A compact open-sided dojo sits immediately north of the existing training garden,
+on the same Y-2 walking surface. It has a red layered roof, quartz-and-wood
+supports, a Turtle School shell crest, three wooden practice targets, benches,
+equipment barrels, and warm hanging lanterns. A short sandstone-and-gold path
+connects its south entrance to the original training patch. It is a decorative
+training space; no NPCs, dummies, or mod entities are spawned.
