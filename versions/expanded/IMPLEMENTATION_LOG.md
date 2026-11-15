@@ -193,3 +193,14 @@ Implemented in the patched datapack:
 - Integrated after the main Shenron form, surface detail, and elevated access route.
 
 The silhouette still needs a live multi-angle Minecraft review; this pass improves surface anatomy and does not replace that acceptance step.
+
+## Iteration 14 — Shenron Valley terrain and display plaza
+
+Implemented in the patched datapack:
+
+- shenron_valley_terrain_finish.mcfunction clears the original rectangular terrain mass below Y31 and replaces it with nested oval stone terraces, retaining bands, a small upper-shelf spring, irregular rock outcrops, planted pockets, a southern rock promontory, and structural piers beneath the viewing deck.
+- shenron_sculpture_finish.mcfunction reshapes the top display into an oval seven-ball court with a polished-blackstone ring, lighter interior floor, surrounding moss shelf, restored garden beds, and a wide approach to the visitor deck.
+- shenron_valley_access.mcfunction now clears headroom through the lower hillside so the Capsule City road meets the stair without a low stone ceiling.
+- Terrain generation runs immediately after the Shenron Valley base and before the dragon build; the oval court is applied after the sculpture and approach modules.
+
+The hill and court pass static checks. The actual slope, water behavior, bridge and terrace footing visibility, and views of the dragon still require a live Minecraft inspection.
