@@ -84,6 +84,16 @@ Four compact display stations are built into the diagonal side bays around the c
 
 The rotunda is intentionally open-air and elevated above the player route. Its center roof aperture preserves a clear view of the Dragon Ball. Use `/function dblobby:hub` in-game for the player-facing district guide; `/function dblobby:help` remains the builder command list.
 
+## Social court pergola finish
+
+The four diagonal gathering courts now have matching open pergola frames. Quartz
+corner posts, gold collar bands and a light quartz perimeter support distinct
+role-color slats: Capsule blue, Tournament red, Kame pink and Kami gold. Each
+court receives a small sea-lantern/gold crown and a flush colored floor medallion.
+The frames stay within the diagonal side bays, below the rotunda roof and outside
+the cardinal road lanes; the original benches, backrests, lanterns and flower pots
+remain in place.
+
 ## NPC-ready station canopy finish
 
 The four diagonal service pads receive matching compact kiosk frames. Quartz
