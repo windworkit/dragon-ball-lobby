@@ -39,6 +39,7 @@ function dblobby:regions/capsule_hq_dome
 function dblobby:regions/capsule_hq_interior
 function dblobby:regions/capsule_city_satellites
 function dblobby:regions/capsule_city_finish
+function dblobby:regions/capsule_hq_facade_finish
 function dblobby:regions/capsule_city_civic_finish
 function dblobby:regions/capsule_satellite_courts
 function dblobby:regions/tournament_arrival_finish
