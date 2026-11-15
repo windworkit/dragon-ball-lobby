@@ -33,7 +33,7 @@ KORIN'S TOWER                                      SHENRON VALLEY
 | Kami's Lookout | X -46 to +46, Z +91 to +188; palace reaches Y +60 |
 | Korin's Tower | X -190 to -120, Z +126 to +210; chamfered cloud plinth Y 0..10, summit pavilion Y +134..+177 |
 | Lookout upper-deck details | East training court X +17..+31, Z +131..+147; west meditation garden X -31..-17, Z +131..+147; four corner lights at the platform edges |
-| Shenron Valley | X +72 to +233, Z -208 to -66; giant raised Shenron reaches approximately Y +90 |
+| Shenron Valley | X +72 to +233, Z -208 to -66; reference-inspired Shenron spans approximately X +76..+219 and Z -208..-88, with horn tips reaching Y +147 |
 | Roads and waypoints | Main cardinal roads extending to about 118 blocks |
 
 These are approximate bounding boxes inferred from the function coordinates,
@@ -139,7 +139,7 @@ These are first-pass functional interiors. The Korin shaft is a ladder-based cli
 
 | Detail | Relative footprint | Purpose |
 | --- | --- | --- |
-| Shenron surface detail | X +98..+235, Z -172..-114, Y +48..+90 | Adds repeated scale bands, gold belly segmentation, dorsal spines, brow ridges, cheek plates, and stepped whisker curls to the raised dragon. |
+| Shenron epic anatomy pass | X +76..+219, Z -208..-88, Y +43..+147 | Clears the old compact silhouette above the court and rebuilds a towering coil, chest, neck, broad head, branching horns, swept whiskers, paired clawed forelimbs, dorsal mane, segmented belly, and cloud supports. |
 | Kami's Lookout tower access | X -5..+5, Z +97..+116, Y +1..+30 | Opens a ladder shaft through the tower and adds a narrow railed sky bridge to the palace stairs. |
 
 The new tower access is a first functional route, not a final architectural staircase. The Shenron surface pass is block-art detailing; inspect its face orientation and scale placement from the viewing terrace in-game.
@@ -251,13 +251,7 @@ reachable.
 
 ### Shenron — rebuilt landmark silhouette
 
-The previous thin, disconnected body trace and oversized square base are removed
-by the generator. The new sculpture uses overlapping volumetric body segments to
-form a broad coil, a rising neck, a tapered tail, and a distinct south-facing
-head with brows, eyes, muzzle, horns, and long orange whiskers. Yellow underside
-plates and green scale bands help the body read as a rounded dragon rather than a
-single green bar. Cloud clusters rise from the level visitor court and blend into
-the coil; they are built from placeable wool blocks.
+The compact snake-like silhouette is now cleared above the display court and replaced with a much larger, reference-inspired dragon. Its thick body forms a broad elevated coil with a visible hollow center; the coil rises into a substantial chest and neck before meeting a wide skull, forward muzzle, recessed mouth, red eyes, branching horns, cheek mane, and long paired whiskers. Two articulated forelimbs extend from the chest and finish in separate palms and hooked claws. Layered dorsal fins, flank scales, red-edged gold belly plates, a swept tapering tail, and low cloud supports give the sculpture distinct anatomy and a more dimensional outline. The new silhouette spans roughly X +76..+219 and Z -208..-88, with its horn tips reaching Y +147. The Y31 visitor court and seven Dragon Ball displays remain below it.
 
 Seven Dragon Balls are displayed on individual plinths around the court. The
 orbs use rounded orange-glass profiles with a red star count facing the visitor
@@ -362,15 +356,7 @@ portals, and perimeter canopy remain the arena's primary structure.
 
 ## Shenron sculptural refinement
 
-The rebuilt coil now has a second close-range sculpting pass layered over the main
-body and surface-detail regions. It adds overlapping pale belly plates with
-ochre seams on the south-facing side, darker green scale patches along the
-visible flanks, and a repeated dorsal fin rhythm along the upper curve. The
-neck transitions into the head with throat plates and swept-back crown tufts.
-The face receives a recessed mouth, lower jaw, fangs, nostrils, curled whisker
-ends, and curved horn tips. A fan-shaped detail widens the tail root before it
-tapers to the original tip. The finish avoids the seven orb plinths and preserves
-the south-facing visitor terrace sightline.
+The new anatomy pass replaces the earlier compact dragon rather than layering more detail onto its snake-like outline. The main body is enlarged and lifted into a broad ring-shaped coil, with an open center and a visibly thicker shoulder/chest transition into the neck. The head now has separate cranium, brow, cheek and muzzle masses, a recessed open mouth with fangs, red eyes, two branching horns, crown and cheek fins, and two pairs of whiskers. Paired forelimbs have distinct upper arms, elbows, wrists, palms, and hooked claws. A repeating dorsal mane, smaller flank-scale patches, segmented yellow belly plates with red seams, and a tapering swept tail break up the silhouette. The rebuild clears only the sculpture area above Y40, leaving the seven-ball display court at Y31..39 and the southern visitor approach intact.
 
 ## Shenron Valley — natural terrain and oval display court
 
