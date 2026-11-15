@@ -29,6 +29,7 @@ function dblobby:regions/roads_and_waypoints
 function dblobby:regions/gateway_threshold_details
 function dblobby:regions/district_approach_lighting
 function dblobby:regions/plaza_gate_accents
+function dblobby:regions/district_gateway_crests
 function dblobby:regions/plaza_art_direction
 function dblobby:regions/hub_architecture_finish
 function dblobby:regions/plaza_orbital_finish
