@@ -75,3 +75,9 @@ shoreline so they remain connected to the revised landform.
 The Tournament forecourt now reads as an event entrance rather than a plain
 passage: the pagoda gate frames the west arrival, the open stalls flank the
 approach, and the announcer platform overlooks the fighting area.
+
+The Shenron Valley ground has also been reshaped from rectangular tiers into
+nested oval terraces. A spring and irregular rock outcrops break up the upper
+shelf, while the oval display court and garden approach join the supported
+viewing deck. The Capsule City approach is cut through the lower hillside and
+climbs by a long stair to the elevated causeway.
