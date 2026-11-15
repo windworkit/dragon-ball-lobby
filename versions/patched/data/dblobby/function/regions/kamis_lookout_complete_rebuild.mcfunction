@@ -1267,14 +1267,14 @@ fill ~13 ~18 ~201 ~19 ~18 ~201 minecraft:gold_block
 # Side-facing blue inset windows follow the broadest section of the white band.
 fill ~60 ~19 ~131 ~60 ~21 ~133 minecraft:light_blue_stained_glass
 fill ~-60 ~19 ~131 ~-60 ~21 ~133 minecraft:light_blue_stained_glass
-fill ~61 ~19 ~138 ~61 ~21 ~140 minecraft:light_blue_stained_glass
-fill ~-61 ~19 ~138 ~-61 ~21 ~140 minecraft:light_blue_stained_glass
+fill ~60 ~19 ~138 ~60 ~21 ~140 minecraft:light_blue_stained_glass
+fill ~-60 ~19 ~138 ~-60 ~21 ~140 minecraft:light_blue_stained_glass
 fill ~60 ~19 ~145 ~60 ~21 ~147 minecraft:light_blue_stained_glass
 fill ~-60 ~19 ~145 ~-60 ~21 ~147 minecraft:light_blue_stained_glass
 setblock ~60 ~18 ~132 minecraft:gold_block
 setblock ~-60 ~18 ~132 minecraft:gold_block
-setblock ~61 ~18 ~139 minecraft:gold_block
-setblock ~-61 ~18 ~139 minecraft:gold_block
+setblock ~60 ~18 ~139 minecraft:gold_block
+setblock ~-60 ~18 ~139 minecraft:gold_block
 setblock ~60 ~18 ~146 minecraft:gold_block
 setblock ~-60 ~18 ~146 minecraft:gold_block
 setblock ~-30 ~15 ~195 minecraft:gold_block
