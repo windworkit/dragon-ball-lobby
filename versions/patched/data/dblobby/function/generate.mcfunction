@@ -25,9 +25,14 @@ function dblobby:regions/shenron_valley
 function dblobby:regions/shenron_valley_terrain_finish
 function dblobby:regions/shenron_giant_form
 function dblobby:regions/shenron_surface_detail
+function dblobby:regions/shenron_sculpture_finish
+function dblobby:regions/shenron_epic_rebuild
+function dblobby:regions/shenron_anatomy_finish
+function dblobby:regions/shenron_forelimb_finish
 function dblobby:regions/shenron_viewing_terrace
 function dblobby:regions/shenron_valley_garden
 function dblobby:regions/shenron_valley_entry_gate
+function dblobby:regions/shenron_valley_access
 function dblobby:regions/roads_and_waypoints
 function dblobby:regions/gateway_threshold_details
 function dblobby:regions/district_approach_lighting
@@ -53,13 +58,9 @@ function dblobby:regions/kame_beach_cabana_finish
 function dblobby:regions/kamis_lookout_legacy_clear
 execute positioned ~ ~140 ~ run function dblobby:regions/kamis_lookout_complete_rebuild
 function dblobby:regions/korins_tower_complete_rebuild
-function dblobby:regions/shenron_valley_access
-function dblobby:regions/shenron_sculpture_finish
-function dblobby:regions/shenron_epic_rebuild
-function dblobby:regions/shenron_anatomy_finish
-function dblobby:regions/shenron_forelimb_finish
 function dblobby:regions/district_route_finish
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
+
 
 
