@@ -33,11 +33,21 @@ KORIN'S TOWER                                      SHENRON VALLEY
 | Kami's Lookout | X -46 to +46, Z +91 to +188; palace reaches Y +60 |
 | Korin's Tower | X -190 to -120, Z +126 to +210; chamfered cloud plinth Y 0..10, summit pavilion Y +134..+177 |
 | Lookout upper-deck details | East training court X +17..+31, Z +131..+147; west meditation garden X -31..-17, Z +131..+147; four corner lights at the platform edges |
-| Shenron Valley | X +72 to +233, Z -208 to -66; reference-inspired Shenron spans approximately X +76..+219 and Z -208..-88, with horn tips reaching Y +147 |
+| Shenron Valley | X +62 to +233, Z -211 to -66; reference-inspired Shenron spans approximately X +59..+219 and Z -211..-88, with horn and tail-fin tips reaching Y +158 |
 | Roads and waypoints | Main cardinal roads extending to about 118 blocks |
 
 These are approximate bounding boxes inferred from the function coordinates,
 not a promise that every block inside the box is filled.
+
+### Shenron anatomy finish
+
+The anatomy finish is applied after the main Shenron rebuild. It keeps the Y+31
+seven-ball court intact and adds a broader lower jaw and brow, layered cheek
+frills and nape mane, branching swept horns, paired curling whisker filaments,
+a fanned three-prong tail, two additional rear legs with toes and gold claws,
+and a stepped dorsal crest along the coil. The approximate statue envelope is
+X +59..+219, Z -211..-88, Y +42..+158. This is a command-coordinate estimate;
+confirm the silhouette, limb clearance, and viewing angles in a live world.
 
 ## District gateways and guide pavilion
 
