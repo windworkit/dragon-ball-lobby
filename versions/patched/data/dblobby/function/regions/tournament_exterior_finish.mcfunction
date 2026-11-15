@@ -69,38 +69,38 @@ setblock ~164 ~18 ~54 minecraft:sea_lantern
 setblock ~182 ~18 ~54 minecraft:sea_lantern
 
 # Paired spectator-window bays sit between the structural ribs on both long sides.
-fill ~98 ~11 ~-55 ~104 ~16 ~-55 minecraft:white_concrete
-fill ~99 ~12 ~-55 ~103 ~15 ~-55 minecraft:light_blue_stained_glass
-fill ~116 ~11 ~-55 ~122 ~16 ~-55 minecraft:white_concrete
-fill ~117 ~12 ~-55 ~121 ~15 ~-55 minecraft:light_blue_stained_glass
-fill ~134 ~11 ~-55 ~140 ~16 ~-55 minecraft:white_concrete
-fill ~135 ~12 ~-55 ~139 ~15 ~-55 minecraft:light_blue_stained_glass
-fill ~152 ~11 ~-55 ~158 ~16 ~-55 minecraft:white_concrete
-fill ~153 ~12 ~-55 ~157 ~15 ~-55 minecraft:light_blue_stained_glass
-fill ~170 ~11 ~-55 ~176 ~16 ~-55 minecraft:white_concrete
-fill ~171 ~12 ~-55 ~175 ~15 ~-55 minecraft:light_blue_stained_glass
-fill ~98 ~11 ~55 ~104 ~16 ~55 minecraft:white_concrete
-fill ~99 ~12 ~55 ~103 ~15 ~55 minecraft:light_blue_stained_glass
-fill ~116 ~11 ~55 ~122 ~16 ~55 minecraft:white_concrete
-fill ~117 ~12 ~55 ~121 ~15 ~55 minecraft:light_blue_stained_glass
-fill ~134 ~11 ~55 ~140 ~16 ~55 minecraft:white_concrete
-fill ~135 ~12 ~55 ~139 ~15 ~55 minecraft:light_blue_stained_glass
-fill ~152 ~11 ~55 ~158 ~16 ~55 minecraft:white_concrete
-fill ~153 ~12 ~55 ~157 ~15 ~55 minecraft:light_blue_stained_glass
-fill ~170 ~11 ~55 ~176 ~16 ~55 minecraft:white_concrete
-fill ~171 ~12 ~55 ~175 ~15 ~55 minecraft:light_blue_stained_glass
+fill ~98 ~11 ~-54 ~104 ~16 ~-54 minecraft:white_concrete
+fill ~99 ~12 ~-54 ~103 ~15 ~-54 minecraft:light_blue_stained_glass
+fill ~116 ~11 ~-54 ~122 ~16 ~-54 minecraft:white_concrete
+fill ~117 ~12 ~-54 ~121 ~15 ~-54 minecraft:light_blue_stained_glass
+fill ~134 ~11 ~-54 ~140 ~16 ~-54 minecraft:white_concrete
+fill ~135 ~12 ~-54 ~139 ~15 ~-54 minecraft:light_blue_stained_glass
+fill ~152 ~11 ~-54 ~158 ~16 ~-54 minecraft:white_concrete
+fill ~153 ~12 ~-54 ~157 ~15 ~-54 minecraft:light_blue_stained_glass
+fill ~170 ~11 ~-54 ~176 ~16 ~-54 minecraft:white_concrete
+fill ~171 ~12 ~-54 ~175 ~15 ~-54 minecraft:light_blue_stained_glass
+fill ~98 ~11 ~54 ~104 ~16 ~54 minecraft:white_concrete
+fill ~99 ~12 ~54 ~103 ~15 ~54 minecraft:light_blue_stained_glass
+fill ~116 ~11 ~54 ~122 ~16 ~54 minecraft:white_concrete
+fill ~117 ~12 ~54 ~121 ~15 ~54 minecraft:light_blue_stained_glass
+fill ~134 ~11 ~54 ~140 ~16 ~54 minecraft:white_concrete
+fill ~135 ~12 ~54 ~139 ~15 ~54 minecraft:light_blue_stained_glass
+fill ~152 ~11 ~54 ~158 ~16 ~54 minecraft:white_concrete
+fill ~153 ~12 ~54 ~157 ~15 ~54 minecraft:light_blue_stained_glass
+fill ~170 ~11 ~54 ~176 ~16 ~54 minecraft:white_concrete
+fill ~171 ~12 ~54 ~175 ~15 ~54 minecraft:light_blue_stained_glass
 
 # Gold lintels tie the window bays into the repeated facade rhythm.
-fill ~98 ~16 ~-55 ~104 ~16 ~-55 minecraft:gold_block
-fill ~116 ~16 ~-55 ~122 ~16 ~-55 minecraft:gold_block
-fill ~134 ~16 ~-55 ~140 ~16 ~-55 minecraft:gold_block
-fill ~152 ~16 ~-55 ~158 ~16 ~-55 minecraft:gold_block
-fill ~170 ~16 ~-55 ~176 ~16 ~-55 minecraft:gold_block
-fill ~98 ~16 ~55 ~104 ~16 ~55 minecraft:gold_block
-fill ~116 ~16 ~55 ~122 ~16 ~55 minecraft:gold_block
-fill ~134 ~16 ~55 ~140 ~16 ~55 minecraft:gold_block
-fill ~152 ~16 ~55 ~158 ~16 ~55 minecraft:gold_block
-fill ~170 ~16 ~55 ~176 ~16 ~55 minecraft:gold_block
+fill ~98 ~16 ~-54 ~104 ~16 ~-54 minecraft:gold_block
+fill ~116 ~16 ~-54 ~122 ~16 ~-54 minecraft:gold_block
+fill ~134 ~16 ~-54 ~140 ~16 ~-54 minecraft:gold_block
+fill ~152 ~16 ~-54 ~158 ~16 ~-54 minecraft:gold_block
+fill ~170 ~16 ~-54 ~176 ~16 ~-54 minecraft:gold_block
+fill ~98 ~16 ~54 ~104 ~16 ~54 minecraft:gold_block
+fill ~116 ~16 ~54 ~122 ~16 ~54 minecraft:gold_block
+fill ~134 ~16 ~54 ~140 ~16 ~54 minecraft:gold_block
+fill ~152 ~16 ~54 ~158 ~16 ~54 minecraft:gold_block
+fill ~170 ~16 ~54 ~176 ~16 ~54 minecraft:gold_block
 
 # End-wall buttresses flank the west/east portals but stay away from their center openings.
 fill ~80 ~2 ~-43 ~84 ~17 ~-41 minecraft:quartz_pillar
