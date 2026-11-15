@@ -84,6 +84,16 @@ Four compact display stations are built into the diagonal side bays around the c
 
 The rotunda is intentionally open-air and elevated above the player route. Its center roof aperture preserves a clear view of the Dragon Ball. Use `/function dblobby:hub` in-game for the player-facing district guide; `/function dblobby:help` remains the builder command list.
 
+## NPC-ready station canopy finish
+
+The four diagonal service pads receive matching compact kiosk frames. Quartz
+corner posts, gold collars, role-color canopy fascias (blue welcome, red quests,
+yellow travel/services, pink character information), and a small sea-lantern /
+gold crown give each station a visible silhouette from the center plaza. The
+canopies sit outside the cardinal road lanes and the floor ticks remain flush at
+Y0. These are still decorative staging structures only: no NPCs, signs with
+invented text, click actions, or mod entities are assumed.
+
 ## Central Dragon Ball orbital and radial finish
 
 A lower gold-and-glass halo sits just below the floating one-star Dragon Ball,
