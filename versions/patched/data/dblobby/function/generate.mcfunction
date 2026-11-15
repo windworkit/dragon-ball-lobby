@@ -1,3 +1,4 @@
+tellraw @s {"text":"[Dragon Ball Lobby] Generating the world around your current position. This is a large build; use a fresh/backup world.","color":"gold"}
 function dblobby:regions/central_spawn
 function dblobby:regions/plaza_gardens
 function dblobby:regions/plaza_dragon_ball
