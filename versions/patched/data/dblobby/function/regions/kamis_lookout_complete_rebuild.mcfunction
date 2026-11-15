@@ -2285,39 +2285,39 @@ fill ~16 ~30 ~164 ~18 ~30 ~167 minecraft:flowering_azalea_leaves[persistent=true
 fill ~-62 ~29 ~138 ~-60 ~32 ~140 minecraft:quartz_pillar
 setblock ~-61 ~33 ~139 minecraft:sea_lantern
 setblock ~-61 ~34 ~139 minecraft:gold_block
-fill ~-53 ~29 ~95 ~-51 ~32 ~97 minecraft:quartz_pillar
-setblock ~-52 ~33 ~96 minecraft:sea_lantern
-setblock ~-52 ~34 ~96 minecraft:gold_block
-fill ~-32 ~29 ~75 ~-30 ~32 ~77 minecraft:quartz_pillar
-setblock ~-31 ~33 ~76 minecraft:sea_lantern
-setblock ~-31 ~34 ~76 minecraft:gold_block
+fill ~-45 ~29 ~95 ~-43 ~32 ~97 minecraft:quartz_pillar
+setblock ~-44 ~33 ~96 minecraft:sea_lantern
+setblock ~-44 ~34 ~96 minecraft:gold_block
+fill ~-20 ~29 ~75 ~-18 ~32 ~77 minecraft:quartz_pillar
+setblock ~-19 ~33 ~76 minecraft:sea_lantern
+setblock ~-19 ~34 ~76 minecraft:gold_block
 fill ~-1 ~29 ~71 ~1 ~32 ~73 minecraft:quartz_pillar
 setblock ~0 ~33 ~72 minecraft:sea_lantern
 setblock ~0 ~34 ~72 minecraft:gold_block
-fill ~30 ~29 ~75 ~32 ~32 ~77 minecraft:quartz_pillar
-setblock ~31 ~33 ~76 minecraft:sea_lantern
-setblock ~31 ~34 ~76 minecraft:gold_block
-fill ~51 ~29 ~95 ~53 ~32 ~97 minecraft:quartz_pillar
-setblock ~52 ~33 ~96 minecraft:sea_lantern
-setblock ~52 ~34 ~96 minecraft:gold_block
+fill ~18 ~29 ~75 ~20 ~32 ~77 minecraft:quartz_pillar
+setblock ~19 ~33 ~76 minecraft:sea_lantern
+setblock ~19 ~34 ~76 minecraft:gold_block
+fill ~43 ~29 ~95 ~45 ~32 ~97 minecraft:quartz_pillar
+setblock ~44 ~33 ~96 minecraft:sea_lantern
+setblock ~44 ~34 ~96 minecraft:gold_block
 fill ~60 ~29 ~138 ~62 ~32 ~140 minecraft:quartz_pillar
 setblock ~61 ~33 ~139 minecraft:sea_lantern
 setblock ~61 ~34 ~139 minecraft:gold_block
-fill ~51 ~29 ~181 ~53 ~32 ~183 minecraft:quartz_pillar
-setblock ~52 ~33 ~182 minecraft:sea_lantern
-setblock ~52 ~34 ~182 minecraft:gold_block
-fill ~30 ~29 ~201 ~32 ~32 ~203 minecraft:quartz_pillar
-setblock ~31 ~33 ~202 minecraft:sea_lantern
-setblock ~31 ~34 ~202 minecraft:gold_block
+fill ~43 ~29 ~181 ~45 ~32 ~183 minecraft:quartz_pillar
+setblock ~44 ~33 ~182 minecraft:sea_lantern
+setblock ~44 ~34 ~182 minecraft:gold_block
+fill ~18 ~29 ~201 ~20 ~32 ~203 minecraft:quartz_pillar
+setblock ~19 ~33 ~202 minecraft:sea_lantern
+setblock ~19 ~34 ~202 minecraft:gold_block
 fill ~-1 ~29 ~205 ~1 ~32 ~207 minecraft:quartz_pillar
 setblock ~0 ~33 ~206 minecraft:sea_lantern
 setblock ~0 ~34 ~206 minecraft:gold_block
-fill ~-32 ~29 ~201 ~-30 ~32 ~203 minecraft:quartz_pillar
-setblock ~-31 ~33 ~202 minecraft:sea_lantern
-setblock ~-31 ~34 ~202 minecraft:gold_block
-fill ~-53 ~29 ~181 ~-51 ~32 ~183 minecraft:quartz_pillar
-setblock ~-52 ~33 ~182 minecraft:sea_lantern
-setblock ~-52 ~34 ~182 minecraft:gold_block
+fill ~-20 ~29 ~201 ~-18 ~32 ~203 minecraft:quartz_pillar
+setblock ~-19 ~33 ~202 minecraft:sea_lantern
+setblock ~-19 ~34 ~202 minecraft:gold_block
+fill ~-45 ~29 ~181 ~-43 ~32 ~183 minecraft:quartz_pillar
+setblock ~-44 ~33 ~182 minecraft:sea_lantern
+setblock ~-44 ~34 ~182 minecraft:gold_block
 # Central underside jewel aligns beneath the main temple.
 fill ~-3 ~2 ~136 ~3 ~3 ~142 minecraft:gold_block
 fill ~-2 ~4 ~137 ~2 ~4 ~141 minecraft:yellow_concrete
