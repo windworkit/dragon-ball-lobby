@@ -51,3 +51,11 @@ fill ~28 ~1 ~-94 ~34 ~1 ~-94 minecraft:dark_oak_slab[type=bottom]
 # Blue-and-white threshold stripes align the avenue with the northern road.
 fill ~-5 ~0 ~-76 ~5 ~0 ~-74 minecraft:light_blue_concrete
 fill ~-3 ~0 ~-73 ~3 ~0 ~-72 minecraft:blue_concrete
+# The north road rises two blocks into the elevated Capsule boulevard.
+# Two north-facing stair rows replace the abrupt Y0-to-Y2 collision.
+fill ~-5 ~1 ~-118 ~5 ~1 ~-117 minecraft:air
+fill ~-5 ~2 ~-118 ~5 ~2 ~-116 minecraft:air
+fill ~-4 ~0 ~-118 ~4 ~0 ~-118 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+fill ~-4 ~1 ~-117 ~4 ~1 ~-117 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+fill ~-4 ~2 ~-116 ~4 ~2 ~-76 minecraft:smooth_stone
+
