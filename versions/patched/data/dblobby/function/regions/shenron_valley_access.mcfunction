@@ -9,13 +9,15 @@ fill ~5 ~2 ~-127 ~36 ~2 ~-127 minecraft:light_blue_concrete
 fill ~5 ~2 ~-125 ~36 ~2 ~-125 minecraft:light_blue_concrete
 
 # Turn north, then continue east to the foot of the valley stair.
-fill ~34 ~0 ~-138 ~36 ~1 ~-126 minecraft:stone_bricks
-fill ~34 ~2 ~-138 ~36 ~2 ~-126 minecraft:smooth_stone
-fill ~34 ~2 ~-138 ~34 ~2 ~-126 minecraft:light_blue_concrete
-fill ~35 ~0 ~-139 ~83 ~1 ~-137 minecraft:stone_bricks
-fill ~35 ~2 ~-139 ~83 ~2 ~-137 minecraft:smooth_stone
-fill ~35 ~2 ~-139 ~83 ~2 ~-139 minecraft:light_blue_concrete
-fill ~35 ~2 ~-137 ~83 ~2 ~-137 minecraft:light_blue_concrete
+fill ~34 ~0 ~-144 ~36 ~1 ~-126 minecraft:stone_bricks
+fill ~34 ~2 ~-144 ~36 ~2 ~-126 minecraft:smooth_stone
+fill ~34 ~2 ~-144 ~34 ~2 ~-126 minecraft:light_blue_concrete
+fill ~35 ~0 ~-144 ~83 ~1 ~-142 minecraft:stone_bricks
+fill ~35 ~2 ~-144 ~83 ~2 ~-142 minecraft:smooth_stone
+fill ~35 ~2 ~-144 ~83 ~2 ~-144 minecraft:light_blue_concrete
+fill ~35 ~2 ~-142 ~83 ~2 ~-142 minecraft:light_blue_concrete
+fill ~81 ~2 ~-141 ~85 ~2 ~-141 minecraft:smooth_stone
+fill ~81 ~2 ~-141 ~85 ~2 ~-141 minecraft:light_blue_concrete
 
 # Clear a narrow stair corridor through the outer edge of the valley's lower terrace.
 fill ~80 ~3 ~-140 ~86 ~31 ~-81 minecraft:air
