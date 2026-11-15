@@ -420,3 +420,11 @@ quartz-and-gold bollards. The base entrance is framed by slim quartz pillars,
 blue glass insets, gold collars, and lantern caps. The existing bridge and
 climbing route remain open; the new cloud work is decorative and does not add
 a new teleport or mod dependency.
+
+### Kami's Lookout cloud underbelly
+
+The floating sanctuary now has layered white and light-gray cloud banks beneath
+its four corners and along the side edges, with small luminous cores and restrained
+gold/quartz underside accents. These formations sit below the Y28 platform and
+stay clear of the south tower shaft, sky bridge, and palace entry. They are
+decorative supports; the platform remains intentionally floating.
