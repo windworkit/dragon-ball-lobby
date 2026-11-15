@@ -24,7 +24,7 @@ and all original region functions and the expanded decorative modules.
 - Korin's Tower: a grounded colossal terracotta tower with a supported exterior stair, multiple balcony bands, vertical windows, a cloud foundation, and a high summit pavilion.
 - Roads and colored waypoints.
 
-## Player hub guide
+- Elevated Shenron Valley access road from Capsule City, with a stair climb, lit retaining walls, and a supported causeway to the viewing terrace.\n\n## Player hub guide
 
 Run `/function dblobby:hub` in-game for a concise welcome message and district directions. The north blue road leads to Capsule Corporation City, east red to the World Martial Arts Tournament, south gold to Kami's Lookout, and west pink to Kame House Island. Shenron Valley lies beyond the northeastern city route; Korin's Tower stands beyond the southwestern island route. A guide pavilion sits beside the north road, four social seating courts give players places to gather, and four color-coded NPC-ready stations are staged around the plaza for future server guides, quests, travel, and character information. `/function dblobby:help` lists builder and maintenance functions.
 
