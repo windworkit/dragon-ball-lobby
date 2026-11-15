@@ -347,3 +347,15 @@ garden, beach path, and dock details are reapplied after the shoreline pass.
 All footprints above are relative to the generator origin. Shape, waterline,
 tree attachment, access transitions, and sightlines still require review in a
 disposable Minecraft 1.21.1 world.
+
+## World Martial Arts Tournament — event entrance finish
+
+The west-side approach now has a layered pagoda-style gate centered over the
+existing entrance corridor. Red masonry piers, white lintel courses, gold
+accents, a stepped roof, and a lit crest create a recognizable event arrival
+without narrowing the central road. The two registration kiosks have been
+rebuilt as open-front vendor stalls with counters, barrels, red awnings, and
+gold trim. An announcer/judge platform sits on the east side of the ring, with
+a short stair and red aisle to the concourse. Four waiting benches remain
+outside the fighting surface. The fighting mat, spectator banks, stadium wall
+portals, and perimeter canopy remain the arena's primary structure.
