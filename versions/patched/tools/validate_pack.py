@@ -11,12 +11,12 @@ ROOT = Path(__file__).resolve().parents[1]
 FUNCTION_ROOT = ROOT / "data" / "dblobby" / "function"
 MAX_FILL_BLOCKS = 32_768
 EXPECTED_REGIONS = {
-    "central_spawn", "plaza_art_direction", "hub_architecture_finish", "capsule_city_finish", "capsule_hq_dome", "capsule_city_satellites", "tournament_arrival_finish", "tournament_venue_finish", "tournament_spectator_finish", "kame_house_finish", "kame_training_pavilion", "kame_island_shoreline", "kamis_lookout_finish", "kamis_lookout_underclouds", "kamis_lookout_complete_rebuild", "korins_tower_finish", "korins_tower_base_finish", "plaza_social_courts", "plaza_compass_inlay", "gateway_threshold_details", "district_approach_lighting", "capsule_city_arrival", "kame_island_arrival", "capsule_city", "tournament", "kame_house",
-    "kamis_lookout", "lookout_sanctuary_details", "shenron_valley", "shenron_valley_terrain_finish", "roads_and_waypoints", "plaza_gardens", "plaza_dragon_ball", "plaza_gate_accents", "capsule_boulevard_lighting", "capsule_hq_entrance", "tournament_seating", "kame_dock_details", "shenron_viewing_terrace", "shenron_valley_garden", "shenron_valley_entry_gate",
-    "shenron_giant_form", "shenron_epic_rebuild", "shenron_anatomy_finish", "shenron_forelimb_finish", "shenron_valley_access", "shenron_sculpture_finish", "kamis_lookout_expansion", "korins_tower",
+    "central_spawn", "plaza_art_direction", "hub_architecture_finish", "capsule_city_finish", "capsule_hq_dome", "capsule_city_satellites", "tournament_arrival_finish", "tournament_venue_finish", "tournament_spectator_finish", "kame_house_finish", "kame_training_pavilion", "kame_island_shoreline", "kamis_lookout_complete_rebuild", "kamis_lookout_legacy_clear", "korins_tower_complete_rebuild", "plaza_social_courts", "plaza_compass_inlay", "gateway_threshold_details", "district_approach_lighting", "capsule_city_arrival", "kame_island_arrival", "capsule_city", "tournament", "kame_house",
+     "shenron_valley", "shenron_valley_terrain_finish", "roads_and_waypoints", "plaza_gardens", "plaza_dragon_ball", "plaza_gate_accents", "capsule_boulevard_lighting", "capsule_hq_entrance", "tournament_seating", "kame_dock_details", "shenron_viewing_terrace", "shenron_valley_garden", "shenron_valley_entry_gate",
+    "shenron_giant_form", "shenron_epic_rebuild", "shenron_anatomy_finish", "shenron_forelimb_finish", "shenron_valley_access", "shenron_sculpture_finish", 
     "capsule_city_detail", "tournament_stadium_detail", "kame_island_detail",
-    "kame_house_interior", "capsule_hq_interior", "korins_tower_access", "kamis_lookout_interior",
-    "shenron_surface_detail", "kamis_lookout_access", "spawn_rotunda", "hub_guide_pavilion", "plaza_npc_stations",
+    "kame_house_interior", "capsule_hq_interior",
+    "shenron_surface_detail", "spawn_rotunda", "hub_guide_pavilion", "plaza_npc_stations",
 }
 FUNCTION_REF = re.compile(r"^function\s+([a-z0-9_.-]+:[a-z0-9_./-]+)\s*$")
 FILL = re.compile(
@@ -88,6 +88,13 @@ def main() -> int:
                 ref = FUNCTION_REF.match(line)
                 if not ref:
                     errors.append(f"{path}:{number}: malformed function command")
+                elif ref.group(1) not in known:
+                    errors.append(f"{path}:{number}: missing function {ref.group(1)}")
+            if line.startswith("execute ") and " run function " in line:
+                target = line.rsplit(" run function ", 1)[1]
+                ref = FUNCTION_REF.match("function " + target)
+                if not ref:
+                    errors.append(f"{path}:{number}: malformed execute/run function command")
                 elif ref.group(1) not in known:
                     errors.append(f"{path}:{number}: missing function {ref.group(1)}")
             if line.startswith(("fill ", "setblock ")):
