@@ -1168,6 +1168,7 @@ fill ~117 ~25 ~-180 ~117 ~27 ~-168 minecraft:stone_bricks
 fill ~127 ~25 ~-180 ~127 ~27 ~-168 minecraft:stone_bricks
 fill ~118 ~25 ~-180 ~126 ~27 ~-180 minecraft:stone_bricks
 fill ~118 ~25 ~-168 ~126 ~27 ~-168 minecraft:stone_bricks
+fill ~118 ~26 ~-179 ~126 ~27 ~-169 minecraft:air
 fill ~118 ~25 ~-179 ~126 ~25 ~-169 minecraft:water
 
 # Irregular rock outcrops interrupt the terrace lines without occupying the approach.
