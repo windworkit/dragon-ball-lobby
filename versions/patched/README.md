@@ -82,3 +82,4 @@ nested oval terraces. A spring and irregular rock outcrops break up the upper
 shelf, while the oval display court and garden approach join the supported
 viewing deck. The Capsule City approach is cut through the lower hillside and
 climbs by a long stair to the elevated causeway.
+- Korin's Tower cloud-plinth finish with chamfered tiers, soft cloud lobes, and a blue-and-gold entrance frame.
