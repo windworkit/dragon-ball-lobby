@@ -1293,31 +1293,31 @@ fill ~-5 ~0 ~134 ~5 ~1 ~144 minecraft:gold_block
 fill ~-3 ~0 ~136 ~3 ~1 ~142 minecraft:yellow_concrete
 setblock ~0 ~2 ~139 minecraft:sea_lantern
 
-# REBUILT LADDER-SHAFT ARRIVAL THROUGH THE SOUTH EDGE OF THE COURTYARD.
-fill ~-5 ~1 ~93 ~5 ~28 ~108 minecraft:white_concrete
-fill ~-3 ~1 ~96 ~3 ~27 ~105 minecraft:air
-fill ~-4 ~1 ~94 ~-4 ~28 ~107 minecraft:quartz_pillar
-fill ~4 ~1 ~94 ~4 ~28 ~107 minecraft:quartz_pillar
-fill ~-4 ~1 ~94 ~4 ~28 ~94 minecraft:quartz_pillar
-fill ~-4 ~1 ~107 ~4 ~28 ~107 minecraft:quartz_pillar
-fill ~-3 ~1 ~97 ~-3 ~27 ~97 minecraft:ladder[facing=east]
-fill ~-2 ~8 ~94 ~2 ~9 ~94 minecraft:gold_block
-fill ~-2 ~16 ~94 ~2 ~17 ~94 minecraft:gold_block
-fill ~-2 ~24 ~94 ~2 ~25 ~94 minecraft:gold_block
-fill ~-3 ~28 ~96 ~3 ~29 ~105 minecraft:air
-fill ~-4 ~28 ~104 ~4 ~28 ~121 minecraft:smooth_quartz
-fill ~-5 ~28 ~104 ~-5 ~29 ~121 minecraft:gold_block
-fill ~5 ~28 ~104 ~5 ~29 ~121 minecraft:gold_block
-fill ~-4 ~29 ~109 ~-4 ~32 ~109 minecraft:quartz_pillar
-fill ~4 ~29 ~109 ~4 ~32 ~109 minecraft:quartz_pillar
-fill ~-4 ~32 ~109 ~4 ~32 ~109 minecraft:gold_block
-fill ~-7 ~33 ~105 ~-7 ~38 ~105 minecraft:quartz_pillar
-fill ~7 ~33 ~105 ~7 ~38 ~105 minecraft:quartz_pillar
-fill ~-7 ~38 ~102 ~7 ~39 ~108 minecraft:red_nether_bricks
-fill ~-8 ~39 ~103 ~8 ~39 ~107 minecraft:gold_block
+# CENTERED KORIN TOWER CONNECTION — X0/Z+139.
+# The climbing shaft now rises directly through the center of the circular sanctuary.
+fill ~-5 ~1 ~134 ~5 ~28 ~144 minecraft:white_concrete
+fill ~-4 ~1 ~135 ~4 ~28 ~143 minecraft:air
+fill ~-5 ~1 ~135 ~-5 ~28 ~143 minecraft:quartz_pillar
+fill ~5 ~1 ~135 ~5 ~28 ~143 minecraft:quartz_pillar
+fill ~-4 ~1 ~134 ~4 ~28 ~134 minecraft:quartz_pillar
+fill ~-4 ~1 ~144 ~4 ~28 ~144 minecraft:quartz_pillar
+fill ~-4 ~1 ~136 ~-4 ~29 ~136 minecraft:ladder[facing=east]
+fill ~-3 ~8 ~134 ~3 ~9 ~134 minecraft:gold_block
+fill ~-3 ~16 ~134 ~3 ~17 ~134 minecraft:gold_block
+fill ~-3 ~24 ~134 ~3 ~25 ~134 minecraft:gold_block
+fill ~-4 ~28 ~135 ~4 ~29 ~143 minecraft:air
+fill ~-5 ~28 ~135 ~-5 ~29 ~143 minecraft:gold_block
+fill ~5 ~28 ~135 ~5 ~29 ~143 minecraft:gold_block
 
 # MAIN SANCTUARY HALL — broad white temple base and open ceremonial interior.
 fill ~-22 ~29 ~118 ~22 ~29 ~160 minecraft:smooth_quartz
+# Open a centered 9x9 arrival hatch above Korin's Tower; gold edging protects the rim.
+fill ~-4 ~29 ~135 ~4 ~29 ~143 minecraft:air
+fill ~-5 ~29 ~135 ~-5 ~29 ~143 minecraft:gold_block
+fill ~5 ~29 ~135 ~5 ~29 ~143 minecraft:gold_block
+fill ~-4 ~29 ~134 ~4 ~29 ~134 minecraft:gold_block
+fill ~-4 ~29 ~144 ~4 ~29 ~144 minecraft:gold_block
+forceload add ~ ~ ~
 fill ~-19 ~30 ~120 ~19 ~42 ~158 minecraft:white_concrete
 fill ~-15 ~31 ~124 ~15 ~41 ~154 minecraft:air
 fill ~-5 ~31 ~120 ~5 ~39 ~126 minecraft:air
