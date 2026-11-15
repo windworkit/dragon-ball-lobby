@@ -11,14 +11,12 @@ function dblobby:regions/capsule_city
 function dblobby:regions/capsule_city_detail
 function dblobby:regions/capsule_city_arrival
 function dblobby:regions/capsule_boulevard_lighting
-function dblobby:regions/capsule_hq_entrance
 function dblobby:regions/tournament
 function dblobby:regions/tournament_stadium_detail
 function dblobby:regions/tournament_seating
 function dblobby:regions/kame_house
 function dblobby:regions/kame_island_shoreline
 function dblobby:regions/kame_island_detail
-function dblobby:regions/kame_house_interior
 function dblobby:regions/kame_dock_details
 function dblobby:regions/kame_island_arrival
 function dblobby:regions/shenron_valley
