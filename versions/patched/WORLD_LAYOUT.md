@@ -203,6 +203,7 @@ The Capsule civic finish sits on the existing Y2 square and keeps the central fi
 | Kame House complete shell and interior | Main shell X -155..-115, Z -17..+17, Y -2..+17; interior X -150..-120, Z -13..+13, Y -1..+4 | Rounded pink elliptical house, continuous white foundation/belt courses, blue-glass curved windows, centered south door, stepped red domed roof, gold finial, living-room furniture, kitchen, dining table, bed nook, bookshelf wall, and warm lanterns. |
 | Kami's Lookout main sanctuary | X -22..+22, Z +118..+160, Y +170..+216 | Open ceremonial hall, layered golden lower dome, tall white belfry, upper gold dome and finial, with a protected central ladder hatch. |
 | Korin's Tower shaft and crown | Shaft center X 0 / Z +139, Y 0..+83; crown X -50..+50, Z +85..+193, Y +81..+139; outer terrace X -61..+61, Z +79..+199, Y +107..+114 | Terracotta and sandstone shaft rises into a hollow rounded shell with a cream stepped dome, red-brown equatorial belt, window bays, internal gallery, gardened wraparound terrace, and gold keel. |
+| Korin's Tower ground arrival finish | Entry beacons X +/-6..8, Z +146..+150, Y +4..+12; Senzu planters X -16..-13 and +13..+16, Z +136..+142, Y +4..+11 | Symmetric quartz-and-gold lantern beacons flank the south entry arch; paired raised stone-brick planters with moss beds, tapered azalea trees and embedded lights frame the outer plaza. A flush gold/orange threshold inlay and four gold edge studs add wayfinding without narrowing the approach. |
 
 These are first-pass functional interiors. Korin's shaft is a central ladder-based climb with periodic rest platforms and a hollow interior crown; confirm ladder attachment and the Lookout hatch in-game. Interior furnishings are decorative block approximations, not modded furniture.
 
@@ -549,6 +550,16 @@ banks receive separated bench rows on their existing stepped terraces, with
 the center aisle left open. Evenly spaced sea-lanterns sit beneath both canopy
 wings. These are decorative block-built fixtures; no live score system or
 interactive tournament logic is assumed.
+
+### Korin's Tower ground arrival finish
+
+The circular sandstone approach now ends at a more legible southern entry. Two
+quartz beacon piers with gold collars, red caps and sea-lantern crowns flank the
+existing arch without narrowing its opening. A flush gold/orange threshold strip
+marks the final approach. Paired raised stone-brick planters sit outside the
+central walk, with moss beds, stripped-oak trunks, tapered azalea crowns and
+small embedded lights. Four small gold studs mark the far edge of the plaza.
+The existing layered paving and tower shaft remain unchanged.
 
 ### Korin's Tower complete vertical rebuild
 

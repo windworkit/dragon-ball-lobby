@@ -58,6 +58,7 @@ execute positioned ~ ~140 ~ run function dblobby:regions/kamis_lookout_courtyard
 execute positioned ~ ~140 ~ run function dblobby:regions/kamis_lookout_side_sanctuary_finish
 function dblobby:regions/korins_tower_complete_rebuild
 function dblobby:regions/korin_crown_interior_finish
+function dblobby:regions/korin_base_arrival_finish
 function dblobby:regions/district_route_finish
 function dblobby:regions/shenron_sculpture_finish
 function dblobby:regions/shenron_epic_rebuild
