@@ -44,7 +44,8 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [ ] Kami's Lookout: readable vertical approach, safe access, interiors, and finished platform.
 - [x] Add a distinct upper-deck training court, meditation garden, and four illuminated corner pylons.
 - [x] First giant Shenron pass: raised multi-segment body, gold belly, dorsal mane, large head, horns, eyes, and whiskers.
-- [ ] Shenron Valley: refine the dragon silhouette, seven Dragon Ball displays, terraces, and viewing area.
+- [x] Add a close-range sculpt pass with segmented belly plates, flank scales, dorsal fins, swept-back crown mane, open jaw, fangs, and curled whiskers.
+- [ ] Review the dragon silhouette from the terrace and from multiple approach angles in a live world; adjust proportions only after that visual check.
 - [x] Add a first-pass south-side visitor terrace with an open north-facing sightline, seating bays, safety rails, and four lantern columns.
 - [x] Add low matching garden beds and lantern markers flanking the terrace approach, keeping the central path clear.
 - [x] Add an ornamental southern entry gate and a clear approach from the visitor terrace.
@@ -93,3 +94,11 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [x] Add a dedicated announcer/judge stand on the east side of the ring.
 - [x] Add waiting benches outside the fighting surface.
 - [ ] Inspect the entrance, vendor counter clearance, announcer sightline, and spectator movement in Minecraft 1.21.1.
+
+## Shenron detail refinement
+
+- [x] Add visible segmented belly plates and green scale accents to the visitor-facing side of the coil.
+- [x] Extend dorsal fins along the dragon's upper curve.
+- [x] Refine the head with a lower jaw, mouth cavity, fangs, nostrils, swept-back mane and curled whisker ends.
+- [x] Add a fan-like tail-root silhouette.
+- [ ] Complete a multi-angle live visual review before declaring Shenron finished.
