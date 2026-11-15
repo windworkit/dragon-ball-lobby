@@ -57,6 +57,7 @@ function dblobby:regions/shenron_anatomy_finish
 function dblobby:regions/shenron_forelimb_finish
 function dblobby:regions/shenron_viewing_terrace
 function dblobby:regions/shenron_valley_garden
+function dblobby:regions/shenron_visitor_finish
 function dblobby:regions/shenron_valley_entry_gate
 function dblobby:regions/shenron_valley_access
 spawnpoint @s ~ ~3 ~
