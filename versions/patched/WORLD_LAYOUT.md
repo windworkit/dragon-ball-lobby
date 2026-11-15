@@ -31,7 +31,7 @@ KORIN'S TOWER                                      SHENRON VALLEY
 | Tournament | X +65 to +205, Z -70 to +70 |
 | Kame House | Main island ellipse centered X -132, Z 0; land approx. X -202..-62, Z -58..+58; surrounding water oval approx. X -212..-52, Z -68..+68 |
 | Kami's Lookout | X -46 to +46, Z +91 to +188; palace reaches Y +60 |
-| Korin's Tower | X -184 to -126, Z +126 to +184; base Y -32, summit pavilion Y +102..+145 |
+| Korin's Tower | X -190 to -120, Z +126 to +210; chamfered cloud plinth Y 0..10, summit pavilion Y +134..+177 |
 | Lookout upper-deck details | East training court X +17..+31, Z +131..+147; west meditation garden X -31..-17, Z +131..+147; four corner lights at the platform edges |
 | Shenron Valley | X +72 to +233, Z -208 to -66; giant raised Shenron reaches approximately Y +90 |
 | Roads and waypoints | Main cardinal roads extending to about 118 blocks |
@@ -410,3 +410,13 @@ banks receive separated bench rows on their existing stepped terraces, with
 the center aisle left open. Evenly spaced sea-lanterns sit beneath both canopy
 wings. These are decorative block-built fixtures; no live score system or
 interactive tournament logic is assumed.
+
+### Korin's Tower cloud plinth and entrance finish
+
+The tower's square white foundation is softened with progressively chamfered
+corners through its four cloud-and-quartz tiers. Low white and light-gray cloud
+lobes extend beyond the plinth, while the south bridge landing receives paired
+quartz-and-gold bollards. The base entrance is framed by slim quartz pillars,
+blue glass insets, gold collars, and lantern caps. The existing bridge and
+climbing route remain open; the new cloud work is decorative and does not add
+a new teleport or mod dependency.
