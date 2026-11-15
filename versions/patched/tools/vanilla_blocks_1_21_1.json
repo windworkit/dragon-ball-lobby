@@ -216,6 +216,22 @@
     "shroomlight": [],
     "green_terracotta": [],
     "lime_terracotta": [],
-    "black_concrete": []
+    "black_concrete": [],
+    "yellow_terracotta": [],
+    "blackstone": [],
+    "glowstone": [],
+    "stone_brick_slab": [
+      "type",
+      "waterlogged"
+    ],
+    "cornflower": [],
+    "spruce_fence": [
+      "east",
+      "north",
+      "south",
+      "waterlogged",
+      "west"
+    ],
+    "glass": []
   }
 }
