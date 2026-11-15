@@ -17,11 +17,11 @@ and all original region functions and the expanded decorative modules.
 ## What's included
 - Central spawn hub with an open-air monumental rotunda framing the floating one-star Dragon Ball, illuminated crown columns, seating bays, compass medallions, four landscaped cherry-tree gardens, four passable architectural district gateways with layered supports, illuminated glass insets, flush colored threshold strips, and repeated illuminated roadside approach markers, and a dedicated blue-and-white Capsule City arrival gateway, four dedicated social seating courts, Capsule Corp boulevard lighting, tiered tournament spectator seating, an extended lantern-lit Kame House dock, and a dedicated Shenron viewing terrace with landscaped approach gardens and a gold-capped southern entry gate.
 - Capsule Corporation-inspired city block and glass towers, expanded with residential/workshop buildings, rooftop greenery, boulevard pylons, illuminated forecourt details, and a framed public HQ entrance.
-- World Martial Arts Tournament stadium with expanded outer concourse, upper spectator tiers, roofline canopy wings, illuminated corner pylons, and multiple entry portals.
+- World Martial Arts Tournament stadium with a level ground concourse, a one-block-raised fighting mat, upper spectator tiers, roofline canopy wings, illuminated corner pylons, and a separate event arrival.
 - Kame House island with a curved beach approach, palm grove, beach umbrellas, outdoor seating, shoreline markers, and a dedicated training garden with practice posts.
 - Kami's Lookout expanded into a monumental white-and-red palace with a broad sky platform, ceremonial colonnade, observation wings, and a taller decorated tower shaft;
-- Shenron Valley with a giant raised Shenron dragon, layered green coils, gold belly plates, dorsal mane, horns, whiskers, seven Dragon Ball displays, and a south-side visitor viewing terrace with matching low garden borders, a clear center approach, and an ornamental southern entry gate.
-- Korin's Tower: a separate colossal terracotta tower with multiple balcony bands, vertical windows, a cloud-like foundation, and an elevated summit pavilion.
+- Shenron Valley with a rebuilt giant Shenron with a thick C-shaped coil, defined head, horns, whiskers, cloud banks, gold underside, and seven individually staged Dragon Ball displays, and a south-side visitor viewing terrace with matching low garden borders, a clear center approach, and an ornamental southern entry gate.
+- Korin's Tower: a grounded colossal terracotta tower with a supported exterior stair, multiple balcony bands, vertical windows, a cloud foundation, and a high summit pavilion.
 - Roads and colored waypoints.
 
 ## Player hub guide
@@ -47,3 +47,11 @@ Every push affecting this folder runs static validation and builds a
 `DragonBallLobby-Patched-1.0` ZIP artifact. Open the repository's Actions tab,
 select the latest successful **Validate repaired Dragon Ball lobby** run,
 and download the artifact from its Artifacts section.
+
+## Latest visual and elevation refinement
+
+The current patched build includes a rebuilt volumetric Shenron, a rounded central
+Dragon Ball, a unified central plaza floor, district façade finishing, a Kame House
+roof and porch, a gold-domed Lookout, a grounded Korin Tower with exterior access,
+and a level tournament concourse. See [WORLD_LAYOUT.md](WORLD_LAYOUT.md) for the
+current elevation table and relative coordinates.
