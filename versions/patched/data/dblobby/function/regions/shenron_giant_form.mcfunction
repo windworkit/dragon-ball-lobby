@@ -275,3 +275,23 @@ fill ~177 ~49 ~-121 ~185 ~51 ~-113 minecraft:white_wool
 fill ~148 ~46 ~-119 ~157 ~48 ~-111 minecraft:white_wool
 fill ~128 ~44 ~-134 ~136 ~46 ~-126 minecraft:white_wool
 fill ~111 ~44 ~-146 ~115 ~46 ~-140 minecraft:quartz_block
+# Lower cloud bank physically rises from the visitor court and anchors the floating coil.
+fill ~96 ~32 ~-159 ~110 ~35 ~-145 minecraft:white_wool
+fill ~99 ~36 ~-157 ~108 ~39 ~-147 minecraft:cloud
+fill ~103 ~40 ~-154 ~111 ~44 ~-148 minecraft:white_wool
+fill ~108 ~34 ~-171 ~123 ~37 ~-158 minecraft:white_wool
+fill ~111 ~38 ~-168 ~120 ~42 ~-157 minecraft:cloud
+fill ~116 ~43 ~-166 ~124 ~47 ~-158 minecraft:white_wool
+# Far-side cloud clusters make the coil appear to rise through the valley mist.
+fill ~182 ~43 ~-157 ~197 ~46 ~-141 minecraft:white_wool
+fill ~187 ~47 ~-154 ~197 ~51 ~-143 minecraft:cloud
+fill ~190 ~52 ~-151 ~199 ~57 ~-141 minecraft:white_wool
+fill ~171 ~39 ~-119 ~186 ~42 ~-105 minecraft:white_wool
+fill ~176 ~43 ~-119 ~185 ~47 ~-109 minecraft:cloud
+fill ~179 ~48 ~-118 ~186 ~52 ~-110 minecraft:white_wool
+# Small cloud links soften the silhouette under the tail and neck.
+fill ~91 ~37 ~-153 ~100 ~40 ~-144 minecraft:white_wool
+fill ~94 ~41 ~-151 ~101 ~45 ~-144 minecraft:cloud
+fill ~166 ~55 ~-130 ~177 ~59 ~-119 minecraft:white_wool
+fill ~169 ~60 ~-127 ~178 ~64 ~-118 minecraft:cloud
+
