@@ -409,16 +409,17 @@ Korin's Tower now occupies the same X/Z center as Kami's Lookout: X 0 / Z +139. 
 ### Kami's Lookout complete floating rebuild
 
 The final Lookout region clears the previous deck, palace, and cloud details before
-building the new saucer. The upper walking surface remains at Y+28 so the existing
-height relationship to the hub is preserved. The hull is formed from stepped
-horizontal ellipses: red outer band, broad ivory band, red belt, pale-gold/white
-transition, green lower bowl, red lower ring, and a small pale keel. Above the deck,
-the central temple rises to Y+76 with two lower gold-domed side sanctuaries, four
-high lantern pylons, cypress-like planters, twin reflecting pools, and a clear
-promenade from the rebuilt ladder shaft. Approximate footprint: X -70..+70,
-Z +71..+207. The hull is decorative floating architecture, not a physics-supported
-platform; final proportions, approach clearance, and the underside silhouette need
-visual confirmation in Minecraft.
+building the new saucer 140 blocks above the generation origin. The upper walking
+surface is now Y+168..+169, and the central temple rises to Y+216. Its hull is formed
+from stepped horizontal ellipses: red outer band, broad ivory band, red belt,
+pale-gold/white transition, green lower bowl, red lower ring, and a small pale keel.
+Above the deck, the central temple is joined to two lower gold-domed side sanctuaries,
+four high lantern pylons, cypress-like planters, and twin reflecting pools. The
+central 9x9 hatch aligns with Korin's Tower at X 0 / Z +139; its ladder runs
+continuously through the Lookout keel into the main sanctuary. Approximate footprint:
+X -70..+70, Z +71..+207. The hull is decorative floating architecture, not a
+physics-supported platform; final proportions, approach clearance, and the underside
+silhouette still need visual confirmation in Minecraft.
 
 ### Kame Island Turtle School pavilion
 
