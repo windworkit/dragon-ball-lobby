@@ -130,10 +130,11 @@ and player access still need in-game review.
 | Detail | Relative footprint | Purpose |
 | --- | --- | --- |
 | Capsule City streetscape | X -76..+76, Z -185..-73, Y 0..19 | Adds smaller residential and workshop blocks, rooftop planting, boulevard pylons, and HQ forecourt lighting. |
+| Capsule City civic square | X -29..+29, Z -129..-105, Y 2..12 | Flush pedestrian crossing across the north-south boulevard, tiled side walks, two paired bench courts, four raised corner planters with tapered trees, eight blue-white lamp posts, and two small illuminated capsule displays. |
 | Tournament stadium expansion | X +77..+193, Z -61..+61, Y 1..21 | Adds an outer concourse, upper spectator tiers, roofline canopy wings, corner pylons, and three entry portals. The central ring remains uncovered. |
 | Kame House island detail | X -198..-81, Z -40..+41, Y -4..+9 | Adds beach pathing, palm trees, umbrellas, a training garden, outdoor seating, and shoreline lighting. |
 
-These additions are a first visual-detail pass. The stadium canopy is intentionally limited to the perimeter so the fighting ring remains visible from above. Check for overlaps with the existing district shells and confirm the new ground-level routes in-game.
+The Capsule civic finish sits on the existing Y2 square and keeps the central five-wide boulevard open; its crossing stripes are flush with the road. A stray west-side tree canopy coordinate in the earlier streetscape pass has also been corrected back into the residential block. The stadium canopy is intentionally limited to the perimeter so the fighting ring remains visible from above. Check the plaza seating, tree crowns, and cross-district paths in-game.
 
 ## Landmark interiors and vertical access
 
