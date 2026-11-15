@@ -359,3 +359,15 @@ gold trim. An announcer/judge platform sits on the east side of the ring, with
 a short stair and red aisle to the concourse. Four waiting benches remain
 outside the fighting surface. The fighting mat, spectator banks, stadium wall
 portals, and perimeter canopy remain the arena's primary structure.
+
+## Shenron sculptural refinement
+
+The rebuilt coil now has a second close-range sculpting pass layered over the main
+body and surface-detail regions. It adds overlapping pale belly plates with
+ochre seams on the south-facing side, darker green scale patches along the
+visible flanks, and a repeated dorsal fin rhythm along the upper curve. The
+neck transitions into the head with throat plates and swept-back crown tufts.
+The face receives a recessed mouth, lower jaw, fangs, nostrils, curled whisker
+ends, and curved horn tips. A fan-shaped detail widens the tail root before it
+tapers to the original tip. The finish avoids the seven orb plinths and preserves
+the south-facing visitor terrace sightline.
