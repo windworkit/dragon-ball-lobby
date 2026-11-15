@@ -34,6 +34,7 @@ KORIN'S TOWER                                      SHENRON VALLEY
 | Korin's Tower | X -61 to +61, Z +78 to +200; grounded base plaza Y 0..4, central shaft Y +5..+83, rounded crown Y +81..+139, equatorial terrace Y +107..+114; center X 0 / Z +139 |
 | Shenron Valley | X +59 to +233, Z -211 to -66; reference-inspired Shenron spans approximately X +59..+219 and Z -211..-88, with horn and tail-fin tips reaching Y +158 |
 | Roads and waypoints | Main cardinal roads extending to about 118 blocks |
+| District road finish | North/south road edge strips at X +/-3, east/west strips at Z +/-3, from 52 to 116 blocks; arrowheads at the inner hub thresholds | Adds flush blue, red, pink and yellow route-edge lines, small gold distance ticks, and four color-coded floor arrows. The central five-block walking lane remains clear. |
 
 These are approximate bounding boxes inferred from the function coordinates,
 not a promise that every block inside the box is filled.
@@ -49,6 +50,16 @@ gold claws; a stepped dorsal crest and scale plates follow the coil. The approxi
 X +59..+220, Z -211..-78, Y +41..+158. The arm tips remain outside the
 central entry lane and sit beyond the side edges of the viewing terrace. This is a command-coordinate estimate;
 confirm the silhouette, limb clearance, and viewing angles in a live world.
+
+## District road surface finish
+
+A final route pass adds flush color-coded edge strips to the four cardinal roads:
+blue/light-blue north, red/orange east, pink/magenta west, and yellow/gold south.
+Small gold ticks punctuate the longer stretches. Matching arrowheads sit in the
+hub floor at each cardinal threshold, pointing toward the correct district.
+Every block is set at Y0, leaving the central five-block lane unobstructed and
+keeping the approach surfaces level. These are decorative wayfinding marks, not
+portals or teleport triggers.
 
 ## District gateways and guide pavilion
 
