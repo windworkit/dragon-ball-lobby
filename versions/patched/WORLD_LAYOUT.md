@@ -213,6 +213,7 @@ These are first-pass functional interiors. Korin's shaft is a central ladder-bas
 | Shenron epic anatomy pass | X +76..+219, Z -208..-88, Y +43..+147 | Clears the old compact silhouette above the court and rebuilds a towering coil, chest, neck, broad head, branching horns, swept whiskers, paired clawed forelimbs, dorsal mane, segmented belly, and cloud supports. |
 | Kami's Lookout central shaft and hatch | Shaft X -5..+5, Z +134..+144, Y +141..+168; hall hatch X -4..+4, Z +135..+143, Y +169..+172 | A continuous ladder rises from Korin's Tower through the Lookout keel and opens into the center of the main sanctuary. |
 | Kami's Lookout courtyard finish | Hatch guard at X/Z +/-5 around X0/Z+139, Y +171..+175; south entry walk X -6..+6, Z +108..+119, Y +168..+170 | Three-sided iron-bar guard with quartz/gold posts and an open east access gap, plus a two-tier quartz stair, gold-edged approach promenade, and paired meditation benches. |
+| Kami's Lookout side-sanctuary arcades | Side rooms X -38..-22 and +22..+38, Z +130..+148, Y +169..+208; covered links X -22..-20 and +20..+22, Z +135..+143, Y +169..+180 | Inward doorways connect both side sanctuaries directly to the main hall. Paired quartz/gold arcade bridges have flush quartz floors, light-blue inlay, stair thresholds, hanging lanterns, furnished meditation benches, gold/light-blue floor medallions, shrine screens, and outer blue-glass windows. |
 
 The Korin ascent is a continuous central ladder with three rest platforms in the shaft and an interior gallery inside the crown. The Shenron surface pass is block-art detailing; inspect its face orientation and scale placement from the viewing terrace in-game.
 
@@ -563,6 +564,18 @@ from the south deck edge toward the main hall doorway, then rises on two broad
 quartz stair courses to the sanctuary plinth and interior floor. Gold and pale
 stone inlays guide the route, and paired dark-wood meditation benches flank the
 approach outside the main walking lane.
+
+### Kami's Lookout side-sanctuary arcades and meditation rooms
+
+The west and east side sanctuaries now open inward into the main ceremonial hall
+through matching framed doorways. Short covered quartz arcades bridge the narrow
+gaps between their inner walls and the central temple, with gold edge lines,
+light-blue floor inlays, quartz corner posts, and a hanging sea-lantern crown.
+A single quartz stair course marks each threshold where the side chamber and main
+hall floors meet. Inside, each sanctuary receives a flush gold/light-blue
+meditation medallion, two dark-wood benches, a gold-and-quartz shrine screen,
+warm hanging lanterns, and paired blue-glass windows on the outer wall. The
+main temple's domes, the side crowns, and the central Korin hatch are unchanged.
 
 ### Kami's Lookout complete floating rebuild
 

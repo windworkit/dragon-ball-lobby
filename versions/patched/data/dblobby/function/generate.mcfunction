@@ -55,6 +55,7 @@ function dblobby:regions/kame_training_garden_finish
 function dblobby:regions/kamis_lookout_legacy_clear
 execute positioned ~ ~140 ~ run function dblobby:regions/kamis_lookout_complete_rebuild
 execute positioned ~ ~140 ~ run function dblobby:regions/kamis_lookout_courtyard_finish
+execute positioned ~ ~140 ~ run function dblobby:regions/kamis_lookout_side_sanctuary_finish
 function dblobby:regions/korins_tower_complete_rebuild
 function dblobby:regions/korin_crown_interior_finish
 function dblobby:regions/district_route_finish
