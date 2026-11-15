@@ -399,3 +399,14 @@ All these coordinates are relative to the /function dblobby:generate
 execution position. The new landscape is statically validated, but the water
 simulation, terrain transition, path clearance, support visibility, and
 multi-angle dragon sightlines still need a real Java 1.21.1 visual check.
+
+## Tournament spectator and event finish
+
+The east-side scoreboard is mounted above the east portal on the outer stadium
+wall, facing west toward the fighting ring. It uses a dark display field,
+red-and-quartz frame, gold score medallions, and a central light marker.
+Matching red-and-gold pennants flank the display. The north and south spectator
+banks receive separated bench rows on their existing stepped terraces, with
+the center aisle left open. Evenly spaced sea-lanterns sit beneath both canopy
+wings. These are decorative block-built fixtures; no live score system or
+interactive tournament logic is assumed.
