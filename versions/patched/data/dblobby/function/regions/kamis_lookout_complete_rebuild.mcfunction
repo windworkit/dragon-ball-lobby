@@ -1198,30 +1198,41 @@ fill ~-39 ~23 ~189 ~-38 ~23 ~189 minecraft:gold_block
 fill ~38 ~23 ~189 ~39 ~23 ~189 minecraft:gold_block
 fill ~-27 ~23 ~198 ~-26 ~23 ~198 minecraft:gold_block
 fill ~26 ~23 ~198 ~27 ~23 ~198 minecraft:gold_block
-fill ~-62 ~15 ~139 ~-60 ~23 ~139 minecraft:quartz_pillar
-setblock ~-61 ~24 ~139 minecraft:sea_lantern
-fill ~-44 ~15 ~91 ~-42 ~23 ~91 minecraft:quartz_pillar
-setblock ~-43 ~24 ~91 minecraft:sea_lantern
-fill ~-1 ~15 ~72 ~1 ~23 ~72 minecraft:quartz_pillar
-setblock ~0 ~24 ~72 minecraft:sea_lantern
-fill ~42 ~15 ~91 ~44 ~23 ~91 minecraft:quartz_pillar
-setblock ~43 ~24 ~91 minecraft:sea_lantern
-fill ~60 ~15 ~139 ~62 ~23 ~139 minecraft:quartz_pillar
-setblock ~61 ~24 ~139 minecraft:sea_lantern
-fill ~42 ~15 ~187 ~44 ~23 ~187 minecraft:quartz_pillar
-setblock ~43 ~24 ~187 minecraft:sea_lantern
-fill ~-1 ~15 ~206 ~1 ~23 ~206 minecraft:quartz_pillar
-setblock ~0 ~24 ~206 minecraft:sea_lantern
-fill ~-44 ~15 ~187 ~-42 ~23 ~187 minecraft:quartz_pillar
-setblock ~-43 ~24 ~187 minecraft:sea_lantern
-fill ~-56 ~15 ~111 ~-54 ~23 ~111 minecraft:quartz_pillar
-setblock ~-55 ~24 ~111 minecraft:sea_lantern
-fill ~54 ~15 ~111 ~56 ~23 ~111 minecraft:quartz_pillar
-setblock ~55 ~24 ~111 minecraft:sea_lantern
-fill ~-56 ~15 ~167 ~-54 ~23 ~167 minecraft:quartz_pillar
-setblock ~-55 ~24 ~167 minecraft:sea_lantern
-fill ~54 ~15 ~167 ~56 ~23 ~167 minecraft:quartz_pillar
-setblock ~55 ~24 ~167 minecraft:sea_lantern
+# White upper hull ribs sit on the actual 61-by-66 ellipse surface.
+fill ~-59 ~18 ~139 ~-59 ~23 ~139 minecraft:quartz_pillar
+fill ~59 ~18 ~139 ~59 ~23 ~139 minecraft:quartz_pillar
+fill ~-41 ~18 ~91 ~-41 ~23 ~91 minecraft:quartz_pillar
+fill ~41 ~18 ~91 ~41 ~23 ~91 minecraft:quartz_pillar
+fill ~-41 ~18 ~187 ~-41 ~23 ~187 minecraft:quartz_pillar
+fill ~41 ~18 ~187 ~41 ~23 ~187 minecraft:quartz_pillar
+fill ~0 ~18 ~73 ~0 ~23 ~73 minecraft:quartz_pillar
+fill ~0 ~18 ~205 ~0 ~23 ~205 minecraft:quartz_pillar
+fill ~-54 ~18 ~111 ~-54 ~23 ~111 minecraft:quartz_pillar
+fill ~54 ~18 ~111 ~54 ~23 ~111 minecraft:quartz_pillar
+fill ~-54 ~18 ~167 ~-54 ~23 ~167 minecraft:quartz_pillar
+fill ~54 ~18 ~167 ~54 ~23 ~167 minecraft:quartz_pillar
+# Red belt ribs follow the narrower 57-by-62 ellipse.
+fill ~-55 ~14 ~139 ~-55 ~17 ~139 minecraft:red_nether_bricks
+fill ~55 ~14 ~139 ~55 ~17 ~139 minecraft:red_nether_bricks
+fill ~-35 ~14 ~91 ~-35 ~17 ~91 minecraft:red_nether_bricks
+fill ~35 ~14 ~91 ~35 ~17 ~91 minecraft:red_nether_bricks
+fill ~-35 ~14 ~187 ~-35 ~17 ~187 minecraft:red_nether_bricks
+fill ~35 ~14 ~187 ~35 ~17 ~187 minecraft:red_nether_bricks
+fill ~0 ~14 ~77 ~0 ~17 ~77 minecraft:red_nether_bricks
+fill ~0 ~14 ~201 ~0 ~17 ~201 minecraft:red_nether_bricks
+fill ~-49 ~14 ~111 ~-49 ~17 ~111 minecraft:red_nether_bricks
+fill ~49 ~14 ~111 ~49 ~17 ~111 minecraft:red_nether_bricks
+fill ~-49 ~14 ~167 ~-49 ~17 ~167 minecraft:red_nether_bricks
+fill ~49 ~14 ~167 ~49 ~17 ~167 minecraft:red_nether_bricks
+# Pale supports on the green lower bowl are inset to its own smaller ellipse.
+fill ~-41 ~5 ~139 ~-41 ~9 ~139 minecraft:quartz_pillar
+fill ~41 ~5 ~139 ~41 ~9 ~139 minecraft:quartz_pillar
+fill ~-31 ~5 ~110 ~-31 ~9 ~110 minecraft:quartz_pillar
+fill ~31 ~5 ~110 ~31 ~9 ~110 minecraft:quartz_pillar
+fill ~-31 ~5 ~168 ~-31 ~9 ~168 minecraft:quartz_pillar
+fill ~31 ~5 ~168 ~31 ~9 ~168 minecraft:quartz_pillar
+fill ~0 ~5 ~93 ~0 ~9 ~93 minecraft:quartz_pillar
+fill ~0 ~5 ~185 ~0 ~9 ~185 minecraft:quartz_pillar
 fill ~-18 ~19 ~201 ~-14 ~21 ~203 minecraft:light_blue_stained_glass
 fill ~-19 ~18 ~203 ~-13 ~18 ~203 minecraft:gold_block
 fill ~-10 ~19 ~201 ~-6 ~21 ~203 minecraft:light_blue_stained_glass
