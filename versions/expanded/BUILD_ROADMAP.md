@@ -30,7 +30,9 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [ ] Finish remaining city blocks, civic courtyard, citywide streetscape, and final route review.
 - [x] Add a defined south-facing HQ entrance with forecourt, blue architectural accents, paired lights, and planters.
 - [x] Add ten matching boulevard lamps along the Capsule Corp avenue.
-- [ ] Tournament: stadium bowl, ring, forecourt, spectator access, and event staging.
+- [x] Rebuild the tournament concourse as a level visitor surface with a one-block-raised fighting platform.
+- [x] Add a pagoda-style west entrance, open registration/vendor stalls, announcer platform, and waiting benches.
+- [ ] Finish the stadium bowl silhouette, refine the spectator routes and judge sightlines, and perform a live event-space review.
 - [x] Add stepped north/south spectator banks and illuminated entry pylons.
 - [x] First Korin's Tower pass: colossal vertical tower, ring balconies, windows, cloud foundation, and summit pavilion.
 - [ ] Korin's Tower: add a readable approach, climbing route / lift concept, and detailed summit interior.
@@ -83,3 +85,11 @@ This roadmap prioritizes a cohesive, impressive spawn before adding lots of disc
 - [x] Replace the square Kame island platform with nested oval sandstone, sand, and grass shelves.
 - [x] Add a shallow water ring and move the outer west palm/shore marker to stay within the new island silhouette.
 - [ ] Review Capsule and Kame architecture in a disposable Minecraft 1.21.1 world; static validation does not count as visual acceptance.
+
+## Tournament venue finish
+
+- [x] Add a pagoda-style gate over the west entrance while preserving the road's five-block centre lane.
+- [x] Replace the solid registration kiosks with open counters and red/gold awnings.
+- [x] Add a dedicated announcer/judge stand on the east side of the ring.
+- [x] Add waiting benches outside the fighting surface.
+- [ ] Inspect the entrance, vendor counter clearance, announcer sightline, and spectator movement in Minecraft 1.21.1.
