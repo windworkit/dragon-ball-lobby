@@ -45,24 +45,24 @@ setblock ~72 ~7 ~-8 minecraft:sea_lantern
 setblock ~72 ~7 ~8 minecraft:sea_lantern
 
 # WEST: pink/sandstone Kame House route.
-fill ~-60 ~-1 ~-8 ~-58 ~0 ~-6 minecraft:sandstone_bricks
-fill ~-60 ~-1 ~6 ~-58 ~0 ~8 minecraft:sandstone_bricks
+fill ~-60 ~-1 ~-8 ~-58 ~0 ~-6 minecraft:cut_sandstone
+fill ~-60 ~-1 ~6 ~-58 ~0 ~8 minecraft:cut_sandstone
 fill ~-60 ~1 ~-8 ~-60 ~5 ~-8 minecraft:sandstone
 fill ~-60 ~1 ~8 ~-60 ~5 ~8 minecraft:sandstone
 fill ~-61 ~6 ~-8 ~-59 ~6 ~-8 minecraft:pink_concrete
 fill ~-61 ~6 ~8 ~-59 ~6 ~8 minecraft:pink_concrete
 setblock ~-60 ~7 ~-8 minecraft:sea_lantern
 setblock ~-60 ~7 ~8 minecraft:sea_lantern
-fill ~-80 ~-1 ~-8 ~-78 ~0 ~-6 minecraft:sandstone_bricks
-fill ~-80 ~-1 ~6 ~-78 ~0 ~8 minecraft:sandstone_bricks
+fill ~-80 ~-1 ~-8 ~-78 ~0 ~-6 minecraft:cut_sandstone
+fill ~-80 ~-1 ~6 ~-78 ~0 ~8 minecraft:cut_sandstone
 fill ~-80 ~1 ~-8 ~-80 ~5 ~-8 minecraft:sandstone
 fill ~-80 ~1 ~8 ~-80 ~5 ~8 minecraft:sandstone
 fill ~-81 ~6 ~-8 ~-79 ~6 ~-8 minecraft:pink_concrete
 fill ~-81 ~6 ~8 ~-79 ~6 ~8 minecraft:pink_concrete
 setblock ~-80 ~7 ~-8 minecraft:sea_lantern
 setblock ~-80 ~7 ~8 minecraft:sea_lantern
-fill ~-100 ~-1 ~-8 ~-98 ~0 ~-6 minecraft:sandstone_bricks
-fill ~-100 ~-1 ~6 ~-98 ~0 ~8 minecraft:sandstone_bricks
+fill ~-100 ~-1 ~-8 ~-98 ~0 ~-6 minecraft:cut_sandstone
+fill ~-100 ~-1 ~6 ~-98 ~0 ~8 minecraft:cut_sandstone
 fill ~-100 ~1 ~-8 ~-100 ~5 ~-8 minecraft:sandstone
 fill ~-100 ~1 ~8 ~-100 ~5 ~8 minecraft:sandstone
 fill ~-101 ~6 ~-8 ~-99 ~6 ~-8 minecraft:pink_concrete
