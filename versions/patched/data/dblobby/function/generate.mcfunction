@@ -35,10 +35,10 @@ function dblobby:regions/plaza_gate_accents
 function dblobby:regions/plaza_art_direction
 function dblobby:regions/hub_architecture_finish
 function dblobby:regions/plaza_orbital_finish
-function dblobby:regions/capsule_city_finish
 function dblobby:regions/capsule_hq_dome
 function dblobby:regions/capsule_hq_interior
 function dblobby:regions/capsule_city_satellites
+function dblobby:regions/capsule_city_finish
 function dblobby:regions/capsule_city_civic_finish
 function dblobby:regions/tournament_arrival_finish
 function dblobby:regions/tournament_venue_finish
@@ -58,4 +58,5 @@ function dblobby:regions/shenron_forelimb_finish
 function dblobby:regions/district_route_finish
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
+
 
