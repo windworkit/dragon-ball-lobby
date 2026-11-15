@@ -29,6 +29,17 @@ fill ~-158 ~133 ~152 ~-152 ~135 ~158 minecraft:air
 fill ~-161 ~133 ~149 ~-149 ~133 ~161 minecraft:smooth_sandstone
 fill ~-160 ~134 ~150 ~-150 ~134 ~160 minecraft:air
 # Broad exterior stair climbs from world level to the cloud plinth and tower entrance.
+fill ~-165 ~0 ~206 ~-145 ~0 ~207 minecraft:stone_bricks
+fill ~-165 ~0 ~204 ~-145 ~1 ~205 minecraft:stone_bricks
+fill ~-165 ~0 ~202 ~-145 ~2 ~203 minecraft:stone_bricks
+fill ~-165 ~0 ~200 ~-145 ~3 ~201 minecraft:stone_bricks
+fill ~-165 ~0 ~198 ~-145 ~4 ~199 minecraft:stone_bricks
+fill ~-165 ~0 ~196 ~-145 ~5 ~197 minecraft:stone_bricks
+fill ~-165 ~0 ~194 ~-145 ~6 ~195 minecraft:stone_bricks
+fill ~-165 ~0 ~192 ~-145 ~7 ~193 minecraft:stone_bricks
+fill ~-165 ~0 ~190 ~-145 ~8 ~191 minecraft:stone_bricks
+fill ~-165 ~0 ~188 ~-145 ~9 ~189 minecraft:stone_bricks
+fill ~-165 ~0 ~186 ~-145 ~10 ~187 minecraft:stone_bricks
 fill ~-166 ~0 ~209 ~-144 ~0 ~210 minecraft:smooth_sandstone
 fill ~-165 ~0 ~208 ~-145 ~0 ~209 minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
 fill ~-166 ~0 ~208 ~-166 ~0 ~209 minecraft:stone_brick_wall
@@ -68,6 +79,7 @@ fill ~-166 ~11 ~186 ~-166 ~11 ~187 minecraft:stone_brick_wall
 fill ~-144 ~11 ~186 ~-144 ~11 ~187 minecraft:stone_brick_wall
 # The raised bridge is supported at the cliff edge and joins the tower's south entry.
 fill ~-164 ~3 ~181 ~-146 ~11 ~185 minecraft:quartz_block
+fill ~-165 ~-1 ~186 ~-145 ~-1 ~209 minecraft:stone_bricks
 fill ~-164 ~12 ~151 ~-146 ~12 ~185 minecraft:smooth_sandstone
 fill ~-163 ~12 ~180 ~-147 ~12 ~151 minecraft:gold_block
 fill ~-162 ~12 ~180 ~-148 ~12 ~151 minecraft:smooth_sandstone
