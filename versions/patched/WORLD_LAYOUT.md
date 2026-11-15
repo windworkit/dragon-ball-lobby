@@ -211,6 +211,7 @@ These are first-pass functional interiors. Korin's shaft is a central ladder-bas
 | --- | --- | --- |
 | Shenron epic anatomy pass | X +76..+219, Z -208..-88, Y +43..+147 | Clears the old compact silhouette above the court and rebuilds a towering coil, chest, neck, broad head, branching horns, swept whiskers, paired clawed forelimbs, dorsal mane, segmented belly, and cloud supports. |
 | Kami's Lookout central shaft and hatch | Shaft X -5..+5, Z +134..+144, Y +141..+168; hall hatch X -4..+4, Z +135..+143, Y +169..+172 | A continuous ladder rises from Korin's Tower through the Lookout keel and opens into the center of the main sanctuary. |
+| Kami's Lookout courtyard finish | Hatch guard at X/Z +/-5 around X0/Z+139, Y +171..+175; south entry walk X -6..+6, Z +108..+119, Y +168..+170 | Three-sided iron-bar guard with quartz/gold posts and an open east access gap, plus a two-tier quartz stair, gold-edged approach promenade, and paired meditation benches. |
 
 The Korin ascent is a continuous central ladder with three rest platforms in the shaft and an interior gallery inside the crown. The Shenron surface pass is block-art detailing; inspect its face orientation and scale placement from the viewing terrace in-game.
 
@@ -538,6 +539,17 @@ interactive tournament logic is assumed.
 ### Korin's Tower complete vertical rebuild
 
 Korin's Tower now occupies the same X/Z center as Kami's Lookout: X 0 / Z +139. The grounded circular base plaza joins the south approach road. A long central shaft rises through repeated cyan-and-gold balcony bands, glazed windows, and a ladder with rest landings. Above it, a hollow rounded crown widens to an approximately 100-by-108-block shell. The stepped cream dome is detailed with concentric courses and raised ribs; the broad red-brown center belt is edged in gold. An open wraparound terrace carries eight porticos, planter trees, and perimeter lights. The lower bowl narrows into a gold keel that meets the Lookout's underside. The ladder continues through the centered Lookout shaft and emerges through the protected hatch in the main sanctuary floor.
+
+### Kami's Lookout courtyard and hatch finish
+
+The raised Lookout receives a final safety and arrival pass at the same +140 Y
+origin as the main sanctuary. A three-sided iron-bar guard surrounds the central
+9x9 Korin ladder hatch, with quartz posts, gold caps and an open east-side entry
+gap; the climbing ladder remains unobstructed. A level quartz promenade extends
+from the south deck edge toward the main hall doorway, then rises on two broad
+quartz stair courses to the sanctuary plinth and interior floor. Gold and pale
+stone inlays guide the route, and paired dark-wood meditation benches flank the
+approach outside the main walking lane.
 
 ### Kami's Lookout complete floating rebuild
 
