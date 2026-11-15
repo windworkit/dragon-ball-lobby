@@ -142,7 +142,7 @@ The Capsule civic finish sits on the existing Y2 square and keeps the central fi
 | Detail | Relative footprint | Purpose |
 | --- | --- | --- |
 | Capsule Corp HQ interior | X -15..+15, Z -173..-153, Y +3..+18 | Reception desk, waiting benches, research pods, wall consoles, and ceiling lights inside the headquarters shell. |
-| Kame House interior | X -149..-121, Z -13..+13, Y -1..+4 | Living room, kitchen counter, dining area, bedroom nook, display wall, and warm lighting. |
+| Kame House complete shell and interior | Main shell X -155..-115, Z -17..+17, Y -2..+17; interior X -150..-120, Z -13..+13, Y -1..+4 | Rounded pink elliptical house, continuous white foundation/belt courses, blue-glass curved windows, centered south door, stepped red domed roof, gold finial, living-room furniture, kitchen, dining table, bed nook, bookshelf wall, and warm lanterns. |
 | Kami's Lookout main sanctuary | X -22..+22, Z +118..+160, Y +170..+216 | Open ceremonial hall, layered golden lower dome, tall white belfry, upper gold dome and finial, with a protected central ladder hatch. |
 | Korin's Tower shaft and crown | Shaft center X 0 / Z +139, Y 0..+83; crown X -50..+50, Z +85..+193, Y +81..+139; outer terrace X -61..+61, Z +79..+199, Y +107..+114 | Terracotta and sandstone shaft rises into a hollow rounded shell with a cream stepped dome, red-brown equatorial belt, window bays, internal gallery, gardened wraparound terrace, and gold keel. |
 
@@ -239,6 +239,23 @@ The four main roads now have repeated paired light pylons to establish a visual 
 A dedicated blue-and-white gateway marks the north road's transition into Capsule City at approximately Z -70. Its quartz piers and lintel frame the road while staying outside the five-block walking lane. Paired low plinths and garden strips provide a small arrival forecourt; the blue pavement band marks the city side of the threshold. This is a decorative district entrance, not a portal or teleport trigger.
 
 
+
+## Kame House complete shell rebuild
+
+The previous box-shaped pink shell and pitched roof are cleared and replaced by
+a rounded ellipse centered near X -135 / Z 0. The walls use a continuous pink
+surface with hollowed interior, white foundation/belt courses, six glazed window
+bays following the curved perimeter, quartz corner pilasters, and a centered
+south-facing doorway. A broad stepped red dome rises above the white eaves to a
+gold finial. The front veranda has a dark-wood deck, sandstone step apron, six
+white supports, and a red layered awning; a turtle-shell crest sits above the
+entry. The interior is refurnished with a living room, bookshelves, kitchen,
+dining table, bedroom nook, and warm lanterns. A continuous pale-sandstone
+walk connects the porch to the existing oak dock. The oval island, beach,
+palms, training garden, Turtle School dojo, and surrounding water remain outside
+the house clear zone. Confirm the rounded silhouette, door clearance, interior
+movement, and dock join in Minecraft.
+
 ## Kame House island arrival promenade
 
 A narrow sandstone connector leaves the west road at the island's eastern edge, then follows the south side of the Kame House shell toward the existing beach path and oak dock. The promenade uses a sandstone stair transition, smooth-sandstone paving, pink identity markers, lanterns, and low coastal planting beds. A small dark-oak landing pad overlaps the existing beach path and pier approach to create a continuous visual connection. The route is deliberately kept outside the house footprint and leaves the dock's central deck clear. Confirm the exact one-block elevation transition and shoreline join in-game.
@@ -257,7 +274,7 @@ reachable.
 | Central spawn plaza | Floor blocks Y0 | One continuous quartz/stone plaza, flush colored district spokes, four social courts, and a rounded nine-block floating Dragon Ball at Y8..16 |
 | Capsule City | Boulevard floor blocks Y2 | Two north-facing stair rows at the city threshold connect the Y0 north road to the raised avenue; civic forecourt and side streets remain at ground level |
 | Tournament district | Concourses Y0; fighting mat Y1 | Previous nested full-height pyramid cleared and replaced with a level spectator concourse and a one-block-high central platform |
-| Kame House island | Beach paths and promenade Y-3..-2 | House faces south, with a red pitched roof, pink-and-white façade, porch, palms, dock, and a short sandstone transition from the west road |
+| Kame House island | Beach paths and promenade Y-3..-2; house floor Y-2; veranda Y-2..-1; domed roof Y+7..+17 | House faces south with a rounded pink shell, large red dome roof, white belt and pilasters, curved blue-glass windows, turtle-shell crest, wraparound veranda, palm grove, dock, and a continuous sandstone walk from the west road |
 | Kami's Lookout | Saucer hull Y+140..167; deck Y+168..169; main hall Y+170; central spire Y+216 | Floating oval sanctuary raised 140 blocks to accommodate the centered Korin crown beneath it; the ladder shaft continues through the central keel |
 | Korin's Tower | Ground plaza Y0..4; shaft Y5..83; rounded crown Y81..139; center X0/Z+139 | Vertically aligned beneath Kami's Lookout, with a hollow dome, wraparound terrace, and continuous ladder into the Lookout's central hatch |
 | Shenron Valley | Visitor court Y31; seven Dragon Ball displays Y32..39 | A level display court, seven separated orb pedestals, layered cloud banks, and a thick C-shaped Shenron coil at approximately Y45..92 |
