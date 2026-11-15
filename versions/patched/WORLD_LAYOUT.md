@@ -66,11 +66,22 @@ Four compact display stations are built into the diagonal side bays around the c
 | --- | --- | --- |
 | Four crown columns | X/Z -18..-13 and +13..+18, Y +1..+17 | Tall quartz supports with gold collars and illuminated caps, framing the arrival pad. |
 | Open crown roof | X/Z -18..+18, Y +18..+19 | Four roof wings form a square canopy with an 11x11 center aperture, keeping the floating Dragon Ball visible. |
+| Orbital Dragon Ball finish | Halo rings at Y +7 and Y +17 inside the rotunda aperture; eight-point floor rays at X/Z +/-7..18, Y0 | Gold, light-blue glass, quartz and sea-lantern rings frame the one-star orb; four diagonal polished-deepslate rays with gold markers complete the floor compass without raising the walking surface. |
 | Crown spires | Four corner positions, Y +20..+25 | Short illuminated spires establish a recognizable central hub skyline. |
 | Seating bays | X -12..-7 and +7..+12, Z -12..-10 and +10..+12, Y +1 | Low dark-oak benches around the central walking ring. |
 | Compass medallions | Four cardinal points, X/Z 27..31 or -31..-27, Y +1..+2 | Color-coded floor markers reinforce the four district routes. |
 
 The rotunda is intentionally open-air and elevated above the player route. Its center roof aperture preserves a clear view of the Dragon Ball. Use `/function dblobby:hub` in-game for the player-facing district guide; `/function dblobby:help` remains the builder command list.
+
+## Central Dragon Ball orbital and radial finish
+
+A lower gold-and-glass halo sits just below the floating one-star Dragon Ball,
+while a second luminous gold-and-sea-lantern halo frames it from above. Both
+rings stay inside the rotunda's open roof aperture and leave the orb visible.
+Four diagonal polished-deepslate floor rays extend the existing four-color
+compass into an eight-point radial medallion; intermittent gold markers and
+quartz corner anchors remain flush at Y0. The cardinal roads and the public
+walking surface are unchanged.
 
 ## Plaza social seating and compass inlays
 
