@@ -21,13 +21,6 @@ function dblobby:regions/kame_island_detail
 function dblobby:regions/kame_house_interior
 function dblobby:regions/kame_dock_details
 function dblobby:regions/kame_island_arrival
-function dblobby:regions/kamis_lookout
-function dblobby:regions/kamis_lookout_expansion
-function dblobby:regions/kamis_lookout_access
-function dblobby:regions/kamis_lookout_interior
-function dblobby:regions/lookout_sanctuary_details
-function dblobby:regions/korins_tower
-function dblobby:regions/korins_tower_access
 function dblobby:regions/shenron_valley
 function dblobby:regions/shenron_valley_terrain_finish
 function dblobby:regions/shenron_giant_form
@@ -50,11 +43,9 @@ function dblobby:regions/tournament_venue_finish
 function dblobby:regions/tournament_spectator_finish
 function dblobby:regions/kame_house_finish
 function dblobby:regions/kame_training_pavilion
-function dblobby:regions/kamis_lookout_finish
-function dblobby:regions/kamis_lookout_underclouds
-function dblobby:regions/kamis_lookout_complete_rebuild
-function dblobby:regions/korins_tower_finish
-function dblobby:regions/korins_tower_base_finish
+function dblobby:regions/kamis_lookout_legacy_clear
+execute positioned ~ ~140 ~ run function dblobby:regions/kamis_lookout_complete_rebuild
+function dblobby:regions/korins_tower_complete_rebuild
 function dblobby:regions/shenron_valley_access
 function dblobby:regions/shenron_sculpture_finish
 function dblobby:regions/shenron_epic_rebuild
@@ -62,3 +53,4 @@ function dblobby:regions/shenron_anatomy_finish
 function dblobby:regions/shenron_forelimb_finish
 spawnpoint @s ~ ~3 ~
 tellraw @s {"text":"[Dragon Ball Lobby] Generation complete! Explore the roads leading north, east, west, and south.","color":"green"}
+
