@@ -561,7 +561,7 @@ fill ~-4 ~8 ~140 ~4 ~83 ~140 minecraft:air
 fill ~-4 ~8 ~141 ~4 ~83 ~141 minecraft:air
 fill ~-4 ~8 ~142 ~4 ~83 ~142 minecraft:air
 fill ~-4 ~8 ~143 ~4 ~83 ~143 minecraft:air
-fill ~-4 ~8 ~136 ~-4 ~167 ~136 minecraft:ladder[facing=east]
+fill ~-4 ~8 ~136 ~-4 ~169 ~136 minecraft:ladder[facing=east]
 # Internal rest platforms with open ladder wells.
 fill ~-4 ~24 ~135 ~4 ~24 ~143 minecraft:smooth_sandstone
 fill ~-2 ~24 ~137 ~2 ~24 ~141 minecraft:air
@@ -5961,4 +5961,6 @@ fill ~-50 ~104 ~136 ~-45 ~113 ~142 minecraft:air
 # Preserve the vertical ladder at X-4/Z+136 through the centered Lookout shaft.
 fill ~-4 ~138 ~135 ~4 ~139 ~143 minecraft:air
 fill ~-3 ~138 ~136 ~3 ~139 ~142 minecraft:smooth_quartz
+# Reassert the ladder after rest landings and the crown docking collar.
+fill ~-4 ~8 ~136 ~-4 ~169 ~136 minecraft:ladder[facing=east]
 # End of centered Korin's Tower rebuild.
