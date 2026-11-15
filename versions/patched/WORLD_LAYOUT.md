@@ -371,3 +371,31 @@ The face receives a recessed mouth, lower jaw, fangs, nostrils, curled whisker
 ends, and curved horn tips. A fan-shaped detail widens the tail root before it
 tapers to the original tip. The finish avoids the seven orb plinths and preserves
 the south-facing visitor terrace sightline.
+
+## Shenron Valley — natural terrain and oval display court
+
+The former stack of rectangular stone platforms has been replaced by nested
+oval terraces centered near X143/Z-137. The lower foundation remains within
+the original district footprint, while each higher shelf narrows toward the
+seven-ball display. Materials transition from stone and coarse dirt through
+stone brick, andesite, deepslate brick, and upper stone. Irregular cobble and
+moss outcrops soften the terrace edges. A small enclosed spring sits on the
+north-west upper shoulder.
+
+The seven-ball court at Y31 is now an oval with a two-block polished-blackstone
+perimeter and a lighter interior floor. The surrounding moss shelf is also
+oval, and the garden beds on both sides of the south approach are restored.
+The nine-block-wide polished-andesite path connects the court to the viewing
+deck and southern gate.
+
+The south-west entry from Capsule City is cut through the lower hillside at
+Y2, with open headroom before the staircase begins. The thirty-stage stair
+climbs to the Y31 visitor deck, and a broad stone promontory with buttress
+footings supports the elevated causeway. Four structural piers extend beneath
+the viewing deck so its outer corners are anchored rather than appearing to
+float. The deck, rails, lighting, and open north-facing sightline remain.
+
+All these coordinates are relative to the /function dblobby:generate
+execution position. The new landscape is statically validated, but the water
+simulation, terrain transition, path clearance, support visibility, and
+multi-angle dragon sightlines still need a real Java 1.21.1 visual check.
