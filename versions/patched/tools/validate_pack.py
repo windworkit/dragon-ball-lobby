@@ -23,7 +23,7 @@ FILL = re.compile(
     r"^fill\s+(\S+)\s+(\S+)\s+(\S+)\s+"
     r"(\S+)\s+(\S+)\s+(\S+)\s+(\S+)(?:\s+.*)?$"
 )
-BLOCK_STATE = re.compile(r"minecraft:([a-z0-9_]+)(?:\\[([^\\]]+)\\])?")
+BLOCK_STATE = re.compile(r"minecraft:([a-z0-9_]+)(?:\[([^\]]+)\])?")
 
 
 def coordinate(token: str) -> int:
