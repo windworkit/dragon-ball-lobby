@@ -83,10 +83,11 @@ shelf, while the oval display court and garden approach join the supported
 viewing deck. The Capsule City approach is cut through the lower hillside and
 climbs by a long stair to the elevated causeway.
 
-The latest Shenron anatomy pass adds the second pair of legs, individual toes
-and gold claws, a fanned tail, tapered whisker filaments, branching horn tines,
-a layered nape mane, and a stepped dorsal crest. These additions are generated
-after the main statue so the face, limbs, and silhouette details remain visible.
+The latest Shenron anatomy passes add the second pair of legs, a more visible
+outward-swept front pair of arms, separated toes and gold claws, a fanned tail,
+tapered whisker filaments, branching horn tines, a layered nape mane, and a
+stepped dorsal crest. These additions are generated after the main statue so
+the face, limbs, and silhouette details remain visible.
 - Korin's Tower cloud-plinth finish with chamfered tiers, soft cloud lobes, and a blue-and-gold entrance frame.
 - Kami's Lookout cloud underbelly with layered cloud banks and restrained gold/quartz underside ribs.
 - Kame Island Turtle School pavilion with a red roof, shell crest, practice targets, benches, and lanterns.
